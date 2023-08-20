@@ -1,5 +1,6 @@
 import json
 
+
 def reorder_resistances(raw: list) -> list:
     return [
         raw[0],
@@ -9,6 +10,7 @@ def reorder_resistances(raw: list) -> list:
         raw[4],
     ]
 
+
 def map_skills_map(raw: dict, skill_ids: dict) -> dict:
     skills = {}
     for s in raw:
@@ -17,10 +19,11 @@ def map_skills_map(raw: dict, skill_ids: dict) -> dict:
         try:
             v = int(s["q"])
         except:
-            v = 0 # torso up
+            v = 0  # torso up
         skills[id] = v
 
     return skills
+
 
 def map_deco(raw: dict, skill_ids: dict) -> dict:
     return {
@@ -54,7 +57,8 @@ if __name__ == "__main__":
         for piece in armor_category["armor"]:
             # get attributes
             name = piece["name"]
-            if name == "None": continue
+            if name == "None":
+                continue
             defe = piece["defense"]
 
             # get type
@@ -78,8 +82,8 @@ if __name__ == "__main__":
                 "skills": map_skills_map(skills, skill_ids),
                 "slots": piece["slots"][-1],
                 "defense": {
-                   "base": defe[0], 
-                   "max": defe[-1], 
+                    "base": defe[0],
+                    "max": defe[-1],
                 },
                 "type": type,
                 "resistance": reorder_resistances(piece["resistances"]),

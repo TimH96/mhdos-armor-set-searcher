@@ -2,8 +2,10 @@ import json
 
 CATEGORIES = []
 
+
 def clean_name(s: str) -> str:
     return s.split("<")[0]
+
 
 if __name__ == "__main__":
     # read input
