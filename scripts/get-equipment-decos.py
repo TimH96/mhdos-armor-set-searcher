@@ -61,6 +61,13 @@ if __name__ == "__main__":
                 continue
             defe = piece["defense"]
 
+            # skip if unacquirable
+            try:
+                piece["acquire"]
+                continue
+            except:
+                pass
+
             # get type
             try:
                 x = piece["hunterClass"]
