@@ -1,6 +1,6 @@
 {
   "name": "mhdos-armor-set-searcher",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "web-based armor set searcher for Monster Hunter Dos",
   "main": "index.js",
   "repository": {
