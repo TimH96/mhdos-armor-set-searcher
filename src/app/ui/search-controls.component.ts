@@ -1,4 +1,3 @@
-import UserCharmList from '../../data-provider/models/user/UserCharmList'
 import ArmorSet from '../../searcher/models/ArmorSet'
 import SearchConstraints from '../../searcher/models/SearchConstraints'
 import StaticEquipmentData from '../../data-provider/models/equipment/StaticEquipmentData'
@@ -63,7 +62,7 @@ const searchLogic = (equData: StaticEquipmentData, skillData: StaticSkillData) =
   const result = search(
     equData.armor,
     equData.decorations,
-    UserCharmList.Instance.get(),
+    [],
     searchParams,
     skillData,
   )
@@ -79,8 +78,6 @@ const moreSkillsLogic = async (equData: StaticEquipmentData, skillData: StaticSk
     alert('Please select at least one skill')
     return
   }
-
-  const charms = UserCharmList.Instance.get()
 
   const aquirableSkills: SkillActivation[] = []
 
@@ -111,7 +108,7 @@ const moreSkillsLogic = async (equData: StaticEquipmentData, skillData: StaticSk
           const innerR = search(
             equData.armor,
             equData.decorations,
-            charms,
+            [],
             newParams,
             skillData,
           )

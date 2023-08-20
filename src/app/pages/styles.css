@@ -188,54 +188,6 @@ ul {
   padding: 0 0.4em;
 }
 
-/* charms */
-
-#charm-picker {
-  padding-bottom: 0.4em;
-  border-width: 0 0 1px 0;
-  border-style: solid;
-  border-color: var(--color-border);
-}
-
-#charm-import {
-  margin-left: 2em;
-}
-
-.charm-skill-pick {
-  width: 10em;
-}
-
-.charm-points-pick {
-  width: 3em;
-}
-
-#charm-table {
-  margin-top: 2em;
-}
-
-#charm-table tr,
-td,
-th {
-  width: 6em;
-  text-align: center;
-  font-size: 1.1em;
-}
-
-#charm-table tr {
-  border-width: 1px 0;
-  border-color: var(--color-border);
-  border-style: solid;
-}
-
-#charm-table th {
-  background-color: var(--color-highlight);
-}
-
-.charm-delete {
-  cursor: pointer;
-  user-select: none;
-}
-
 /* eq-settings */
 
 #eq-container {

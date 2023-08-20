@@ -45,7 +45,6 @@
       <div id="navbar-container">
         <ul class="navbar">
           <li class="navbar-option" data-selection="0">Search</li>
-          <li class="navbar-option" data-selection="1">Charms</li>
           <li class="navbar-option" data-selection="2">Equipment</li>
         </ul>
       </div>
@@ -71,29 +70,21 @@
             </li>
             <li>
               <select name="armor-rarity" id="armor-rarity">
-                <optgroup label="High Rank">
-                  <option value="7">Armor RARE7</option>
-                  <option value="6">Armor RARE6</option>
-                  <option value="5">Armor RARE5</option>
-                  <option value="4">Armor RARE4</option>
-                </optgroup>
-                <optgroup label="Low Rank">
-                  <option value="3">Armor RARE3</option>
-                  <option value="2">Armor RARE2</option>
-                  <option value="1">Armor RARE1</option>
-                </optgroup>
+                <option value="7">Armor RARE7</option>
+                <option value="6">Armor RARE6</option>
+                <option value="5">Armor RARE5</option>
+                <option value="4">Armor RARE4</option>
+                <option value="3">Armor RARE3</option>
+                <option value="2">Armor RARE2</option>
+                <option value="1">Armor RARE1</option>
               </select>
             </li>
             <li>
               <select name="deco-rarity" id="deco-rarity">
-                <optgroup label="High Rank">
-                  <option value="7">Deco RARE7</option>
-                  <option value="6">Deco RARE6</option>
-                </optgroup>
-                <optgroup label="Low Rank">
-                  <option value="5">Deco RARE5</option>
-                  <option value="4">Deco RARE4</option>
-                </optgroup>
+                <option value="7">Deco RARE7</option>
+                <option value="6">Deco RARE6</option>
+                <option value="5">Deco RARE5</option>
+                <option value="4">Deco RARE4</option>
               </select>
             </li>
             <li>
@@ -123,76 +114,6 @@
 
         <!-- results -->
         <div id="search-results"></div>
-      </div>
-
-      <!-- charms -->
-      <div class="panel" id="charms-container" data-panel-number="1">
-        <!-- charm picker -->
-        <div id="charm-picker">
-          <ul>
-            <li>Add Charm</li>
-            <li>
-              <select
-                class="charm-skill-pick"
-                name="charm-skill-1-name"
-                id="charm-skill-1-name"
-              ></select>
-            </li>
-            <li>
-              <select
-                class="charm-points-pick"
-                name="charm-skill-1-points"
-                id="charm-skill-1-points"
-              ></select>
-            </li>
-            <li>
-              <select
-                class="charm-skill-pick"
-                name="charm-skill-2-name"
-                id="charm-skill-2-name"
-              ></select>
-            </li>
-            <li>
-              <select
-                class="charm-points-pick"
-                name="charm-skill-2-points"
-                id="charm-skill-2-points"
-              ></select>
-            </li>
-            <li>
-              <select name="charm-slots" id="charm-slots">
-                <option value="0">0 Slots</option>
-                <option value="1">1 Slots</option>
-                <option value="2">2 Slots</option>
-                <option value="3">3 Slots</option>
-              </select>
-            </li>
-            <li><button id="charm-add">Add</button></li>
-            <li><button id="charm-import">Import</button></li>
-            <li><button id="charm-export">Export</button></li>
-          </ul>
-          <a href="" id="charm-download" style="display: none"></a>
-          <input
-            type="file"
-            id="charm-upload"
-            accept=".csv"
-            style="display: none"
-          />
-        </div>
-
-        <!-- charm table -->
-        <div id="charm-table-container">
-          <table id="charm-table">
-            <tr>
-              <th>Skill</th>
-              <th>Points</th>
-              <th>Skill</th>
-              <th>Points</th>
-              <th>Slots</th>
-              <th>Delete</th>
-            </tr>
-          </table>
-        </div>
       </div>
 
       <!-- eq settings -->

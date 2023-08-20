@@ -52,7 +52,6 @@ const getExpandedView = (set: ArmorSet, skillData: StaticSkillData, searchParams
       <th style="width: 6%">Arms</th>
       <th style="width: 6%">Waist</th>
       <th style="width: 6%">Legs</th>
-      <th style="width: 6%">Charm</th>
       <th style="width: 6%">Deco</th>
       <th style="width: 6%">Total</th>
       <th>Active</th>
@@ -74,7 +73,6 @@ const getExpandedView = (set: ArmorSet, skillData: StaticSkillData, searchParams
       for (const p of set.getPieces()) {
         r.append(htmlToElement(`<td>${p.skills.get(sId) ? p.skills.get(sId)! : ''}</td>`))
       }
-      r.append(htmlToElement(`<td>${set.charm.skills.get(sId) ? set.charm.skills.get(sId)! : ''}</td>`))
       r.append(htmlToElement(`<td>${computedDecoValue || ''}</td>`))
       r.append(htmlToElement(`<td>${sVal}</td>`))
       const possibleAct = set.evaluation!.activations.find(a => a.requiredSkill === sId)
@@ -85,7 +83,7 @@ const getExpandedView = (set: ArmorSet, skillData: StaticSkillData, searchParams
   // build slot list
   const slotRow = document.createElement('tr')
   slotRow.appendChild(htmlToElement('<td>Slots</td>'))
-  const rawSlowList = [searchParams.weaponSlots, ...set.getPieces().map(x => x.slots), set.charm.slots]
+  const rawSlowList = [searchParams.weaponSlots, ...set.getPieces().map(x => x.slots)]
   rawSlowList.forEach(s => slotRow.appendChild(htmlToElement(`<td>${s}</td>`)))
 
   // append elements to table
@@ -187,7 +185,6 @@ const getSetElement = (set: ArmorSet, skillData: StaticSkillData, searchParams: 
       <td>${set.arms.name}</td>
       <td>${set.waist.name}</td>
       <td>${set.legs.name}</td>
-      <td>${set.charm.name}</td>
     </tr>`)
   const row2 = htmlToElement(`
     <tr class="result-set-row result-set-row2">
@@ -276,7 +273,7 @@ export const renderResults = (sets: ArmorSet[], skillData: StaticSkillData, sear
 
   // build table and table header
   const table = htmlToElement('<table class="results-table" id="results-table"></table>')
-  const header = htmlToElement('<tr><th>Head</th><th>Torso</th><th>Arms</th><th>Waist</th><th>Legs</th><th>Charm</th></tr>')
+  const header = htmlToElement('<tr><th>Head</th><th>Torso</th><th>Arms</th><th>Waist</th><th>Legs</th></tr>')
   resultContainer.appendChild(table)
   table.appendChild(header)
 

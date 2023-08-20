@@ -1,6 +1,5 @@
 import { getArms, getChest, getDecorations, getHead, getLegs, getSkillActivationMap, getSkillCategories, getSkillNameMap, getWaist } from '../../data-provider/data-provider.module'
 import StaticSkillData from '../../data-provider/models/skills/StaticSkillData'
-import { renderCharmPicker } from '../ui/charms.component'
 import { renderEqSettings } from '../ui/eq-settings.component'
 import { initiateNavbar } from '../ui/navbar.component'
 import { renderSkillPicker } from '../ui/picker.component'
@@ -20,7 +19,7 @@ const main = async () => {
   ]
   const decorations = await getDecorations()
 
-  // load skill data and render skill picker and charms with it
+  // load skill data and render skill picker with it
   const skillData: StaticSkillData = {
     skillName: await getSkillNameMap(),
     skillActivation: await getSkillActivationMap(),
@@ -29,7 +28,6 @@ const main = async () => {
 
   // render ui
   renderSkillPicker(skillData.skillActivation, skillData.skillCategories)
-  renderCharmPicker(skillData.skillName, skillData.skillActivation, skillData.skillCategories)
   renderEqSettings(armor)
 
   // initialize search controls
