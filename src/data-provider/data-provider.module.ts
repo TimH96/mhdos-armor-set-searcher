@@ -9,7 +9,7 @@ import SkillNameMap from './models/skills/SkillNameMap'
 
 const MAX_RARITY = 7
 
-const TORSO_UP_ID = 83
+const TORSO_UP_ID = 65
 
 const DUMMY_PIECE: ArmorPiece = {
   name: 'None',
