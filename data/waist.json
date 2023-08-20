@@ -1,0 +1,5559 @@
+[
+    {
+        "category": 3,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Leather Belt",
+        "rarity": 1,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "24": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 7,
+            "max": 21
+        },
+        "name": "Leather Belt U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "24": 3,
+            "63": 2,
+            "70": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 11,
+            "max": 35
+        },
+        "name": "Leather Belt S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "11": 2,
+            "24": 2,
+            "57": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Skin Belt",
+        "rarity": 1,
+        "resistance": [
+            -2,
+            2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "34": 1,
+            "66": 4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Chain Belt",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "66": 2,
+            "70": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 8,
+            "max": 23
+        },
+        "name": "Chain Belt U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "21": 2,
+            "24": 2,
+            "28": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 36
+        },
+        "name": "Chain Belt S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 3,
+            "70": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 4,
+            "max": 28
+        },
+        "name": "Iron Belt",
+        "rarity": 1,
+        "resistance": [
+            4,
+            -4,
+            -2,
+            -6,
+            0
+        ],
+        "skills": {
+            "59": 3,
+            "60": 2,
+            "70": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 4,
+            "max": 24
+        },
+        "name": "Hunter's Tasset",
+        "rarity": 1,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Hunter's Tasset U",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "34": 2,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 51
+        },
+        "name": "Hunter's Tasset S",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "20": 2,
+            "32": 3,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Hunter's Coat",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 11,
+            "max": 24
+        },
+        "name": "Hunter's Coat U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "34": 2,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 13,
+            "max": 39
+        },
+        "name": "Hunter's Coat S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "32": 3,
+            "39": 2,
+            "40": 2,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 9,
+            "max": 26
+        },
+        "name": "Bone Tasset",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "30": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Bone Tasset U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "17": 1,
+            "28": 2
+        },
+        "slots": 3,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 54
+        },
+        "name": "Bone Tasset S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "5": 2,
+            "29": 1,
+            "59": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Bone Coat",
+        "rarity": 1,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "30": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Bone Coat U",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "1": 1,
+            "2": 2,
+            "46": -2
+        },
+        "slots": 3,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "Bone Coat S",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 2,
+            "29": 1,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Velociprey Tasset",
+        "rarity": 2,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "34": 3,
+            "58": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Velociprey Tasset U",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "28": 2,
+            "29": 2,
+            "38": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Velociprey Tasset S",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "5": 2,
+            "22": -2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 5,
+            "max": 13
+        },
+        "name": "Velociprey Coat",
+        "rarity": 2,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "11": 3,
+            "59": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Velociprey Coat U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "29": 2,
+            "38": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Velociprey Coat S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "39": 2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Battle Tasset",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "3": -3,
+            "5": 2,
+            "20": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Battle Tasset U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "28": 1,
+            "54": 1,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Battle Tasset S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "21": -2,
+            "59": -1,
+            "62": 1,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 6,
+            "max": 13
+        },
+        "name": "Battle Coat",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "37": 2,
+            "51": -3,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Battle Coat U",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "41": 1,
+            "46": -2,
+            "52": 3,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Battle Coat S",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "16": 2,
+            "19": 1,
+            "46": -2,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 11,
+            "max": 30
+        },
+        "name": "Hide Belt",
+        "rarity": 2,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "10": -2,
+            "19": 2,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Tasset",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "43": -3,
+            "54": 2,
+            "58": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 23,
+            "max": 46
+        },
+        "name": "Vespoid Tasset U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "50": 2,
+            "51": 3,
+            "61": -2,
+            "71": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 27,
+            "max": 58
+        },
+        "name": "Vespoid Tasset S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "38": 3,
+            "50": -2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Vespoid Coat",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "11": 2,
+            "38": 1,
+            "59": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Coat U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "41": 2,
+            "50": 3,
+            "60": 2,
+            "70": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Vespoid Coat S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "42": 2,
+            "52": -2,
+            "59": 3,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 14,
+            "max": 29
+        },
+        "name": "Hornet Tasset",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 5,
+            "16": 1,
+            "46": -1,
+            "51": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hornet Tasset U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 2,
+            "57": 3,
+            "59": 2,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hornet Tasset S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "0": 1,
+            "15": 3,
+            "31": -3,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 8,
+            "max": 16
+        },
+        "name": "Hornet Coat",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 5,
+            "16": 1,
+            "46": -1,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Hornet Coat U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 2,
+            "16": 2,
+            "46": -1,
+            "57": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Hornet Coat S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "0": 1,
+            "15": 3,
+            "31": -3,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 27
+        },
+        "name": "Hi-Metal Tasset",
+        "rarity": 2,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "28": 3,
+            "55": -1,
+            "67": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hi-Metal Tasset U",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -1,
+            "28": 2,
+            "30": -4,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hi-Metal Tasset S",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 2,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Hi-Metal Coat",
+        "rarity": 2,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "1": 1,
+            "22": -2,
+            "28": 3,
+            "46": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Hi-Metal Coat U",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "22": -1,
+            "28": 2,
+            "30": -4,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "Hi-Metal Coat S",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 2,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Genprey Tasset",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "10": -1,
+            "29": 2,
+            "38": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Genprey Tasset U",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "14": -3,
+            "27": 2,
+            "38": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Genprey Tasset S",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 8,
+            "max": 17
+        },
+        "name": "Genprey Coat",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "38": 3,
+            "59": -3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Genprey Coat U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "40": 2,
+            "46": -3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Genprey Coat S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 36
+        },
+        "name": "Chrome Metal Coil",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "28": 2,
+            "59": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 30
+        },
+        "name": "Kut-Ku Tasset",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "63": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Kut-Ku Tasset U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "19": 3,
+            "59": -1,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 33,
+            "max": 64
+        },
+        "name": "Kut-Ku Tasset S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "19": 2,
+            "44": -5,
+            "60": 1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 9,
+            "max": 15
+        },
+        "name": "Kut-Ku Coat",
+        "rarity": 3,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "60": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Kut-Ku Coat U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "19": 3,
+            "59": -1,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Kut-Ku Coat S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "33": 2,
+            "44": -4,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Ioprey Tasset",
+        "rarity": 2,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 2,
+            "60": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 48
+        },
+        "name": "Ioprey Tasset U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "43": 3,
+            "62": 2
+        },
+        "slots": 3,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Ioprey Tasset S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 3,
+            "60": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 8,
+            "max": 18
+        },
+        "name": "Ioprey Coat",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "37": 2,
+            "43": 2,
+            "51": -3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Ioprey Coat U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "62": 2
+        },
+        "slots": 3,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Ioprey Coat S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "38": -2,
+            "43": 3,
+            "60": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Gypceros Tasset",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": -1,
+            "43": 3,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gypceros Tasset U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "54": 2,
+            "59": -2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 32,
+            "max": 68
+        },
+        "name": "Gypceros Tasset S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "30": -4,
+            "43": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Gypceros Coat",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "59": -2,
+            "61": -1,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Gypceros Coat U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "1": 2,
+            "43": 3,
+            "59": -2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Gypceros Coat S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "30": -4,
+            "43": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 29
+        },
+        "name": "Cephalos Tasset",
+        "rarity": 2,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "43": -3,
+            "54": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Cephalos Tasset U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 3,
+            "54": 2,
+            "62": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Cephalos Tasset S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 3,
+            "59": 2
+        },
+        "slots": 3,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 10,
+            "max": 17
+        },
+        "name": "Cephalos Coat",
+        "rarity": 2,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "29": 2,
+            "38": -3,
+            "59": 1,
+            "60": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 16,
+            "max": 24
+        },
+        "name": "Cephalos Coat U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "29": 2,
+            "41": 1,
+            "47": 2,
+            "64": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Cephalos Coat S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "29": 3,
+            "40": 2,
+            "52": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 31
+        },
+        "name": "Steel Belt",
+        "rarity": 2,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 3,
+            "43": -4,
+            "54": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Steel Belt U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 5
+        },
+        "slots": 3,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 30,
+            "max": 64
+        },
+        "name": "Steel Belt S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "28": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Rathian Tasset",
+        "rarity": 3,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "12": -2,
+            "16": 2,
+            "28": 2,
+            "59": 3,
+            "70": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Rath Heart Tasset",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "0": 1,
+            "28": 2,
+            "56": -2,
+            "62": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Rathian Tasset S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "16": 2,
+            "28": 3,
+            "46": -1,
+            "58": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 20
+        },
+        "name": "Rathian Coat",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "12": -2,
+            "14": 3,
+            "28": 2,
+            "59": 2,
+            "70": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Rath heart Coat",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "0": 1,
+            "28": 2,
+            "56": -2,
+            "62": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Rathian Coat S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "28": 3,
+            "41": 3,
+            "46": -1,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 26,
+            "max": 37
+        },
+        "name": "Khezu Tasset",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": -3,
+            "50": 3,
+            "62": 2,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Khezu Tasset U",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -3,
+            0,
+            4,
+            0
+        ],
+        "skills": {
+            "50": 2,
+            "59": 1,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Khezu Tasset S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": 1,
+            "43": -1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 13,
+            "max": 20
+        },
+        "name": "Khezu Coat",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "43": -3,
+            "50": 3,
+            "62": 2,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Khezu Coat U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            -1,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "49": 1,
+            "50": 2,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Khezu Coat S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "21": 1,
+            "43": -1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Rathalos Tasset",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 37,
+            "max": 54
+        },
+        "name": "Rath Soul Tasset",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            0,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 4,
+            "14": -3,
+            "20": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 39,
+            "max": 76
+        },
+        "name": "Rathalos Tasset S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 5,
+            "26": 2,
+            "62": -4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Rathalos Coat",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 31
+        },
+        "name": "Rath Soul Coat",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "24": -3,
+            "39": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Rathalos Coat S",
+        "rarity": 7,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 5,
+            "50": -4,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Basarios Tasset",
+        "rarity": 3,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "43": 2,
+            "62": 2,
+            "67": 2,
+            "69": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Basarios Tasset U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "43": 3,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Basarios Tasset S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "29": 1,
+            "43": 2,
+            "62": 2,
+            "69": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 10,
+            "max": 20
+        },
+        "name": "Basarios Coat",
+        "rarity": 3,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "33": 3,
+            "43": 1,
+            "52": -3,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 28
+        },
+        "name": "Basarios Coat U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "43": 3,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Basarios Coat S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "29": 1,
+            "43": 2,
+            "62": 2,
+            "69": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Diablo Tasset",
+        "rarity": 3,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "21": -1,
+            "28": 1,
+            "44": 2,
+            "67": 1,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 39,
+            "max": 57
+        },
+        "name": "Diablo Coat U",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 41,
+            "max": 81
+        },
+        "name": "Diablo Coat S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 23
+        },
+        "name": "Diablo Coat",
+        "rarity": 3,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": -2,
+            "28": 1,
+            "33": 1,
+            "52": -1,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Diablo Coat U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Diablo Coat S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 30,
+            "max": 44
+        },
+        "name": "Monoblos Tasset",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "32": 2,
+            "51": -3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 40,
+            "max": 58
+        },
+        "name": "Monodevil Tasset",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "27": 1,
+            "32": 2,
+            "44": 2,
+            "51": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Monoblos Tasset S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "32": 2,
+            "44": 1,
+            "51": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Monoblos Coat",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 2,
+            "32": 2,
+            "51": -3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Monodevil Coat",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "32": 3,
+            "33": 1,
+            "44": 3,
+            "46": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "monoblos Coat S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "28": 1,
+            "32": 1,
+            "42": 2,
+            "44": 1,
+            "52": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gravios Tasset",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "26": 2,
+            "29": 2,
+            "59": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 41,
+            "max": 61
+        },
+        "name": "Gravios Tasset U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "14": 1,
+            "26": 3,
+            "28": 1,
+            "59": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Gravios Tasset S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "14": 4,
+            "26": 4,
+            "54": -2,
+            "59": -1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Gravios Coat",
+        "rarity": 3,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "29": 2,
+            "70": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Gravios Coat U",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 1,
+            "30": -2,
+            "49": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Gravios Coat S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "14": 4,
+            "30": -3,
+            "49": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Black Belt Tasset",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "65": 0
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 37
+        },
+        "name": "Black Belt Tasset S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "skills": {
+            "20": 5,
+            "54": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 3,
+            "max": 8
+        },
+        "name": "Mosswine Hip",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "17": 2,
+            "25": 3,
+            "30": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Makluva Coat",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            0,
+            2,
+            2
+        ],
+        "skills": {
+            "19": 3,
+            "24": 3,
+            "57": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Bistro Apron",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "12": 5,
+            "23": 3,
+            "25": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Belt \"Sun\"",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "55": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Belt \"Sky\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "7": 3,
+            "10": -3,
+            "19": 4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Belt \"Heaven\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "53": 2,
+            "60": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Belt \"Moon\"",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "55": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Belt \"Sea\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "7": 2,
+            "29": -3,
+            "30": 2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Belt \"Earth\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "53": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Coil",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Coil U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Coil",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Coil",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Coat",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Coat U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Coat",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 2,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Coat",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 3,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Helper Skirt",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Helper Skirt U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Coil",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Coil",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Healer Frill",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Healer Frill U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Coat",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 2,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Coat",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 3,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Garuga Tasset",
+        "rarity": 5,
+        "resistance": [
+            2,
+            0,
+            0,
+            2,
+            0
+        ],
+        "skills": {
+            "20": 3,
+            "24": -3,
+            "26": 2,
+            "30": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Garuga Coat",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "11": -2,
+            "30": 2,
+            "41": 2,
+            "45": -2,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Auroros Tasset",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 3,
+            "50": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Auroros Tasset Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 1,
+            "44": -2,
+            "50": 4
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Auroros Tasset Ha",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Genesis Tasset",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "47": 2,
+            "50": 4,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Genesis Tasset Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 3,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Genesis Tasset Ha",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 2,
+            "47": 3,
+            "52": -4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Borealis Tasset",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 3,
+            "50": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Borealis Tasset Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 1,
+            "44": -2,
+            "50": 4
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Borealis Tasset Ha",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Glyph Tasset",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "47": 2,
+            "50": 4,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Glyph Tasset Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 3,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Glyph Tasset Ha",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 2,
+            "47": 3,
+            "52": -4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Red Borealis Tasset",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            0,
+            0,
+            -4
+        ],
+        "skills": {
+            "34": -2,
+            "47": 3,
+            "50": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Red Glyph Tasset",
+        "rarity": 5,
+        "resistance": [
+            3,
+            1,
+            1,
+            2,
+            -2
+        ],
+        "skills": {
+            "47": 3,
+            "50": 2,
+            "59": -4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 38,
+            "max": 56
+        },
+        "name": "Dragonwing",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "38": 3,
+            "43": 3,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 48,
+            "max": 70
+        },
+        "name": "Fatalis Crimsonwing",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "5": 6,
+            "72": 5
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 48,
+            "max": 93
+        },
+        "name": "Dragonwing S",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 5,
+            "27": -2,
+            "54": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Dragontail",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -2,
+            "39": 4,
+            "49": 3,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Fatalis Crimsontail",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "9": 4,
+            "28": -5,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 29,
+            "max": 48
+        },
+        "name": "Dragontail S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "13": 4,
+            "28": -3,
+            "52": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 50,
+            "max": 82
+        },
+        "name": "Golden Moon Coil",
+        "rarity": 7,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Golden Moon Coat",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 53,
+            "max": 85
+        },
+        "name": "Silver Sol Coil",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            0,
+            -1,
+            1
+        ],
+        "skills": {
+            "5": 4,
+            "17": -2,
+            "32": 2,
+            "50": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Silver Sol Coat",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            1,
+            2
+        ],
+        "skills": {
+            "5": 4,
+            "9": 3,
+            "17": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 16,
+            "max": 32
+        },
+        "name": "Hermitaur Tasset",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "5": 2,
+            "14": 3,
+            "67": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Hermitaur Tasset U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "14": 3,
+            "26": 1,
+            "30": 2,
+            "51": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 31,
+            "max": 68
+        },
+        "name": "Hermitaur Tasset S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "6": 1,
+            "14": 3,
+            "58": -1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Hermitaur Coat",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": 3,
+            "51": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Hermitaur Coat U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "14": 3,
+            "51": 1,
+            "61": -2,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Hermitaur Coat S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": 3,
+            "53": -2,
+            "59": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Conga Tasset",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "Conga Tasset U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "5": 2,
+            "12": -2,
+            "30": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 68
+        },
+        "name": "Conga Tasset S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -2,
+            "53": -2,
+            "63": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Conga Coat",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 28
+        },
+        "name": "Conga Coat U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 3,
+            "5": 2,
+            "12": -2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 22,
+            "max": 37
+        },
+        "name": "Conga Coat S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Blango Tasset",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 2,
+            "53": -3,
+            "60": 2,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Blango Tasset U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 2,
+            "22": -2,
+            "44": 1,
+            "61": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Blango Tasset S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "26": -2,
+            "28": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 12,
+            "max": 21
+        },
+        "name": "Blango Coat",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 2,
+            "53": -3,
+            "60": 2,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Blango Coat U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 2,
+            "22": -2,
+            "44": 1,
+            "61": 1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Blango Coat S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 2,
+            "28": 1,
+            "32": -3,
+            "52": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Ceanataur Tasset",
+        "rarity": 3,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2,
+            "43": -2,
+            "54": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 36,
+            "max": 52
+        },
+        "name": "Ceanataur Tasset U",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "54": 1,
+            "58": 2,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 38,
+            "max": 73
+        },
+        "name": "Ceanataur Tasset S",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 5,
+            "26": -3,
+            "63": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 14,
+            "max": 22
+        },
+        "name": "Ceanataur Coat",
+        "rarity": 3,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": -2,
+            "28": 1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Ceanataur Coat U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 2,
+            "5": 3,
+            "14": -1,
+            "46": -2,
+            "52": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Ceanataur Coat S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 5,
+            "28": -2,
+            "42": 1,
+            "52": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 34,
+            "max": 50
+        },
+        "name": "Kirin Hoop",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 2,
+            "18": 2,
+            "32": -2,
+            "66": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 43,
+            "max": 84
+        },
+        "name": "Kirin Hoop S",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 3,
+            "18": 3,
+            "32": -1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Kirin Skirt",
+        "rarity": 5,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 2,
+            "18": 2,
+            "32": -2,
+            "66": 1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 26,
+            "max": 43
+        },
+        "name": "Kirin Skirt S",
+        "rarity": 7,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 3,
+            "18": 3,
+            "32": -1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 39,
+            "max": 83
+        },
+        "name": "Kushala Cocoon",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            4,
+            -2,
+            -3
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Kushala Wind Wrap",
+        "rarity": 7,
+        "resistance": [
+            2,
+            3,
+            5,
+            -2,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 40,
+            "max": 77
+        },
+        "name": "Mizuha Sash",
+        "rarity": 7,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Extravagant Sash",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            -1,
+            1,
+            -1
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 43,
+            "max": 83
+        },
+        "name": "Empress Tasset",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "7": 2,
+            "26": 4,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Empress Coat",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "2": 3,
+            "7": 2,
+            "52": 4,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 42,
+            "max": 89
+        },
+        "name": "Indra Tasset",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            3,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "3": 4,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Steadfast Coat",
+        "rarity": 7,
+        "resistance": [
+            0,
+            5,
+            3,
+            3,
+            -1
+        ],
+        "skills": {
+            "3": 4,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 43,
+            "max": 90
+        },
+        "name": "Kaiser Tasset",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "20": 3,
+            "68": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Kaiser Coat",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "10": 3,
+            "33": 2,
+            "45": 2,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 44,
+            "max": 93
+        },
+        "name": "Guardian Spirit Tasset",
+        "rarity": 7,
+        "resistance": [
+            2,
+            2,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "20": 2,
+            "46": -3,
+            "59": 3,
+            "70": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Carnage Coat",
+        "rarity": 7,
+        "resistance": [
+            3,
+            4,
+            -1,
+            2,
+            -1
+        ],
+        "skills": {
+            "33": 2,
+            "46": -3,
+            "59": 3,
+            "70": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 51,
+            "max": 75
+        },
+        "name": "Golden Belt",
+        "rarity": 7,
+        "resistance": [
+            3,
+            2,
+            -2,
+            2,
+            3
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Puppet Master Belt",
+        "rarity": 7,
+        "resistance": [
+            4,
+            3,
+            -1,
+            3,
+            4
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 59,
+            "max": 95
+        },
+        "name": "White Fatalis Wing",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 3,
+            "27": 2,
+            "54": -3,
+            "58": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "White Fatalis Tail",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -5,
+            "33": 2,
+            "46": -2,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 38,
+            "max": 72
+        },
+        "name": "Plesioth Tasset S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": 2,
+            "29": 2,
+            "58": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Plesioth Coat S",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": 2,
+            "11": 1,
+            "29": 2
+        },
+        "slots": 3,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 13,
+            "max": 34
+        },
+        "name": "Remobra Belt",
+        "rarity": 5,
+        "resistance": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "skills": {
+            "18": -4,
+            "27": 2,
+            "40": 2,
+            "59": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Coat",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Kilt",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Maiden's Skirt",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Personal Skirt",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 18,
+            "max": 36
+        },
+        "name": "Lobster Tasset",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            6,
+            2,
+            -6,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "19": 2,
+            "64": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 33,
+            "max": 50
+        },
+        "name": "Amethyst Tasset",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Lobster Coat",
+        "rarity": 5,
+        "resistance": [
+            0,
+            6,
+            3,
+            -5,
+            0
+        ],
+        "skills": {
+            "10": 3,
+            "19": 2,
+            "64": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Amethyst Coat",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            0,
+            1
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 3,
+        "defense": {
+            "base": 55,
+            "max": 80
+        },
+        "name": "Master Belt",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            5
+        ],
+        "skills": {
+            "20": 5
+        },
+        "slots": 3,
+        "type": 0
+    }
+]
