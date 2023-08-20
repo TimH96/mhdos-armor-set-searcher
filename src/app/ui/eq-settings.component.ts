@@ -3,15 +3,17 @@ import UserEquipmentSettings from '../../data-provider/models/user/UserEquipment
 import { htmlToElement } from '../../helper/html.helper'
 import EquipmentMin from '../../data-provider/models/equipment/EquipmentMin'
 
+const STORAGE_KEY = 'dos-eq-settings'
+
 const saveToStorage = () => {
   window.localStorage.setItem(
-    'eq-settings',
+    STORAGE_KEY,
     UserEquipmentSettings.Instance.serialize(),
   )
 }
 
 const getFromStorage = () => {
-  return window.localStorage.getItem('eq-settings')
+  return window.localStorage.getItem(STORAGE_KEY)
 }
 
 const getExclusionElement = (x: EquipmentMin) => {
