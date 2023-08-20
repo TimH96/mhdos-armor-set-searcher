@@ -21,12 +21,16 @@ if __name__ == "__main__":
     for (id, skill) in enumerate(skills):
         # get attributes
         name = skill["name"]
-        if name == "Torso Up": continue # special case for torso up
         category = 0
 
         # init skill map and skill names map
         acts = []
         skill_names[id] = name
+
+        # handle torso up
+        if name == "Torso Up":
+            skill_activations[id] = []
+            continue
 
         # iterate over activations of this skill
         for activation in skill["stagesFormatted"]:
@@ -39,8 +43,8 @@ if __name__ == "__main__":
             is_positive = bool(points > 0)
             a_name = clean_name(activation["name"])
 
-            # build object and push object
-            build_activation = {
+            # model and push object
+            modeled_activation = {
                 "category": category,
                 "id": a_id,
                 "isPositive": is_positive,
@@ -48,12 +52,12 @@ if __name__ == "__main__":
                 "requiredPoints": points,
                 "requiredSkill": id,
             }
-            acts.append(build_activation)
+            acts.append(modeled_activation)
 
         # reverse acts (positive acts should be first) and append to map
         acts.reverse()
         skill_activations[id] = acts
-    
+
     # save files
     with open("../data/skills.json", "w") as f:
         f.write(json.dumps(skill_activations, indent=4))
