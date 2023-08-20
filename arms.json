@@ -1,0 +1,5593 @@
+[
+    {
+        "category": 2,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Leather Vambraces",
+        "rarity": 1,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "24": 3,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 7,
+            "max": 21
+        },
+        "name": "Leather Vambraces U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "24": 3,
+            "70": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 11,
+            "max": 35
+        },
+        "name": "Leather Vambraces S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "11": 2,
+            "24": 2,
+            "57": 3,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Chain Vambraces",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "24": 2,
+            "28": 2,
+            "60": 2,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 8,
+            "max": 23
+        },
+        "name": "Chain Vambraces U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "21": 2,
+            "24": 2,
+            "28": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 36
+        },
+        "name": "Chain Vambraces S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 3,
+            "70": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 4,
+            "max": 24
+        },
+        "name": "Hunter's Vambraces",
+        "rarity": 1,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 1,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Hunter's Vambraces U",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 3,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 51
+        },
+        "name": "Hunter's Vambraces S",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "32": 3,
+            "34": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Hunter's Guards",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 1,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 11,
+            "max": 24
+        },
+        "name": "Hunter's Guards U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 3,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 13,
+            "max": 39
+        },
+        "name": "Hunter's Guards S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "32": 3,
+            "34": 2,
+            "39": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 9,
+            "max": 26
+        },
+        "name": "Bone Vambraces",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "30": 2,
+            "43": -1,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Bone Vambraces U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "12": -3,
+            "17": 2,
+            "30": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 54
+        },
+        "name": "Bone Vambraces S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "5": 3,
+            "29": 1,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Bone Guards",
+        "rarity": 1,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "30": 2,
+            "43": -1,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Bone Guards U",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "1": 2,
+            "2": 2,
+            "12": -3,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "Bone Guards S",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "5": 3,
+            "29": 1,
+            "47": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Velociprey Vambraces",
+        "rarity": 2,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "34": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Velociprey Vambraces U",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "28": 2,
+            "29": 2,
+            "38": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Velociprey Vambraces S",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "5": 2,
+            "22": -2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 5,
+            "max": 13
+        },
+        "name": "Velociprey Guards",
+        "rarity": 2,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "34": 2,
+            "38": -1,
+            "60": 1,
+            "61": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Velociprey Guard U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "29": 2,
+            "38": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Velociprey Guards S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "39": 2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Battle Vambraces",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "43": -3,
+            "54": 2,
+            "58": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Battle Vambraces U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -2,
+            "28": 1,
+            "54": 1,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Battle Vambraces S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "21": -2,
+            "59": -1,
+            "62": 1,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 6,
+            "max": 13
+        },
+        "name": "Battle Guards",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "11": 2,
+            "33": 2,
+            "59": -3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Battle Guards U",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "41": 1,
+            "46": -2,
+            "52": 4,
+            "59": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Battle Guards S",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "16": 2,
+            "19": 1,
+            "46": -2,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Vambraces",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "66": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 23,
+            "max": 46
+        },
+        "name": "Vespoid Vambraces U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "50": 2,
+            "51": 1,
+            "61": -1,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 27,
+            "max": 58
+        },
+        "name": "Vespoid Vambraces S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "38": 3,
+            "50": -1,
+            "60": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Vespoid Guards",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "66": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Guard U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "41": 2,
+            "70": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Vespoid Guards S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "42": 1,
+            "52": -1,
+            "59": 3,
+            "60": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 14,
+            "max": 29
+        },
+        "name": "Hornet Vambraces",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 1,
+            "16": 2,
+            "46": -2,
+            "51": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hornet Vambraces U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 3,
+            "59": 2,
+            "62": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hornet Vambraces S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "0": 1,
+            "15": 3,
+            "31": -3,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 8,
+            "max": 16
+        },
+        "name": "Hornet Guards",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 1,
+            "16": 2,
+            "46": -2,
+            "59": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Hornet Guards U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 2,
+            "16": 3,
+            "46": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Hornet Guards S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "0": 1,
+            "15": 3,
+            "31": -3,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 27
+        },
+        "name": "Hi-Metal Vambraces",
+        "rarity": 2,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "21": -1,
+            "22": -2,
+            "28": 2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hi-Metal Vambraces U",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -3,
+            "28": 4
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hi-Metal Vambraces S",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "14": 1,
+            "28": 3,
+            "59": -2,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Hi-Metal Guards",
+        "rarity": 2,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "28": 3,
+            "61": -1,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Hi-Metal Guards U",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "22": -3,
+            "28": 4
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "Hi-Metal Guards S",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "14": 1,
+            "28": 3,
+            "59": -2,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Genprey Vambraces",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "3": -3,
+            "20": 2,
+            "38": 2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Genprey Vambraces U",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "14": -3,
+            "27": 2,
+            "38": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Genprey Vambraces S",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "38": 3,
+            "54": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 8,
+            "max": 17
+        },
+        "name": "Genprey Guards",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "10": -1,
+            "29": 2,
+            "38": 2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Genprey Guard U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "40": 2,
+            "46": -3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Genprey Guards S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "13": 2,
+            "29": 2,
+            "31": -2,
+            "38": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 30
+        },
+        "name": "Kut-Ku Vambraces",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "60": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Kut-Ku Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "19": 3,
+            "59": -1,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 33,
+            "max": 64
+        },
+        "name": "Kut-Ku Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "19": 1,
+            "44": -5,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 9,
+            "max": 15
+        },
+        "name": "Kut-Ku Guards",
+        "rarity": 3,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "63": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Kut-Ku Guards U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "19": 3,
+            "59": -1,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Kut-Ku Guards S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "33": 2,
+            "44": -4,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Ioprey Vambraces",
+        "rarity": 2,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "43": 2,
+            "58": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 48
+        },
+        "name": "Ioprey Vambraces U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "43": 3,
+            "62": 2
+        },
+        "slots": 3,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Ioprey Vambraces S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 3,
+            "58": 2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 8,
+            "max": 18
+        },
+        "name": "Ioprey Guards",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "37": 2,
+            "43": 2,
+            "51": -3,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Ioprey Guards U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "62": 2
+        },
+        "slots": 3,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Ioprey Guards S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "38": -2,
+            "43": 3,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Gypceros Vambraces",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 2,
+            "55": -1,
+            "59": -2,
+            "67": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gypceros Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "54": 2,
+            "59": -2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 32,
+            "max": 68
+        },
+        "name": "Gypceros Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "30": -1,
+            "43": 3,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Gypceros Guards",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "1": 1,
+            "43": 3,
+            "46": -1,
+            "59": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Gypceros Guard U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "1": 2,
+            "43": 3,
+            "59": -2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Gypceros Guards S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "30": -1,
+            "43": 3,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 29
+        },
+        "name": "Cephalos Vambraces",
+        "rarity": 2,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "60": 2,
+            "63": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Cephalos Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "26": 2,
+            "29": 3,
+            "54": 2,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Cephalos Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "16": 2,
+            "29": 3,
+            "58": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 10,
+            "max": 17
+        },
+        "name": "Cephalos Guards",
+        "rarity": 2,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "11": 2,
+            "29": 3,
+            "59": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 16,
+            "max": 24
+        },
+        "name": "Cephalos Guard U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "29": 2,
+            "41": 1,
+            "47": 2,
+            "64": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Cephalos Guards S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "29": 3,
+            "40": 2,
+            "41": 2,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 31
+        },
+        "name": "Steel Vambraces",
+        "rarity": 2,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 3,
+            "59": -3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Steel Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 5,
+            "32": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 30,
+            "max": 64
+        },
+        "name": "Steel Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 2,
+            "28": 5
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Rathian Vambraces",
+        "rarity": 3,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "16": 2,
+            "28": 3,
+            "70": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Rath Heart Vambraces",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "56": -2,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Rathian Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "0": 2,
+            "16": 2,
+            "28": 3,
+            "46": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 20
+        },
+        "name": "Rathian Guards",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "28": 3,
+            "59": 2,
+            "70": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Rath Heart Guards",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "56": -2,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Rathian Guards S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "46": -2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 26,
+            "max": 37
+        },
+        "name": "Khezu Vambraces",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "19": 2,
+            "43": -1,
+            "50": 1,
+            "62": 2,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Khezu Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -3,
+            0,
+            4,
+            0
+        ],
+        "skills": {
+            "50": 2,
+            "59": 1,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Khezu Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": 2,
+            "43": -1,
+            "46": 1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 13,
+            "max": 20
+        },
+        "name": "Khezu Guards",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "19": 2,
+            "43": -1,
+            "50": 1,
+            "62": 2,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Khezu Guards U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            -1,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "49": 1,
+            "50": 2,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Khezu Guards S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "11": 1,
+            "21": 2,
+            "43": -1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Rathalos Vambraces",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "34": 2,
+            "47": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 37,
+            "max": 54
+        },
+        "name": "Rath Soul Vambraces",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            0,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 4,
+            "14": -3,
+            "20": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 39,
+            "max": 76
+        },
+        "name": "Rathalos Vambraces S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 5,
+            "26": 2,
+            "62": -4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Rathalos Guards",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "34": 2,
+            "47": 1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 31
+        },
+        "name": "Rath Soul Guards",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "24": -3,
+            "39": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Rathalos Guards S",
+        "rarity": 7,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 5,
+            "50": -4,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 36
+        },
+        "name": "Plesioth Vambraces",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": -2,
+            "16": 2,
+            "19": 2,
+            "30": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Plesioth Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "56": 4,
+            "63": 1,
+            "67": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 38,
+            "max": 72
+        },
+        "name": "Plesioth Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": 4,
+            "29": 4,
+            "58": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 13,
+            "max": 21
+        },
+        "name": "Plesioth Guards",
+        "rarity": 3,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "16": 2,
+            "19": 2,
+            "30": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Plesioth Guards U",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "0": 1,
+            "56": 4,
+            "67": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Plesioth Guards S",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": 4,
+            "11": 1,
+            "29": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 36
+        },
+        "name": "Lobster Vambraces",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            6,
+            2,
+            -6,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "19": 2,
+            "64": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 33,
+            "max": 50
+        },
+        "name": "Amethyst Vambraces",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Lobster Guards",
+        "rarity": 5,
+        "resistance": [
+            0,
+            6,
+            3,
+            -5,
+            0
+        ],
+        "skills": {
+            "10": 3,
+            "19": 2,
+            "64": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Amethyst Guards",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            0,
+            1
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Basarios Vambraces",
+        "rarity": 3,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "43": 2,
+            "50": 2,
+            "62": 2,
+            "67": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Basarios Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "43": 2,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Basarios Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "43": 3,
+            "62": 2,
+            "69": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 10,
+            "max": 20
+        },
+        "name": "Basarios Guards",
+        "rarity": 3,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "50": 2,
+            "62": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 28
+        },
+        "name": "Basarios Guard U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "43": 2,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Basarios Guards S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "43": 3,
+            "62": 2,
+            "69": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Diablo Vambraces",
+        "rarity": 3,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "21": -2,
+            "44": 2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 39,
+            "max": 57
+        },
+        "name": "Diablo Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 41,
+            "max": 81
+        },
+        "name": "Diablo Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 23
+        },
+        "name": "Diablo Guards",
+        "rarity": 3,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": -1,
+            "33": 2,
+            "52": -2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Diablo Guards U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Diablo Guards S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 30,
+            "max": 44
+        },
+        "name": "Monoblos Vambraces",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "32": 1,
+            "51": -3,
+            "67": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 40,
+            "max": 58
+        },
+        "name": "Monodevil Vambraces",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "27": 1,
+            "32": 2,
+            "44": 3,
+            "51": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Monoblos Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 3,
+            "32": 2,
+            "44": 2,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Monoblos Guards",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 2,
+            "32": 1,
+            "51": -3,
+            "67": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Monodevil Guards",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "32": 2,
+            "33": 1,
+            "44": 3,
+            "46": -3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Monoblos Guards S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "32": 2,
+            "42": 2,
+            "44": 1,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gravios Vambraces",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "26": 2,
+            "29": 2,
+            "59": -2,
+            "67": 3,
+            "69": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 41,
+            "max": 61
+        },
+        "name": "Gravios Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "14": 1,
+            "26": 3,
+            "28": 1,
+            "59": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Gravios Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "14": 4,
+            "26": 3,
+            "54": -2,
+            "59": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Gravios Guards",
+        "rarity": 3,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "29": 2,
+            "67": 3,
+            "69": -2,
+            "70": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Gravios Guards U",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "30": -3,
+            "49": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Gravios Guards S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "14": 4,
+            "30": -3,
+            "49": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Black Belt Vambraces",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "27": 2,
+            "33": 2,
+            "68": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 37
+        },
+        "name": "Black Belt Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "skills": {
+            "20": 5,
+            "54": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 3,
+            "max": 8
+        },
+        "name": "Mosswine Gloves",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "17": 2,
+            "25": 3,
+            "30": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Makluva Sleeves",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            3
+        ],
+        "skills": {
+            "0": 3,
+            "47": 2,
+            "62": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 9,
+            "max": 21
+        },
+        "name": "Velociprey Claws",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "22": 3,
+            "68": 1,
+            "69": -1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 11,
+            "max": 28
+        },
+        "name": "Genprey Claws",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "skills": {
+            "3": 1,
+            "22": -1,
+            "69": 3
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 14,
+            "max": 33
+        },
+        "name": "Ioprey Claws",
+        "rarity": 5,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "8": 1,
+            "15": -1,
+            "64": 3
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Kote \"Sun\"",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "55": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Gauntlets \"Sky\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "7": 2,
+            "10": -2,
+            "19": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Gauntlets \"Heaven\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "53": 2,
+            "60": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Kote \"Moon\"",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "55": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Gauntlets \"Sea\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "7": 2,
+            "29": -3,
+            "30": 2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Gauntlets \"Earth\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "53": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Vambraces",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Gloves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Gloves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Guards",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Guard U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Sleeves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 2,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Sleeves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 3,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Helper Sleeves",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Helper Sleeves U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Gloves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Gloves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Healer Sleeves",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Healer Sleeves U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Sleeves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 2,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Sleeves",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 3,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Garuga Vambraces",
+        "rarity": 5,
+        "resistance": [
+            2,
+            0,
+            0,
+            2,
+            0
+        ],
+        "skills": {
+            "20": 3,
+            "24": -3,
+            "26": 2,
+            "30": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Garuga Guards",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "11": -2,
+            "30": 2,
+            "41": 2,
+            "45": -2,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Auroros Gauntlets",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 1,
+            "50": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Auroros Gauntlets Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 2,
+            "44": -2,
+            "50": 5
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Auroros Gauntlets Ha",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Genesis Gauntlets",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "47": 2,
+            "50": 2,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Genesis Gauntlets Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 3,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Genesis Gauntlets Ha",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 2,
+            "47": 3,
+            "52": -4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Borealis Gauntlets",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 1,
+            "50": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Borealis Gauntlets Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 2,
+            "44": -2,
+            "50": 5
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Borealis Gauntlets Ha",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Glyph Gauntlets",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "47": 2,
+            "50": 2,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Glyph Gauntlets Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 3,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Glyph Gauntlets Ha",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 2,
+            "47": 3,
+            "52": -4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 38,
+            "max": 56
+        },
+        "name": "Dragonclaw",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "38": 3,
+            "43": 3,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 48,
+            "max": 70
+        },
+        "name": "Fatalis Crimsonclaw",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "5": 6,
+            "72": 5
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 48,
+            "max": 93
+        },
+        "name": "Dragoncrow S",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 5,
+            "27": -2,
+            "54": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Dragonfist",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -2,
+            "39": 4,
+            "49": 3,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Fatalis Crimsonfist",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "9": 4,
+            "28": -5,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 29,
+            "max": 48
+        },
+        "name": "Dragonfist S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "13": 4,
+            "28": -3,
+            "52": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 50,
+            "max": 82
+        },
+        "name": "Golden Moon Vambraces",
+        "rarity": 7,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Golden Moon Guards",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 53,
+            "max": 85
+        },
+        "name": "Silver Sol Vambraces",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            0,
+            -1,
+            1
+        ],
+        "skills": {
+            "5": 4,
+            "17": -2,
+            "32": 2,
+            "50": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Silver Sol Guards",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            1,
+            2
+        ],
+        "skills": {
+            "5": 4,
+            "9": 3,
+            "17": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 16,
+            "max": 32
+        },
+        "name": "Hermitaur Vambraces",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "3": 2,
+            "12": -2,
+            "14": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Hermitaur Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "12": -2,
+            "14": 2,
+            "26": 2,
+            "51": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 31,
+            "max": 68
+        },
+        "name": "Hermitaur Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "6": 2,
+            "14": 3,
+            "58": -2,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Hermitaur Guards",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "3": 2,
+            "12": -2,
+            "14": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Hermitaur Guard U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "12": -2,
+            "14": 2,
+            "51": 1,
+            "61": -2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Hermitaur Guards S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "14": 3,
+            "53": -2,
+            "62": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Conga Vambraces",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "67": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "Conga Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 68
+        },
+        "name": "Conga Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "53": -2,
+            "60": 2,
+            "63": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Conga Guards",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "51": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 18,
+            "max": 28
+        },
+        "name": "Conga Guards U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 22,
+            "max": 37
+        },
+        "name": "Conga Guards S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "53": -2,
+            "59": 2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Blango Vambraces",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "53": -2,
+            "60": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Blango Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 2,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Blango Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "26": -2,
+            "28": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 12,
+            "max": 21
+        },
+        "name": "Blango Guards",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "53": -2,
+            "60": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Blango Guard U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 2,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Blango Guards S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 2,
+            "28": 1,
+            "32": -3,
+            "52": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Ceanataur Vambraces",
+        "rarity": 3,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 36,
+            "max": 52
+        },
+        "name": "Ceanataur Vambraces U",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 4,
+            "14": -2,
+            "58": 2,
+            "60": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 38,
+            "max": 73
+        },
+        "name": "Ceanataur Vambraces S",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 4,
+            "26": -3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 14,
+            "max": 22
+        },
+        "name": "Ceanataur Guards",
+        "rarity": 3,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2,
+            "37": 1,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Ceanataur Guards U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 4,
+            "14": -2,
+            "52": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Ceanataur Guards S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "28": -2,
+            "42": 2,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 34,
+            "max": 50
+        },
+        "name": "Kirin Vambraces",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 1,
+            "18": 2,
+            "32": -2,
+            "66": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 43,
+            "max": 84
+        },
+        "name": "Kirin VambracesS",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 4,
+            "18": 3,
+            "32": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Kirin Guards",
+        "rarity": 5,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 1,
+            "18": 2,
+            "32": -2,
+            "66": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 26,
+            "max": 43
+        },
+        "name": "Kirin Guards S",
+        "rarity": 7,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 4,
+            "18": 3,
+            "32": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 39,
+            "max": 83
+        },
+        "name": "Kushala Grip",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            4,
+            -2,
+            -3
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Kushala Embrace",
+        "rarity": 7,
+        "resistance": [
+            2,
+            3,
+            5,
+            -2,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 40,
+            "max": 77
+        },
+        "name": "Mizuha Sleeve",
+        "rarity": 7,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Extravagant Sleeve",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            -1,
+            1,
+            -1
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 43,
+            "max": 83
+        },
+        "name": "Empress Vambraces",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "7": 1,
+            "26": 3,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Empress Guards",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "2": 2,
+            "7": 1,
+            "52": 3,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 42,
+            "max": 89
+        },
+        "name": "Indra Vambraces",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            3,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "3": 4,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Steadfast Guards",
+        "rarity": 7,
+        "resistance": [
+            0,
+            5,
+            3,
+            3,
+            -1
+        ],
+        "skills": {
+            "3": 4,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 43,
+            "max": 90
+        },
+        "name": "Kaiser Vambraces",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "20": 3,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Kaiser Guards",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "10": 2,
+            "33": 2,
+            "45": 2,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 44,
+            "max": 93
+        },
+        "name": "Guardian Spirit Vambraces",
+        "rarity": 7,
+        "resistance": [
+            2,
+            2,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "20": 2,
+            "46": -3,
+            "59": 3,
+            "70": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Carnage Guards",
+        "rarity": 7,
+        "resistance": [
+            3,
+            4,
+            -1,
+            2,
+            -1
+        ],
+        "skills": {
+            "33": 2,
+            "46": -3,
+            "59": 3,
+            "70": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 51,
+            "max": 75
+        },
+        "name": "Golden Gauntlet",
+        "rarity": 7,
+        "resistance": [
+            3,
+            2,
+            -2,
+            2,
+            3
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Puppet Master Gauntlets",
+        "rarity": 7,
+        "resistance": [
+            4,
+            3,
+            -1,
+            3,
+            4
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 59,
+            "max": 95
+        },
+        "name": "White Dragonclaw",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 3,
+            "27": 2,
+            "54": -3,
+            "58": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "White Dragonfist",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -5,
+            "33": 2,
+            "46": -2,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 13,
+            "max": 25
+        },
+        "name": "White Velociprey Claws",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "31": 3,
+            "56": 1,
+            "64": -1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 13,
+            "max": 34
+        },
+        "name": "Remobra Claws",
+        "rarity": 5,
+        "resistance": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "skills": {
+            "18": -4,
+            "27": 2,
+            "40": 2,
+            "59": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Gloves",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Sleeves",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Maiden's Sleeves",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Personal Sleeves",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 2,
+        "defense": {
+            "base": 55,
+            "max": 80
+        },
+        "name": "Broken Dragon Gauntlets",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            0,
+            0,
+            -2,
+            5
+        ],
+        "skills": {
+            "20": 5
+        },
+        "slots": 3,
+        "type": 0
+    }
+]

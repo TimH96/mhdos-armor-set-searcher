@@ -1,0 +1,5674 @@
+[
+    {
+        "category": 0,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Leather Helm",
+        "rarity": 1,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "24": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 7,
+            "max": 21
+        },
+        "name": "Leather Helm U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "24": 3,
+            "70": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 35
+        },
+        "name": "Leather Helm S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "11": 2,
+            "24": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Chain Helm",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "70": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 8,
+            "max": 23
+        },
+        "name": "Chain Helm U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "66": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 36
+        },
+        "name": "Chain Helm S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "57": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 4,
+            "max": 24
+        },
+        "name": "Hunter's Helm",
+        "rarity": 1,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 1,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Hunter Helm U",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2,
+            "47": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 51
+        },
+        "name": "Hunter Helm S",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "32": 3,
+            "34": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Hunter's Cap",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 1,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 24
+        },
+        "name": "Hunter Cap U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2,
+            "47": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 13,
+            "max": 39
+        },
+        "name": "Hunter Cap S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "32": 3,
+            "34": 3,
+            "39": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 9,
+            "max": 26
+        },
+        "name": "Bone Helm",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "11": 1,
+            "30": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Bone Helm U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "12": -2,
+            "14": 2,
+            "30": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 54
+        },
+        "name": "Bone Helm S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "17": 3,
+            "59": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Bone Cap",
+        "rarity": 1,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "11": 2,
+            "30": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Bone Cap U",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "12": -2,
+            "14": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "bone Cap S",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "17": 3,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Velociprey Helm",
+        "rarity": 2,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "34": 3,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Velociprey Helm U",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "14": -3,
+            "27": 2,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Velociprey Helm S",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "5": 2,
+            "22": -2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 5,
+            "max": 13
+        },
+        "name": "Velociprey Cap",
+        "rarity": 2,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "34": 3,
+            "59": 2,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Velociprey Cap U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "40": 2,
+            "46": -3,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Velociprey Cap S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "39": 2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Battle Helm",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "3": -3,
+            "5": 2,
+            "20": 2,
+            "58": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Battle Helm U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "19": 1,
+            "28": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Battle Helm S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "21": -2,
+            "59": -1,
+            "62": 1,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 6,
+            "max": 13
+        },
+        "name": "Battle Cap",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "11": 2,
+            "33": 2,
+            "59": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Battle Cap U",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "41": 1,
+            "46": -1,
+            "52": 2,
+            "59": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Battle Cap S",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "16": 2,
+            "19": 1,
+            "46": -2,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Helm",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "43": -3,
+            "54": 2,
+            "58": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 23,
+            "max": 46
+        },
+        "name": "Vespoid Helm U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "51": 2,
+            "61": -1,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 27,
+            "max": 58
+        },
+        "name": "Vespoid Helm S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "50": -2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Vespoid Cap",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "11": 2,
+            "38": 2,
+            "59": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Cap U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "41": 2,
+            "70": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Vespoid Cap S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "42": 2,
+            "52": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 14,
+            "max": 29
+        },
+        "name": "Hornet Helm",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 3,
+            "16": 2,
+            "46": -2,
+            "51": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hornet Helm U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 3,
+            "57": 2,
+            "59": 2,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hornet Helm S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "0": 1,
+            "15": 3,
+            "31": -3,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 8,
+            "max": 16
+        },
+        "name": "Hornet Cap",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 3,
+            "16": 2,
+            "46": -2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Hornet Cap U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 2,
+            "16": 3,
+            "46": -2,
+            "57": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Hornet Cap S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "0": 1,
+            "15": 3,
+            "31": -3,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 27
+        },
+        "name": "Hi-Metal Helm",
+        "rarity": 2,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "28": 3,
+            "55": -1,
+            "67": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hi-Metal Helm U",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -3,
+            "28": 4
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hi-Metal Helm S",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 4,
+            "54": 2,
+            "59": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Hi-Metal Cap",
+        "rarity": 2,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "1": 1,
+            "22": -2,
+            "28": 3,
+            "46": -1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Hi-Metal Cap U",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "22": -3,
+            "28": 4
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "Hi-Metal Cap S",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "1": 2,
+            "14": 2,
+            "28": 4,
+            "59": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Genprey Helm",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "38": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Genprey Helm U",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3,
+            "43": 2,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Genprey Helm S",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 8,
+            "max": 17
+        },
+        "name": "Genprey Cap",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "38": 2,
+            "59": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Genprey Cap U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3,
+            "43": 2,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Genprey Cap S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Ioprey Helm",
+        "rarity": 2,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 2,
+            "60": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 48
+        },
+        "name": "Ioprey Helm U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "28": 2,
+            "43": 3,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Ioprey Helm S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 3,
+            "58": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 8,
+            "max": 18
+        },
+        "name": "Ioprey Cap",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "37": 2,
+            "38": -1,
+            "43": 2,
+            "51": -3,
+            "60": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Ioprey Cap U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "43": 3,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Ioprey Cap S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "38": -2,
+            "43": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Gypceros Helm",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": -1,
+            "43": 3,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gypceros Helm U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "71": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 32,
+            "max": 68
+        },
+        "name": "Gypceros Helm S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "30": -1,
+            "43": 3,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Gypceros Cap",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "59": -2,
+            "61": -1,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Gypceros Cap U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "71": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Gypceros Cap S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "30": -1,
+            "43": 3,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 29
+        },
+        "name": "Cephalos Helm",
+        "rarity": 2,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "43": -3,
+            "54": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Cephalos Helm U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "26": 2,
+            "29": 3,
+            "54": 2,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Cephalos Helm S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "16": 2,
+            "29": 3,
+            "54": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 17
+        },
+        "name": "Cephalos Cap",
+        "rarity": 2,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "11": 2,
+            "29": 3,
+            "59": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 16,
+            "max": 24
+        },
+        "name": "Cephalos Cap U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "1": 2,
+            "29": 3,
+            "47": 2,
+            "64": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Cephalos Cap S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "29": 3,
+            "40": 2,
+            "41": 2,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Rathian Helm",
+        "rarity": 3,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "16": 2,
+            "28": 2,
+            "70": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Rath Heart Helm",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "56": -2,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Rathian Helm S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "0": 2,
+            "16": 2,
+            "28": 3,
+            "46": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 20
+        },
+        "name": "Rathian Cap",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "28": 2,
+            "59": 2,
+            "70": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Rath Heart Cap",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "56": -2,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Rathian Cap S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "46": -2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 26,
+            "max": 37
+        },
+        "name": "Khezu Helm",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "19": 2,
+            "43": -1,
+            "50": 1,
+            "62": 2,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Khezu U Helm",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -3,
+            0,
+            4,
+            0
+        ],
+        "skills": {
+            "50": 2,
+            "59": 1,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Khezu Helm S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": 2,
+            "43": -1,
+            "46": 1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 13,
+            "max": 20
+        },
+        "name": "Khezu Cap",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "19": 2,
+            "43": -1,
+            "50": 1,
+            "62": 2,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Khezu U Cap",
+        "rarity": 6,
+        "resistance": [
+            5,
+            -1,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "49": 1,
+            "50": 2,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Khezu Cap S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "11": 1,
+            "21": 2,
+            "43": -1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Rathalos Helm",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "34": 1,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 37,
+            "max": 54
+        },
+        "name": "Rath Soul Helm",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            0,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 4,
+            "14": -3,
+            "20": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 39,
+            "max": 76
+        },
+        "name": "Rathalos Helm S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 5,
+            "26": 2,
+            "62": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Rathalos Cap",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "34": 1,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 31
+        },
+        "name": "Rath Soul Cap",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "24": -3,
+            "39": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Rathalos Cap S",
+        "rarity": 7,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 5,
+            "50": -4,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 36
+        },
+        "name": "Plesioth Helm",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "30": 2,
+            "46": -1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Plesioth Helm U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "56": 4,
+            "63": 1,
+            "67": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 38,
+            "max": 72
+        },
+        "name": "Plesioth Helm S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": 4,
+            "29": 4,
+            "58": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 13,
+            "max": 21
+        },
+        "name": "Plesioth Cap",
+        "rarity": 3,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "30": 2,
+            "46": -1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Plesioth Cap U",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "0": 1,
+            "56": 4,
+            "67": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Plesioth Cap S",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": 4,
+            "11": 1,
+            "29": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 36
+        },
+        "name": "Lobster Helm",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            6,
+            2,
+            -6,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "64": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 33,
+            "max": 50
+        },
+        "name": "Amethyst Head",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Basarios Helm",
+        "rarity": 3,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "43": 2,
+            "50": 3,
+            "62": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Basarios Helm U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "31": -2,
+            "43": 2,
+            "62": 3,
+            "67": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Basarios Helm S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "29": 3,
+            "43": 3,
+            "62": 2,
+            "69": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 20
+        },
+        "name": "Basarios Cap",
+        "rarity": 3,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "43": 2,
+            "50": 3,
+            "62": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 28
+        },
+        "name": "Basarios Cap U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "31": -2,
+            "43": 2,
+            "62": 3,
+            "67": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Basarios Cap S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "29": 3,
+            "43": 3,
+            "62": 2,
+            "69": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Diablo Helm",
+        "rarity": 3,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "21": -2,
+            "44": 2,
+            "67": 2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 39,
+            "max": 57
+        },
+        "name": "Diablo Helm U",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 41,
+            "max": 81
+        },
+        "name": "Diablo Helm S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 23
+        },
+        "name": "Diablo Cap",
+        "rarity": 3,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": -2,
+            "28": 1,
+            "33": 2,
+            "52": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Diablo Cap U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Diablo Cap S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 30,
+            "max": 44
+        },
+        "name": "Monoblos Helm",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "28": 3,
+            "32": 1,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 40,
+            "max": 58
+        },
+        "name": "Monodevil Helm",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "27": 1,
+            "32": 2,
+            "44": 3,
+            "51": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Monoblos Helm S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "28": 1,
+            "32": 2,
+            "44": 2,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Monoblos Cap",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 2,
+            "28": 3,
+            "32": 1,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Monodevil Cap",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "32": 2,
+            "33": 1,
+            "44": 3,
+            "46": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Monoblos Cap S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "32": 3,
+            "42": 2,
+            "44": 2,
+            "52": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gravios Helm",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "26": 2,
+            "29": 2,
+            "59": -2,
+            "67": 2,
+            "69": -1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 41,
+            "max": 61
+        },
+        "name": "Gravios Helm U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "14": 2,
+            "26": 3,
+            "28": 1,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Gravios Helm S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "14": 2,
+            "26": 2,
+            "54": -3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Gravios Cap",
+        "rarity": 3,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "9": 1,
+            "29": 2,
+            "67": 2,
+            "69": -1,
+            "70": -1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Gravios Cap U",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "30": -2,
+            "49": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Gravios Cap S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "14": 3,
+            "30": -2,
+            "49": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Black Belt Helm",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "27": 2,
+            "33": 2,
+            "68": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 37
+        },
+        "name": "Black Belt Helm S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "skills": {
+            "20": 5,
+            "54": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 3,
+            "max": 8
+        },
+        "name": "Mosswine Mask",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "17": 2,
+            "25": 3,
+            "30": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 21
+        },
+        "name": "Felyne Mask",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            0,
+            2,
+            2
+        ],
+        "skills": {
+            "7": 9
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 21
+        },
+        "name": "Chaoshroom",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "28": 3,
+            "60": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Melhoa Flower",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            0,
+            2,
+            2
+        ],
+        "skills": {
+            "19": 3,
+            "24": 3,
+            "57": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Makluva Hood",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            3
+        ],
+        "skills": {
+            "0": 4,
+            "47": 2,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Bistro Cap",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "12": 5,
+            "23": 3,
+            "25": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 9,
+            "max": 21
+        },
+        "name": "Velociprey Mask",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "22": 3,
+            "68": 1,
+            "69": -3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 28
+        },
+        "name": "Genprey Mask",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "skills": {
+            "3": 1,
+            "22": -3,
+            "69": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 14,
+            "max": 33
+        },
+        "name": "Ioprey Mask",
+        "rarity": 5,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "8": 1,
+            "15": -3,
+            "64": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Bullfango Mask",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            2,
+            2,
+            1
+        ],
+        "skills": {
+            "17": 1,
+            "35": 10
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 10
+        },
+        "name": "Red Earrings",
+        "rarity": 5,
+        "resistance": [
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "22": 5,
+            "44": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 10
+        },
+        "name": "Blue Earrings",
+        "rarity": 5,
+        "resistance": [
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "17": 4,
+            "69": 5
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 10
+        },
+        "name": "Yellow Earrings",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "59": 4,
+            "64": 5
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 10
+        },
+        "name": "Black Earrings",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            5
+        ],
+        "skills": {
+            "15": 5,
+            "34": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Mask \"Sun\"",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "55": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Mask \"Sky\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "7": 2,
+            "10": -4,
+            "19": 5
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Mask \"Heaven\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "53": 2,
+            "60": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Mask \"Moon\"",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "55": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Mask \"Sea\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "7": 2,
+            "29": -3,
+            "30": 2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Mask \"Earth\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "53": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Helm",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Helm U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Tricorne",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Tricorne",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Mask",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 3,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Mask U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Mask",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 3,
+            "46": 2,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Mask",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 3,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Helper Hood",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Helper Hood U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Hat",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Hat",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Healer Glasses",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 3,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Healer Glasses U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Earrings",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 3,
+            "46": 2,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Earrings",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 3,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 14,
+            "max": 26
+        },
+        "name": "Skull Face",
+        "rarity": 5,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 2,
+            "51": -2
+        },
+        "slots": 3,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Garuga Helm",
+        "rarity": 5,
+        "resistance": [
+            2,
+            0,
+            0,
+            2,
+            0
+        ],
+        "skills": {
+            "20": 3,
+            "24": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Garuga Cap",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "11": -2,
+            "41": 2,
+            "45": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 18
+        },
+        "name": "Garuga Mask",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "26": 3,
+            "30": 3,
+            "52": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Auroros Helm",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 1,
+            "50": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Auroros Helm Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 1,
+            "44": -4,
+            "50": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Auroros Helm Haku",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Genesis Headpiece",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 3,
+            "50": 2,
+            "59": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Genesis Headpiece Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 3,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Genesis Headpiece Haku",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 2,
+            "47": 3,
+            "52": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Borealis Crown",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 1,
+            "50": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Borealis Crown Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 1,
+            "44": -4,
+            "50": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Borealis Crown Haku",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Glyph Crown",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 3,
+            "50": 2,
+            "59": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Glyph Crown Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 3,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Glyph Crown Haku",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 2,
+            "47": 3,
+            "52": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 38,
+            "max": 56
+        },
+        "name": "Dragonhead",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "38": 3,
+            "43": 3,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 48,
+            "max": 70
+        },
+        "name": "Fatalis Crimsonhead",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "5": 6,
+            "72": 5
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 48,
+            "max": 93
+        },
+        "name": "Dragonhead S",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 5,
+            "27": -3,
+            "54": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Dragonface",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -2,
+            "39": 4,
+            "49": 3,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Fatalis Crimsonface",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "9": 4,
+            "28": -5,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 29,
+            "max": 48
+        },
+        "name": "Dragonface S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "13": 4,
+            "28": -3,
+            "52": 4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 50,
+            "max": 82
+        },
+        "name": "Golden Moon Helm",
+        "rarity": 7,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Golden Moon Cap",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 53,
+            "max": 85
+        },
+        "name": "Silver Sol Helm",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            0,
+            -1,
+            1
+        ],
+        "skills": {
+            "5": 4,
+            "17": -2,
+            "32": 2,
+            "50": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Silver Sol Cap",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            1,
+            2
+        ],
+        "skills": {
+            "5": 4,
+            "9": 3,
+            "17": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 33,
+            "max": 64
+        },
+        "name": "Kut-Ku Helm S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "19": 6
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Kut-Ku Cap S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "33": 2,
+            "44": -4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 16,
+            "max": 32
+        },
+        "name": "Hermitaur Helm",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "3": 3,
+            "12": -2,
+            "14": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Hermitaur Helm U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "12": -2,
+            "14": 2,
+            "26": 1,
+            "51": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 31,
+            "max": 68
+        },
+        "name": "Hermitaur Helm S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "6": 2,
+            "14": 3,
+            "28": 2,
+            "58": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Hermitaur Cap",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "3": 3,
+            "12": -2,
+            "14": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Hermitaur Cap U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "12": -2,
+            "14": 2,
+            "51": 2,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Hermitaur Cap S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "14": 3,
+            "53": -2,
+            "62": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Conga Helm",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 1,
+            "5": 3,
+            "67": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "Conga Helm U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 68
+        },
+        "name": "Conga Helm S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "53": -2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Conga Cap",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 1,
+            "5": 3,
+            "51": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 18,
+            "max": 28
+        },
+        "name": "Conga Cap U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 22,
+            "max": 37
+        },
+        "name": "Conga Cap S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "53": -2,
+            "59": 2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Blango Helm",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "53": -3,
+            "60": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Blango Helm U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 2,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Blango Helm S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "26": -2,
+            "28": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 12,
+            "max": 21
+        },
+        "name": "Blango Cap",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "53": -3,
+            "60": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Blango Cap U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 2,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Blango Cap S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 2,
+            "28": 1,
+            "32": -3,
+            "52": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Ceanataur Helm",
+        "rarity": 3,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2,
+            "43": -2,
+            "54": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 36,
+            "max": 52
+        },
+        "name": "Ceanataur Helm U",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 4,
+            "14": -1,
+            "54": 1,
+            "58": 2,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 38,
+            "max": 73
+        },
+        "name": "Ceanataur Helmet S",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 4,
+            "26": -3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 14,
+            "max": 22
+        },
+        "name": "Ceanataur Cap",
+        "rarity": 3,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2,
+            "37": 1,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Ceanataur Cap U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 2,
+            "5": 4,
+            "14": -1,
+            "46": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Ceanataur Cap S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "28": -2,
+            "42": 2,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 34,
+            "max": 50
+        },
+        "name": "Kirin Thunderhorn",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 1,
+            "18": 2,
+            "32": -2,
+            "66": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 43,
+            "max": 84
+        },
+        "name": "Kirin Horn S",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 4,
+            "18": 3,
+            "32": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Kirin Crest",
+        "rarity": 5,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 1,
+            "18": 2,
+            "32": -2,
+            "66": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 26,
+            "max": 43
+        },
+        "name": "Kirin Crest S",
+        "rarity": 7,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 4,
+            "18": 3,
+            "32": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 39,
+            "max": 83
+        },
+        "name": "Kushala Glare",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            4,
+            -2,
+            -3
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Kushala Snarl",
+        "rarity": 7,
+        "resistance": [
+            2,
+            3,
+            5,
+            -2,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 40,
+            "max": 77
+        },
+        "name": "Mizuha Headpiece",
+        "rarity": 7,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Extravagant Headpiece",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            -1,
+            1,
+            -1
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 43,
+            "max": 83
+        },
+        "name": "Empress Crown",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "7": 1,
+            "26": 3,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Empress Mask",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "2": 2,
+            "7": 1,
+            "52": 3,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 42,
+            "max": 89
+        },
+        "name": "Indra Helm",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            3,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "3": 4,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Steadfast Helm",
+        "rarity": 7,
+        "resistance": [
+            0,
+            5,
+            3,
+            3,
+            -1
+        ],
+        "skills": {
+            "3": 4,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 43,
+            "max": 90
+        },
+        "name": "Kaiser Crown",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "10": 4,
+            "20": 3,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Kaiser Mask",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "10": 2,
+            "33": 2,
+            "45": 3,
+            "68": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 44,
+            "max": 93
+        },
+        "name": "Guardian Spirit Mask",
+        "rarity": 7,
+        "resistance": [
+            2,
+            2,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "20": 2,
+            "46": -3,
+            "59": 2,
+            "70": 4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Carnage Mask",
+        "rarity": 7,
+        "resistance": [
+            3,
+            4,
+            -1,
+            2,
+            -1
+        ],
+        "skills": {
+            "33": 2,
+            "46": -3,
+            "59": 2,
+            "70": 4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 51,
+            "max": 75
+        },
+        "name": "Golden Hair Tie",
+        "rarity": 7,
+        "resistance": [
+            3,
+            2,
+            -2,
+            2,
+            3
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Puppet Master Mask",
+        "rarity": 7,
+        "resistance": [
+            4,
+            3,
+            -1,
+            3,
+            4
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 59,
+            "max": 95
+        },
+        "name": "White Fatalis Head",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 3,
+            "27": 2,
+            "54": -3,
+            "58": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "White Fatalis Face",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -5,
+            "33": 2,
+            "46": -2,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 13,
+            "max": 25
+        },
+        "name": "White Velociprey Mask",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "31": 3,
+            "56": 1,
+            "64": -3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 13,
+            "max": 34
+        },
+        "name": "Remobra Mask",
+        "rarity": 5,
+        "resistance": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "skills": {
+            "18": -4,
+            "27": 2,
+            "40": 2,
+            "59": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Feather",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Mask",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Maiden's Hat",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Personal Hat",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 10,
+            "max": 10
+        },
+        "name": "White Earrings",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            5,
+            0,
+            0
+        ],
+        "skills": {
+            "31": 5,
+            "47": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Lobster Cap",
+        "rarity": 5,
+        "resistance": [
+            0,
+            6,
+            3,
+            -5,
+            0
+        ],
+        "skills": {
+            "10": 3,
+            "64": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Amethyst Cap",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            0,
+            1
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 0,
+        "defense": {
+            "base": 55,
+            "max": 55
+        },
+        "name": "Flared Earrings",
+        "rarity": 7,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "47": 11
+        },
+        "slots": 0,
+        "type": 0
+    }
+]

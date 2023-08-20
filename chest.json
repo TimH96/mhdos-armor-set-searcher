@@ -1,0 +1,5669 @@
+[
+    {
+        "category": 1,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Leather Vest",
+        "rarity": 1,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "11": 2,
+            "24": 3,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 7,
+            "max": 21
+        },
+        "name": "Leather Mail U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "24": 3,
+            "70": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 11,
+            "max": 35
+        },
+        "name": "Leather Mail S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "11": 3,
+            "24": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Chain Mail",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "60": 3,
+            "70": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 8,
+            "max": 23
+        },
+        "name": "Chain Mail U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "66": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 36
+        },
+        "name": "Chain Mail S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "57": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 4,
+            "max": 24
+        },
+        "name": "Hunter's Mail",
+        "rarity": 1,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Hunter's Mail U",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "21": 2,
+            "34": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 51
+        },
+        "name": "Hunter Mail S",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "20": 2,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 2,
+            "max": 16
+        },
+        "name": "Hunter's Vest",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 11,
+            "max": 24
+        },
+        "name": "Hunter's Vest U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "21": 2,
+            "34": 1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 13,
+            "max": 39
+        },
+        "name": "Hunter Vest S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "39": 3,
+            "40": 2,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 9,
+            "max": 26
+        },
+        "name": "Bone Mail",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "30": 2,
+            "43": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Bone Mail U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "17": 1,
+            "28": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 54
+        },
+        "name": "Bone Mail S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "5": 2,
+            "59": 1,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 4,
+            "max": 14
+        },
+        "name": "Bone Vest",
+        "rarity": 1,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "30": 2,
+            "43": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Bone Vest U",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "1": 1,
+            "2": 2,
+            "46": -2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "Bone Vest S",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 2,
+            "47": 1,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Velociprey Mail",
+        "rarity": 2,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "58": 2,
+            "60": 2,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Velociprey Mail U",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "14": -3,
+            "27": 2,
+            "61": 2,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Velociprey Mail S",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "22": -2,
+            "61": 2,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 5,
+            "max": 13
+        },
+        "name": "Velociprey Vest",
+        "rarity": 2,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "38": -2,
+            "60": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Velociprey Vest U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "40": 2,
+            "46": -3,
+            "61": 2,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Velociprey Vest S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "61": 2,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Battle Mail",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "3": -3,
+            "5": 2,
+            "20": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 22,
+            "max": 45
+        },
+        "name": "Battle Mail U",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "28": 1,
+            "54": 1,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 26,
+            "max": 57
+        },
+        "name": "Battle Mail S",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "21": -1,
+            "59": -1,
+            "62": 1,
+            "72": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 6,
+            "max": 13
+        },
+        "name": "Battle Vest",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "33": 2,
+            "59": -3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Battle Vest U",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "46": -2,
+            "52": 3,
+            "59": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Battle Vest S",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "16": 1,
+            "19": 1,
+            "46": -1,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Mail",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "43": -3,
+            "54": 2,
+            "58": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 23,
+            "max": 46
+        },
+        "name": "Vespoid Mail U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "50": 1,
+            "61": -2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 27,
+            "max": 58
+        },
+        "name": "Vespoid Mail S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "50": -2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Vespoid Vest",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "11": 2,
+            "38": 2,
+            "59": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Vespoid Vest U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "41": 1,
+            "50": 3,
+            "70": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Vespoid Vest S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "42": 1,
+            "52": -1,
+            "59": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 14,
+            "max": 29
+        },
+        "name": "Hornet Mail",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 3,
+            "16": 1,
+            "46": -1,
+            "51": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hornet Mail U",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 3,
+            "57": 2,
+            "59": 1,
+            "62": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hornet Mail S",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 3,
+            "31": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 8,
+            "max": 16
+        },
+        "name": "Hornet Vest",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 3,
+            "16": 1,
+            "46": -1,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Hornet Vest U",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 2,
+            "16": 2,
+            "46": -1,
+            "57": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 38
+        },
+        "name": "Hornet Vest S",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 3,
+            "31": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 27
+        },
+        "name": "Hi-Metal Mail",
+        "rarity": 2,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "21": -1,
+            "22": -2,
+            "28": 2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 47
+        },
+        "name": "Hi-Metal Mail U",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "30": -3,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Hi-Metal Mail S",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 2,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 7,
+            "max": 13
+        },
+        "name": "Hi-Metal Vest",
+        "rarity": 2,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "28": 2,
+            "61": -1,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Hi-Metal Vest U",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "30": -3,
+            "46": 2,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 17,
+            "max": 39
+        },
+        "name": "Hi-Metal Vest S",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 2,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Genprey Mail",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "10": -1,
+            "29": 2,
+            "38": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Genprey Mail U",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 60
+        },
+        "name": "Genprey Mail S",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "38": 2,
+            "54": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 8,
+            "max": 17
+        },
+        "name": "Genprey Vest",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "10": -1,
+            "29": 2,
+            "38": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Genprey Vest U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Genprey Vest S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "13": 2,
+            "29": 2,
+            "31": -2,
+            "38": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 30
+        },
+        "name": "Kut-Ku Mail",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "60": 1,
+            "63": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Kut-Ku Mail U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "19": 2,
+            "59": -2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 33,
+            "max": 64
+        },
+        "name": "Kut-Ku Mail S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            0,
+            -1
+        ],
+        "skills": {
+            "5": 3,
+            "44": -5,
+            "60": 1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 9,
+            "max": 15
+        },
+        "name": "Kut-Ku Vest",
+        "rarity": 3,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "63": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Kut-Ku Vest U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "19": 2,
+            "59": -2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Kut-Ku Vest S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            1,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "33": 1,
+            "44": -4,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Ioprey Mail",
+        "rarity": 2,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "43": 3,
+            "58": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 48
+        },
+        "name": "Ioprey Mail U",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "28": 2,
+            "43": 3,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Ioprey Mail S",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 8,
+            "max": 18
+        },
+        "name": "Ioprey Vest",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "37": 2,
+            "43": 2,
+            "51": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Ioprey Vest U",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "43": 3,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Ioprey Vest S",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "38": -2,
+            "43": 2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Gypceros Mail",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 2,
+            "55": -1,
+            "59": -2,
+            "67": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gypceros Mail U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "54": 2,
+            "59": -2,
+            "71": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 32,
+            "max": 68
+        },
+        "name": "Gypceros Mail S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "30": -3,
+            "43": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Gypceros Vest",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "1": 1,
+            "43": 2,
+            "46": -1,
+            "59": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Gypceros Vest U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "1": 2,
+            "43": 3,
+            "59": -2,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 39
+        },
+        "name": "Gypceros Vest S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "30": -3,
+            "43": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 29
+        },
+        "name": "Cephalos Mail",
+        "rarity": 2,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "43": -3,
+            "54": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Cephalos Mail U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "54": 2,
+            "62": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 29,
+            "max": 62
+        },
+        "name": "Cephalos Mail S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 3,
+            "58": 2,
+            "59": 4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 10,
+            "max": 17
+        },
+        "name": "Cephalos Vest",
+        "rarity": 2,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "11": 1,
+            "29": 2,
+            "38": -2,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 16,
+            "max": 24
+        },
+        "name": "Cephalos Vest U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "1": 2,
+            "29": 3,
+            "47": 2,
+            "64": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 40
+        },
+        "name": "Cephalos Vest S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "29": 3,
+            "40": 1,
+            "41": 2,
+            "52": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 31
+        },
+        "name": "Steel Mail",
+        "rarity": 2,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 3,
+            "43": -3,
+            "54": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Steel Mail U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 5,
+            "32": 4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 30,
+            "max": 64
+        },
+        "name": "Steel Mail S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            0,
+            -2,
+            0
+        ],
+        "skills": {
+            "26": 6,
+            "28": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Rathian Mail",
+        "rarity": 3,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "16": 2,
+            "28": 2,
+            "70": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Rath Heart Mail",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "0": 1,
+            "28": 2,
+            "56": -2,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Rathian Mail S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "16": 2,
+            "28": 3,
+            "46": -1,
+            "58": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 20
+        },
+        "name": "Rathian Vest",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "28": 2,
+            "59": 2,
+            "70": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Rath Heart Vest",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "0": 1,
+            "28": 2,
+            "56": -2,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Rathian Vest S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "28": 3,
+            "41": 1,
+            "46": -1,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 26,
+            "max": 37
+        },
+        "name": "Khezu Mail",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "19": 2,
+            "43": -1,
+            "50": 1,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Khezu Mail U",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -3,
+            0,
+            4,
+            0
+        ],
+        "skills": {
+            "50": 2,
+            "59": 1,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Khezu Mail S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": 1,
+            "43": -1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 13,
+            "max": 20
+        },
+        "name": "Khezu Vest",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "19": 2,
+            "43": -1,
+            "50": 1,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Khezu Vest U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            -1,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "49": 1,
+            "50": 2,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Khezu Vest S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "21": 1,
+            "43": -1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Rathalos Mail",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "47": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 37,
+            "max": 54
+        },
+        "name": "Rath Soul Mail",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            0,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 4,
+            "14": -3,
+            "20": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 39,
+            "max": 76
+        },
+        "name": "Rathalos Mail S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 5,
+            "62": -4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 14,
+            "max": 24
+        },
+        "name": "Rathalos Vest",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "47": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 31
+        },
+        "name": "Rath Soul Vest",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "24": -3,
+            "39": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Rathalos Vest S",
+        "rarity": 7,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 5,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 36
+        },
+        "name": "Plesioth Mail",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": -2,
+            "16": 2,
+            "19": 2,
+            "30": 2,
+            "46": -1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Plesioth Mail U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "56": 4,
+            "63": 1,
+            "67": 4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 38,
+            "max": 72
+        },
+        "name": "Plesioth Mail S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": 2,
+            "29": 2,
+            "58": 1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 13,
+            "max": 21
+        },
+        "name": "Plesioth Vest",
+        "rarity": 3,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "16": 2,
+            "19": 2,
+            "30": 2,
+            "46": -1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Plesioth Vest U",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "0": 1,
+            "56": 4,
+            "67": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Plesioth Vest S",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": 2,
+            "11": 1,
+            "29": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 36
+        },
+        "name": "Lobster Mail",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            6,
+            2,
+            -6,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "64": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 33,
+            "max": 50
+        },
+        "name": "Amethyst Mail",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Lobster Vest",
+        "rarity": 5,
+        "resistance": [
+            0,
+            6,
+            3,
+            -5,
+            0
+        ],
+        "skills": {
+            "10": 3,
+            "64": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Amethyst Vest",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            0,
+            1
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Basarios Mail",
+        "rarity": 3,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "43": 2,
+            "62": 2,
+            "67": 2,
+            "69": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 33,
+            "max": 54
+        },
+        "name": "Basarios Mail U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "31": -2,
+            "43": 2,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 73
+        },
+        "name": "Basarios Mail S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "43": 2,
+            "62": 3,
+            "69": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 10,
+            "max": 20
+        },
+        "name": "Basarios Vest",
+        "rarity": 3,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "33": 3,
+            "43": 1,
+            "52": -3,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 28
+        },
+        "name": "Basarios Vest U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "31": -2,
+            "43": 2,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 23,
+            "max": 40
+        },
+        "name": "Basarios Vest S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "43": 2,
+            "62": 3,
+            "69": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Diablo Mail",
+        "rarity": 3,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "21": -1,
+            "44": 2,
+            "67": 2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 39,
+            "max": 57
+        },
+        "name": "Diablo Mail U",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 41,
+            "max": 81
+        },
+        "name": "Diablo Mail S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 23
+        },
+        "name": "Diablo Vest",
+        "rarity": 3,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": -2,
+            "28": 1,
+            "33": 1,
+            "52": -1,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Diablo Vest U",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Diablo Vest S",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": -3,
+            "72": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 30,
+            "max": 44
+        },
+        "name": "Monoblos Mail",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "28": 2,
+            "32": 2,
+            "51": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 40,
+            "max": 58
+        },
+        "name": "Monodevil Mail",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "27": 1,
+            "32": 2,
+            "44": 2,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Monoblos Mail S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "28": 2,
+            "32": 2,
+            "44": 1,
+            "51": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Monoblos Vest",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 2,
+            "28": 2,
+            "32": 2,
+            "51": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 33
+        },
+        "name": "Monodevil Vest",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "32": 2,
+            "33": 1,
+            "44": 2,
+            "46": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Monoblos Vest S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "28": 1,
+            "32": 3,
+            "42": 2,
+            "44": 1,
+            "52": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 30,
+            "max": 49
+        },
+        "name": "Gravios Mail",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "26": 2,
+            "29": 3,
+            "59": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 41,
+            "max": 61
+        },
+        "name": "Gravios Mail U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "14": 1,
+            "26": 3,
+            "28": 2,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 42,
+            "max": 82
+        },
+        "name": "Gravios Mail S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "14": 3,
+            "26": 3,
+            "54": -2,
+            "59": -1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 25
+        },
+        "name": "Gravios Vest",
+        "rarity": 3,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "29": 2,
+            "70": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Gravios Vest U",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 1,
+            "30": -2,
+            "49": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Gravios Vest S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "14": 3,
+            "30": -3,
+            "49": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Black Belt Mail",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "27": 2,
+            "33": 2,
+            "68": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 37
+        },
+        "name": "Black Belt Mail S",
+        "rarity": 6,
+        "resistance": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "skills": {
+            "20": 5,
+            "54": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 3,
+            "max": 8
+        },
+        "name": "Moss Breastplate",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "17": 3,
+            "25": 2,
+            "30": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Melhoa Jacket",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            0,
+            2,
+            2
+        ],
+        "skills": {
+            "19": 1,
+            "24": 3,
+            "57": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Makluva Cover",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            3
+        ],
+        "skills": {
+            "0": 3,
+            "47": 1,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Bistro Suit",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "12": 5,
+            "23": 3,
+            "25": 1
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 9,
+            "max": 21
+        },
+        "name": "Velociprey Body",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "22": 1,
+            "68": 1,
+            "69": -3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 11,
+            "max": 28
+        },
+        "name": "Genprey Body",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "skills": {
+            "3": 1,
+            "22": -3,
+            "69": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 14,
+            "max": 33
+        },
+        "name": "Ioprey Body",
+        "rarity": 5,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "8": 1,
+            "15": -3,
+            "64": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Suit \"Sun\"",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "55": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Suit \"Sky\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "7": 2,
+            "10": -3,
+            "19": 4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Suit \"Heaven\"",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "53": 2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Shinobi Suit \"Moon\"",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "55": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Shinobi Suit \"Sea\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "7": 2,
+            "29": -3,
+            "30": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Shinobi Suit \"Earth\"",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "53": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Suit",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Suit U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Suit",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 1,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Suit",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 1,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Guardian Vest",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Guardian Vest U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Vest",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 1,
+            "46": 2,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Vest",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 1,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Helper Suit",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Helper Suit U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Suit",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 1,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Suit",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 1,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 30
+        },
+        "name": "Healer Sest",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 36
+        },
+        "name": "Healer Suit U",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Red Guild Guard Vest",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 1,
+            "46": 2,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Vest",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 1,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Garuga Mail",
+        "rarity": 5,
+        "resistance": [
+            2,
+            0,
+            0,
+            2,
+            0
+        ],
+        "skills": {
+            "20": 3,
+            "24": -3,
+            "26": 1,
+            "30": 1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 25
+        },
+        "name": "Garuga Vest",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "11": -2,
+            "30": 1,
+            "41": 2,
+            "45": -2,
+            "52": 1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Auroros Torso",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 3,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Auroros Torso Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 1,
+            "44": -2,
+            "50": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Auroros Torso Ha",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Genesis Torso",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "47": 2,
+            "50": 4,
+            "59": -1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Genesis Torso Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 1,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Genesis Torso Ha",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 1,
+            "47": 3,
+            "52": -3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Borealis Chest",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 3,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 43,
+            "max": 63
+        },
+        "name": "Borealis Chest Mai",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 1,
+            "44": -2,
+            "50": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 44,
+            "max": 84
+        },
+        "name": "Borealis Chest Ha",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 26
+        },
+        "name": "Glyph Chest",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "47": 2,
+            "50": 4,
+            "59": -1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 22,
+            "max": 34
+        },
+        "name": "Glyph Chest Mai",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 1,
+            "41": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 29,
+            "max": 43
+        },
+        "name": "Glyph Chest Ha",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 1,
+            "47": 3,
+            "52": -3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 38,
+            "max": 56
+        },
+        "name": "Dragonhide",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "38": 3,
+            "43": 3,
+            "61": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 48,
+            "max": 70
+        },
+        "name": "Fatalis Crimsonhide",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "5": 4,
+            "72": 5
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 48,
+            "max": 93
+        },
+        "name": "Dragonhide S",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 5,
+            "27": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Dragonskin",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -2,
+            "39": 2,
+            "49": 3,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Fatalis Crimsonskin",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "9": 4,
+            "28": -3,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 29,
+            "max": 48
+        },
+        "name": "Dragonskin S",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "13": 4,
+            "28": -3,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 50,
+            "max": 82
+        },
+        "name": "Golden Moon Mail",
+        "rarity": 7,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "21": 3,
+            "28": 2,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Golden Moon Vest",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "21": 3,
+            "28": 2,
+            "55": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 53,
+            "max": 85
+        },
+        "name": "Silver Sol Mail",
+        "rarity": 7,
+        "resistance": [
+            2,
+            -1,
+            0,
+            -1,
+            1
+        ],
+        "skills": {
+            "5": 4,
+            "17": -2,
+            "32": 2,
+            "50": 1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 42
+        },
+        "name": "Silver Sol Vest",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            1,
+            2
+        ],
+        "skills": {
+            "5": 4,
+            "9": 3,
+            "17": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 16,
+            "max": 32
+        },
+        "name": "Hermitaur Mail",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "3": 3,
+            "12": -2,
+            "14": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 28,
+            "max": 47
+        },
+        "name": "Hermitaur Mail U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "14": 3,
+            "26": 1,
+            "30": 2,
+            "51": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 31,
+            "max": 68
+        },
+        "name": "Hermitaur Mail S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "6": 1,
+            "14": 2,
+            "58": -1,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 10,
+            "max": 18
+        },
+        "name": "Hermitaur Vest",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "3": 3,
+            "12": -2,
+            "14": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Hermitaur Vest U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "14": 3,
+            "51": 1,
+            "61": -2,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 37
+        },
+        "name": "Hermitaur Vest S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "14": 2,
+            "53": -2,
+            "62": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 17,
+            "max": 35
+        },
+        "name": "Conga Mail",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 1,
+            "5": 2,
+            "67": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "Conga Mail U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 1,
+            "5": 2,
+            "12": -2,
+            "30": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 68
+        },
+        "name": "Conga Mail S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "53": -2,
+            "60": 2,
+            "63": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 11,
+            "max": 19
+        },
+        "name": "Conga Vest",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 1,
+            "5": 2,
+            "51": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 18,
+            "max": 28
+        },
+        "name": "Conga Vest U",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 1,
+            "5": 2,
+            "12": -2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 22,
+            "max": 37
+        },
+        "name": "Conga Vest S",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "5": 2,
+            "53": -2,
+            "59": 1,
+            "60": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 21,
+            "max": 42
+        },
+        "name": "Blango Mail",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 2,
+            "53": -2,
+            "60": 1,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 35,
+            "max": 51
+        },
+        "name": "Blango Mail U",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 37,
+            "max": 72
+        },
+        "name": "Blango Mail S",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 2,
+            "26": -3,
+            "28": 4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 12,
+            "max": 21
+        },
+        "name": "Blango Vest",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 2,
+            "53": -2,
+            "60": 1,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 19,
+            "max": 29
+        },
+        "name": "Blango Vest U",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Blango Vest S",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 2,
+            "28": 2,
+            "32": -3,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Ceanataur Mail",
+        "rarity": 3,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 1,
+            "43": -2,
+            "54": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 36,
+            "max": 52
+        },
+        "name": "Ceanataur Mail U",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "58": 1,
+            "60": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 38,
+            "max": 73
+        },
+        "name": "Ceanataur Mail S",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 5,
+            "26": -3,
+            "63": 1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 14,
+            "max": 22
+        },
+        "name": "Ceanataur Vest",
+        "rarity": 3,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "28": 2,
+            "37": 1,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 30
+        },
+        "name": "Ceanataur Vest U",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "14": -2,
+            "52": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Ceanataur Vest S",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 5,
+            "28": -2,
+            "42": 1,
+            "52": -1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 34,
+            "max": 50
+        },
+        "name": "Kirin Jacket",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 2,
+            "18": 2,
+            "32": -2,
+            "66": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 43,
+            "max": 84
+        },
+        "name": "Kirin Jacket S",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 3,
+            "18": 3,
+            "32": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 16,
+            "max": 28
+        },
+        "name": "Kirin Cape",
+        "rarity": 5,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 2,
+            "18": 2,
+            "32": -2,
+            "66": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 26,
+            "max": 43
+        },
+        "name": "Kirin Cape S",
+        "rarity": 7,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 3,
+            "18": 3,
+            "32": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 39,
+            "max": 83
+        },
+        "name": "Kushala Cista",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            4,
+            -2,
+            -3
+        ],
+        "skills": {
+            "29": 1,
+            "43": -1,
+            "50": 3,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 24,
+            "max": 41
+        },
+        "name": "Kushala Vise",
+        "rarity": 7,
+        "resistance": [
+            2,
+            3,
+            5,
+            -2,
+            -2
+        ],
+        "skills": {
+            "29": 1,
+            "43": -1,
+            "50": 3,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 40,
+            "max": 77
+        },
+        "name": "Mizuha Chest",
+        "rarity": 7,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 25,
+            "max": 42
+        },
+        "name": "Extravagant Chest",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            -1,
+            1,
+            -1
+        ],
+        "skills": {
+            "16": 2,
+            "46": -1,
+            "53": 2,
+            "72": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 43,
+            "max": 83
+        },
+        "name": "Empress Mail",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "2": 1,
+            "7": 2,
+            "26": 4,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Empress Vest",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "2": 1,
+            "7": 2,
+            "52": 4,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 42,
+            "max": 89
+        },
+        "name": "Indra Chest",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            3,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "3": 2,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Steadfast Chest",
+        "rarity": 7,
+        "resistance": [
+            0,
+            5,
+            3,
+            3,
+            -1
+        ],
+        "skills": {
+            "3": 2,
+            "17": -2,
+            "67": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 43,
+            "max": 90
+        },
+        "name": "Kaiser Mail",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "20": 3,
+            "68": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Kaiser Vest",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "10": 3,
+            "33": 2,
+            "45": 1,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 44,
+            "max": 93
+        },
+        "name": "Guardian Spirit Coat",
+        "rarity": 7,
+        "resistance": [
+            2,
+            2,
+            -2,
+            0,
+            -2
+        ],
+        "skills": {
+            "20": 2,
+            "46": -3,
+            "59": 2,
+            "70": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 27,
+            "max": 46
+        },
+        "name": "Carnage Coat",
+        "rarity": 7,
+        "resistance": [
+            3,
+            4,
+            -1,
+            2,
+            -1
+        ],
+        "skills": {
+            "33": 2,
+            "46": -3,
+            "59": 2,
+            "70": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 51,
+            "max": 75
+        },
+        "name": "Golden Haori",
+        "rarity": 7,
+        "resistance": [
+            3,
+            2,
+            -2,
+            2,
+            3
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 26,
+            "max": 38
+        },
+        "name": "Puppet Master Costume",
+        "rarity": 7,
+        "resistance": [
+            4,
+            3,
+            -1,
+            3,
+            4
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 59,
+            "max": 95
+        },
+        "name": "White Fatalis Hide",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 3,
+            "27": 2,
+            "54": -1,
+            "58": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 32,
+            "max": 48
+        },
+        "name": "White Fatalis Skin",
+        "rarity": 7,
+        "resistance": [
+            2,
+            4,
+            3,
+            4,
+            -2
+        ],
+        "skills": {
+            "28": -3,
+            "33": 2,
+            "46": -2,
+            "48": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 13,
+            "max": 25
+        },
+        "name": "White Velociprey Body",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "31": 1,
+            "56": 1,
+            "64": -3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 13,
+            "max": 34
+        },
+        "name": "Remobra Body",
+        "rarity": 5,
+        "resistance": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "skills": {
+            "18": -4,
+            "27": 1,
+            "40": 1,
+            "59": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Suit",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Guild Knight Vest",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Maiden's Vest",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 15,
+            "max": 33
+        },
+        "name": "Personal Vest",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "8": 3,
+            "46": -2,
+            "50": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 8,
+            "max": 8
+        },
+        "name": "Hunter T-Shirt",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "21": 3,
+            "25": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 4,
+            "max": 10
+        },
+        "name": "Famitsu T-Shirt",
+        "rarity": 5,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "skills": {
+            "46": 3,
+            "59": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 20,
+            "max": 20
+        },
+        "name": "Famitsu T-Shirt S",
+        "rarity": 6,
+        "resistance": [
+            4,
+            4,
+            4,
+            4,
+            4
+        ],
+        "skills": {
+            "8": 3,
+            "46": 4
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 1,
+        "defense": {
+            "base": 55,
+            "max": 80
+        },
+        "name": "Guild Hero Mail",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -5
+        ],
+        "skills": {
+            "20": 4,
+            "46": 5
+        },
+        "slots": 0,
+        "type": 0
+    }
+]

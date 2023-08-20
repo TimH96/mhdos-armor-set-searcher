@@ -1,0 +1,1065 @@
+[
+    {
+        "name": "Attack Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "5": 1,
+            "14": -1
+        }
+    },
+    {
+        "name": "Attack Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "5": 3,
+            "14": -1
+        }
+    },
+    {
+        "name": "Attack Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "5": 5,
+            "14": -1
+        }
+    },
+    {
+        "name": "Defense Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "14": 1
+        }
+    },
+    {
+        "name": "Defense Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "14": 3
+        }
+    },
+    {
+        "name": "Defense Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "14": 5
+        }
+    },
+    {
+        "name": "Steadfast Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "61": 1,
+            "17": -1
+        }
+    },
+    {
+        "name": "Steadfast Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "61": 2,
+            "17": -1
+        }
+    },
+    {
+        "name": "Steadfast Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "61": 3,
+            "17": -1
+        }
+    },
+    {
+        "name": "Paralysis Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "38": 1,
+            "46": -1
+        }
+    },
+    {
+        "name": "Paralysis Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "38": 3,
+            "46": -1
+        }
+    },
+    {
+        "name": "Pep Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "55": 1
+        }
+    },
+    {
+        "name": "Pep Jewel 2",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "55": 2
+        }
+    },
+    {
+        "name": "Antidote Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "43": 1,
+            "56": -1
+        }
+    },
+    {
+        "name": "Antidote Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "43": 3,
+            "56": -1
+        }
+    },
+    {
+        "name": "Antibacterial Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "3": 1
+        }
+    },
+    {
+        "name": "Antibacterial Jewel 2",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "3": 2
+        }
+    },
+    {
+        "name": "Steady Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "67": 1,
+            "55": -1
+        }
+    },
+    {
+        "name": "Minstrel's Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "68": 1,
+            "3": -1
+        }
+    },
+    {
+        "name": "Snow Resistance Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "56": 1,
+            "61": -1
+        }
+    },
+    {
+        "name": "Ninja Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "53": 2
+        }
+    },
+    {
+        "name": "Vitality Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "28": 1,
+            "17": 1
+        }
+    },
+    {
+        "name": "Vitality Jewel 2",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "28": 2
+        }
+    },
+    {
+        "name": "Vitality Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "28": 3,
+            "14": 1
+        }
+    },
+    {
+        "name": "Handicraft Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "27": 1,
+            "44": -1
+        }
+    },
+    {
+        "name": "Handicraft Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "27": 1,
+            "44": -1
+        }
+    },
+    {
+        "name": "Razor Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "54": 1,
+            "59": -1
+        }
+    },
+    {
+        "name": "Razor Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "54": 3,
+            "59": -1
+        }
+    },
+    {
+        "name": "Expert Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "20": 1,
+            "51": -1
+        }
+    },
+    {
+        "name": "Expert Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "20": 3,
+            "51": -1
+        }
+    },
+    {
+        "name": "Grinder Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "58": 2
+        }
+    },
+    {
+        "name": "Ironwall Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "26": 1,
+            "59": -1
+        }
+    },
+    {
+        "name": "Guard Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "6": 1,
+            "58": -1
+        }
+    },
+    {
+        "name": "Guard Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "6": 3,
+            "58": -2
+        }
+    },
+    {
+        "name": "Throwing Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "63": 2
+        }
+    },
+    {
+        "name": "Absorber Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "49": 1,
+            "30": -1
+        }
+    },
+    {
+        "name": "Absorber Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "49": 2,
+            "30": -1
+        }
+    },
+    {
+        "name": "Forceshot Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "37": 1,
+            "52": -1
+        }
+    },
+    {
+        "name": "Pierce Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "42": 1,
+            "52": -1
+        }
+    },
+    {
+        "name": "Pellet Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "40": 1,
+            "52": -1
+        }
+    },
+    {
+        "name": "Shot Plus Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "36": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Pierce Plus Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "41": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Pellet Plus Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "39": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Crag Plus Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "13": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Cluster Plus Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "9": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Shot Plus Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "36": 3,
+            "70": -1
+        }
+    },
+    {
+        "name": "Pierce Plus Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "41": 3,
+            "70": -1
+        }
+    },
+    {
+        "name": "Pellet Plus Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "39": 3,
+            "70": -1
+        }
+    },
+    {
+        "name": "Crag Plus Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "13": 3,
+            "70": -1
+        }
+    },
+    {
+        "name": "Cluster Plus Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "9": 3,
+            "70": -1
+        }
+    },
+    {
+        "name": "Loading Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "33": 1,
+            "52": -1
+        }
+    },
+    {
+        "name": "Precision Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "45": 2
+        }
+    },
+    {
+        "name": "Status Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "60": 1,
+            "50": -1
+        }
+    },
+    {
+        "name": "Bombardier Jewel",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "7": 2
+        }
+    },
+    {
+        "name": "Satiation Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "30": 1,
+            "29": -1
+        }
+    },
+    {
+        "name": "Metabolic Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "25": 2
+        }
+    },
+    {
+        "name": "Ravenous Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "17": 2
+        }
+    },
+    {
+        "name": "BBQ Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "12": 2
+        }
+    },
+    {
+        "name": "Stamina Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "59": 1,
+            "62": -1
+        }
+    },
+    {
+        "name": "Divine Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "46": 2
+        }
+    },
+    {
+        "name": "Earplug Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "16": 1,
+            "46": -1
+        }
+    },
+    {
+        "name": "Earplug Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "16": 4,
+            "46": -2
+        }
+    },
+    {
+        "name": "Heavy Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "72": 1,
+            "21": -1
+        }
+    },
+    {
+        "name": "Heavy Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "72": 3,
+            "21": -1
+        }
+    },
+    {
+        "name": "Traveller's Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "62": 1,
+            "59": -1
+        }
+    },
+    {
+        "name": "Evasion Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "19": 1,
+            "10": -1
+        }
+    },
+    {
+        "name": "Evasion Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "19": 2,
+            "10": -1
+        }
+    },
+    {
+        "name": "Riskbreaker Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "44": 1
+        }
+    },
+    {
+        "name": "Anti-Theft Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "2": 2
+        }
+    },
+    {
+        "name": "Enduring Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "32": 1,
+            "71": -1
+        }
+    },
+    {
+        "name": "Enduring Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "32": 2,
+            "71": -1
+        }
+    },
+    {
+        "name": "Friendship Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "71": 1,
+            "61": -1
+        }
+    },
+    {
+        "name": "Friendship Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "71": 3,
+            "61": -1
+        }
+    },
+    {
+        "name": "Transport Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "66": 1,
+            "53": -1
+        }
+    },
+    {
+        "name": "Transport Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "66": 4
+        }
+    },
+    {
+        "name": "Resistance Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "18": 1,
+            "55": -1
+        }
+    },
+    {
+        "name": "Resistance Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "18": 3,
+            "55": -1
+        }
+    },
+    {
+        "name": "Resistance Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "18": 5,
+            "55": -1
+        }
+    },
+    {
+        "name": "Blaze Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "22": 1,
+            "69": -1
+        }
+    },
+    {
+        "name": "Blaze Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "22": 3,
+            "69": -1
+        }
+    },
+    {
+        "name": "Blaze Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "22": 5,
+            "69": -1
+        }
+    },
+    {
+        "name": "Stream Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "69": 1,
+            "22": -1
+        }
+    },
+    {
+        "name": "Stream Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "69": 3,
+            "22": -1
+        }
+    },
+    {
+        "name": "Stream Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "69": 5,
+            "22": -1
+        }
+    },
+    {
+        "name": "Frost Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "31": 1,
+            "64": -1
+        }
+    },
+    {
+        "name": "Frost Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "31": 3,
+            "64": -1
+        }
+    },
+    {
+        "name": "Frost Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "31": 5,
+            "64": -1
+        }
+    },
+    {
+        "name": "Bolt Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "64": 1,
+            "15": -1
+        }
+    },
+    {
+        "name": "Bolt Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "64": 3,
+            "15": -1
+        }
+    },
+    {
+        "name": "Bolt Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "64": 5,
+            "15": -1
+        }
+    },
+    {
+        "name": "Dragon Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "15": 1,
+            "31": -1
+        }
+    },
+    {
+        "name": "Dragon Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "15": 3,
+            "31": -1
+        }
+    },
+    {
+        "name": "Dragon Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "15": 5,
+            "31": -1
+        }
+    },
+    {
+        "name": "Cold Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "29": 1
+        }
+    },
+    {
+        "name": "Cold Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "29": 4
+        }
+    },
+    {
+        "name": "Hot Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "10": 1
+        }
+    },
+    {
+        "name": "Hot Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "10": 4
+        }
+    },
+    {
+        "name": "Map Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "34": 2
+        }
+    },
+    {
+        "name": "Gathering Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "24": 1
+        }
+    },
+    {
+        "name": "Gathering Jewel 2",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "24": 2
+        }
+    },
+    {
+        "name": "Gathering Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "24": 3,
+            "70": 1
+        }
+    },
+    {
+        "name": "Snatcher Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "57": 1
+        }
+    },
+    {
+        "name": "Snatcher Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "57": 4
+        }
+    },
+    {
+        "name": "Blessing Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "70": 1
+        }
+    },
+    {
+        "name": "Blessing Jewel 2",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "70": 2
+        }
+    },
+    {
+        "name": "Carver Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "8": 1,
+            "59": -1
+        }
+    },
+    {
+        "name": "Carver Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "8": 3,
+            "59": -1
+        }
+    },
+    {
+        "name": "Fate Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "21": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Fate Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "21": 2,
+            "70": -1
+        }
+    },
+    {
+        "name": "Fisher's Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "23": 2
+        }
+    },
+    {
+        "name": "Psychic Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "47": 1,
+            "53": -1
+        }
+    },
+    {
+        "name": "Psychic Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "47": 3,
+            "53": -1
+        }
+    },
+    {
+        "name": "Psychic Jewel 3",
+        "rarity": 5,
+        "requiredSlots": 3,
+        "skills": {
+            "47": 5,
+            "53": -1
+        }
+    },
+    {
+        "name": "Recovery Jewel 1",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "50": 1,
+            "43": -1
+        }
+    },
+    {
+        "name": "Recovery Jewel 2",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "50": 2,
+            "43": -1
+        }
+    },
+    {
+        "name": "Medicine Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "51": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Medicine Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "51": 1,
+            "70": -1
+        }
+    },
+    {
+        "name": "Professor Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "11": 2
+        }
+    },
+    {
+        "name": "Combination Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "1": 1,
+            "46": -1
+        }
+    },
+    {
+        "name": "Alchemical Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "0": 2
+        }
+    },
+    {
+        "name": "Giant Jewel",
+        "rarity": 4,
+        "requiredSlots": 1,
+        "skills": {
+            "35": 2
+        }
+    },
+    {
+        "name": "Cannoneer's Jewel",
+        "rarity": 5,
+        "requiredSlots": 2,
+        "skills": {
+            "4": 2,
+            "59": -1
+        }
+    }
+]
