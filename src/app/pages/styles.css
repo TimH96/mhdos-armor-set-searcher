@@ -43,6 +43,10 @@ ul {
   margin: 0;
 }
 
+tr, td, th {
+  text-align: center;
+}
+
 /* main sections */
 
 #header {
@@ -177,7 +181,7 @@ ul {
 
 .search-picker-activation {
   margin: 0.4em 0.7em;
-  width: 10em;
+  width: 14em;
   display: inline-flex;
   white-space: nowrap;
   cursor: pointer;
