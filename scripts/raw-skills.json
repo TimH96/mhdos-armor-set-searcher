@@ -1,0 +1,1140 @@
+[
+  {
+    "name": "Alchemy",
+    "japanese": "錬金術",
+    "desc": "Allow special item combinations without the Alchemy Book.",
+    "stages": ["", "", "", "Alchemy", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Alchemy" }]
+  },
+  {
+    "name": "Ammo Maker",
+    "japanese": "弾調合",
+    "desc": "Always make the maximum possible amount of ammunition when combining.",
+    "stages": ["", "", "", "Pro Ammo Combiner", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Pro Ammo Combiner" }]
+  },
+  {
+    "name": "Anti-Theft",
+    "japanese": "盗み無効",
+    "desc": "Prevent anyone from stealing your items.<span class=\"details\"> Works against Melynxes, Gypceroses, and Purple Gypceroses.</span>",
+    "stages": ["", "", "", "Anti-Theft", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Anti-Theft" }]
+  },
+  {
+    "name": "Antiseptic",
+    "japanese": "抗菌・抗毒",
+    "desc": "Affects your susceptibility to Stench status and Poison.",
+    "stages": [
+      "",
+      "",
+      "Extra Stinky",
+      "Squeaky Clean +1",
+      "",
+      "Squeaky Clean +2",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-10",
+        "name": "Extra Stinky<span class=\"details\"> (2&times; Dung and Poison)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Squeaky Clean +1<span class=\"details\"> (0.5&times; Dung and Poison)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Squeaky Clean +2<span class=\"details\"> (Negate Dung and 0.5&times; Poison)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Artillery",
+    "japanese": "砲術師",
+    "desc": "Increase damage dealt by Ballista S and Cannon S<span class=\"details\"> by 1.1&times;</span>.",
+    "stages": ["", "", "", "Artillery", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Artillery<span class=\"details\"> (1.1&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Attack",
+    "japanese": "攻撃",
+    "desc": "Increase your weapon's Attack.<span class=\"details\"> Adds the amount in parentheses to the weapon's True Damage Value before its Bloat Value.</span>",
+    "stages": [
+      "",
+      "",
+      "",
+      "Attack Up [S]",
+      "Attack Up [M]",
+      "",
+      "Attack Up [L]"
+    ],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Attack Up [S]<span class=\"details\"> (+3)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Attack Up [M]<span class=\"details\"> (+5)</span>"
+      },
+      {
+        "points": "+25",
+        "name": "Attack Up [L]<span class=\"details\"> (+10)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Auto-Guard",
+    "japanese": "自動防御",
+    "desc": "Block attacks automatically if your weapon is drawn.<span class=\"details\"> You must also be facing the direction of the incoming attack (within 180 degrees in front of you), and be free to block it (that is, not be in the middle of dodging or attacking.)</span>",
+    "stages": ["", "", "", "Auto-Guard", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Auto-Guard" }]
+  },
+  {
+    "name": "Bomb Boost",
+    "japanese": "爆弾強化",
+    "desc": "Increase the yield of barrel bombs<span class=\"details\">, dealing 1.5&times; damage</span>, and ensuring success when combining bombs, Sonic Bombs, and Gunpowder. See the Explosive Damage section under About Weapons in the <a href='/mh2/weapons'>Weapons page</a>.",
+    "stages": ["", "", "", "Bombardier", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Bombardier<span class=\"details\"> (1.5&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Carving",
+    "japanese": "剥ぎ取り",
+    "desc": "Allows you to carve monsters an additional time.",
+    "stages": ["", "", "", "", "Expert Carver", "", ""],
+    "stagesFormatted": [{ "points": "+15", "name": "Expert Carver" }]
+  },
+  {
+    "name": "Clust S+",
+    "japanese": "拡散弾追加",
+    "desc": "Load Cluster Shot of increasing levels in bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the <a href=\"/mh2/weapons\">Weapons page</a> for which weapons have what ammo by default.)",
+    "stages": [
+      "",
+      "",
+      "",
+      "Add Clust S Lv1",
+      "Add Clust S Lv1-2",
+      "Add All Clust S",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Add Clust S Lv1" },
+      { "points": "+15", "name": "Add Clust S Lv1-2" },
+      { "points": "+20", "name": "Add All Clust S" }
+    ]
+  },
+  {
+    "name": "Cold Resistance",
+    "japanese": "耐寒",
+    "desc": "Hasten, reduce, or totally negate the maximum Stamina-reducing effects of cold zones.",
+    "stages": [
+      "Cold Surge [L]",
+      "",
+      "Cold Surge [S]",
+      "Halve Cold",
+      "Negate Cold [S]",
+      "Negate Cold [L]",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-20",
+        "name": "Cold Surge [L]<span class=\"details\"> (2&times; effect)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Cold Surge [S]<span class=\"details\"> (1.5&times; effect)</span>"
+      },
+      { "points": "+10", "name": "Halve Cold" },
+      {
+        "points": "+15",
+        "name": "Negate Cold [S]<span class=\"details\"> (negate low effect, 1/3&times; high effect)</span>"
+      },
+      {
+        "points": "+20",
+        "name": "Negate Cold [L]<span class=\"details\"> (negate all)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Combo Rate",
+    "japanese": "調合成功率",
+    "desc": "Increase, or reduce, your chances to successfully combine items.",
+    "stages": [
+      "Combo Rate -15%",
+      "",
+      "Combo Rate -5%",
+      "Combo Rate +5%",
+      "Combo Rate +10%",
+      "Combo Rate +20%",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Combo Rate -15%" },
+      { "points": "-10", "name": "Combo Rate -5%" },
+      { "points": "+10", "name": "Combo Rate +5%" },
+      { "points": "+15", "name": "Combo Rate +10%" },
+      { "points": "+20", "name": "Combo Rate +20%" }
+    ]
+  },
+  {
+    "name": "Cooking",
+    "japanese": "肉焼き",
+    "desc": "Make it harder, or easier, to cook meat on a BBQ Spit.",
+    "stages": ["", "", "BBQ Amateur", "BBQ Expert", "BBQ Master", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Overconfident BBQ'er" },
+      { "points": "+10", "name": "BBQ Expert" },
+      { "points": "+15", "name": "BBQ Master" }
+    ]
+  },
+  {
+    "name": "Crag S+",
+    "japanese": "榴弾追加",
+    "desc": "Load Crag Shot of increasing levels in bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the <a href=\"/mh2/weapons\">Weapons page</a> for which weapons have what ammo by default.)",
+    "stages": [
+      "",
+      "",
+      "",
+      "Add Crag S Lv1",
+      "Add Crag S Lv1-2",
+      "Add All Crag S",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Add Crag S Lv1" },
+      { "points": "+15", "name": "Add Crag S Lv1-2" },
+      { "points": "+20", "name": "Add All Crag S" }
+    ]
+  },
+  {
+    "name": "Defense",
+    "japanese": "防御",
+    "desc": "Reduce, or increase, your total Defense.",
+    "stages": [-40, -30, -20, 20, 30, 40, ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Defense - 40" },
+      { "points": "-15", "name": "Defense - 30" },
+      { "points": "-10", "name": "Defense - 20" },
+      { "points": "+10", "name": "Defense + 20" },
+      { "points": "+15", "name": "Defense + 30" },
+      { "points": "+20", "name": "Defense + 40" }
+    ]
+  },
+  {
+    "name": "Dragon Resistance",
+    "japanese": "龍耐性",
+    "desc": "Reduce, or increase, your Dragon Element Resistance.",
+    "stages": [-10, -5, -3, 3, 5, 10, ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Dragon Resistance - 10" },
+      { "points": "-15", "name": "Dragon Resistance - 5" },
+      { "points": "-10", "name": "Dragon Resistance - 3" },
+      { "points": "+10", "name": "Dragon Resistance + 3" },
+      { "points": "+15", "name": "Dragon Resistance + 5" },
+      { "points": "+20", "name": "Dragon Resistance + 10" }
+    ]
+  },
+  {
+    "name": "Earplugs",
+    "japanese": "聴覚保護",
+    "desc": "Negate the staggering effect of monster roars. Some monsters roar so loudly, only High Grade Earplugs can block them out.<span class=\"details\"> Diablos and Fatalis roars require High Grade Earplugs.</span>",
+    "stages": ["", "", "", "Earplugs", "High Grade Earplugs", "", ""],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Earplugs" },
+      { "points": "+15", "name": "High Grade Earplugs" }
+    ]
+  },
+  {
+    "name": "Eating",
+    "japanese": "食事",
+    "desc": "Take more or less time to eat meat and fish.",
+    "stages": ["", "", "Slow Eater", "Speed Eater", "", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Slow Eater" },
+      { "points": "+10", "name": "Speed Eater" }
+    ]
+  },
+  {
+    "name": "Element Resistance",
+    "japanese": "全耐性ＵＰ",
+    "desc": "Reduce, or increase, all of your Element Resistances.",
+    "stages": [-10, -5, -3, 3, 5, 10, ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "All Element Resistance - 10" },
+      { "points": "-15", "name": "All Element Resistance - 5" },
+      { "points": "-10", "name": "All Element Resistance - 3" },
+      { "points": "+10", "name": "All Element Resistance + 3" },
+      { "points": "+15", "name": "All Element Resistance + 5" },
+      { "points": "+20", "name": "All Element Resistance + 10" }
+    ]
+  },
+  {
+    "name": "Evasion",
+    "japanese": "回避性能",
+    "desc": "Increase the amount of time that you are invulnerable during dodge moves.<span class=\"details\"> Normally, dodge moves have six frames of invulnerability: Evasion +1 increases this to 8 frames, +2 to 10 frames.</span>",
+    "stages": ["", "", "", "Evasion +1", "", "Evasion +2", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Evasion +1<span class=\"details\"> (8)</span>"
+      },
+      {
+        "points": "+20",
+        "name": "Evasion +2<span class=\"details\"> (10)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Expert",
+    "japanese": "達人",
+    "desc": "Increase your weapon's affinity. Additionally, Critical Eye +1 and +2 prevent your weapon from bouncing.",
+    "stages": [
+      "",
+      "",
+      "",
+      "Mind's Eye",
+      "Critical Eye +1",
+      "",
+      "Critical Eye +2"
+    ],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Mind's Eye<span class=\"details\"> (+5)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Critical Eye +1<span class=\"details\"> (+10 &amp; no bouncing)</span>"
+      },
+      {
+        "points": "+25",
+        "name": "Critical Eye +2<span class=\"details\"> (+15 &amp; no bouncing)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Fate",
+    "japanese": "運気",
+    "desc": "Worsen/improve chances to receive additional items in quest rewards (see \"How quest rewards work\" on the <a href='/mh2/quests'>Quests page</a>.)",
+    "stages": [
+      "Horrible Luck",
+      "",
+      "Bad Luck",
+      "Good Luck",
+      "Great Luck",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Horrible Luck" },
+      { "points": "-10", "name": "Bad Luck" },
+      { "points": "+10", "name": "Good Luck" },
+      { "points": "+15", "name": "Great Luck" }
+    ]
+  },
+  {
+    "name": "Fire Resistance",
+    "japanese": "火耐性",
+    "desc": "Reduce, or increase, your Fire Element Resistance.",
+    "stages": [-10, -5, -3, 3, 5, 10, ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Fire Resistance - 10" },
+      { "points": "-15", "name": "Fire Resistance - 5" },
+      { "points": "-10", "name": "Fire Resistance - 3" },
+      { "points": "+10", "name": "Fire Resistance + 3" },
+      { "points": "+15", "name": "Fire Resistance + 5" },
+      { "points": "+20", "name": "Fire Resistance + 10" }
+    ]
+  },
+  {
+    "name": "Fisher",
+    "japanese": "釣り",
+    "desc": "Increase the timing window to reel in a fish, and make the lure appear to be much bigger.",
+    "stages": ["", "", "", "Fishing Expert", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Fishing Expert" }]
+  },
+  {
+    "name": "Gathering",
+    "japanese": "採取",
+    "desc": "Worsen, or improve, your chance to gather additional items.<span class=\"details\"> One item is guaranteed and each successive attempt has a chance to have another item or the gathering point will be depleted. Normally this chance is 84%, and changes to the value in parentheses for the given level of this skill.</span>",
+    "stages": [
+      "",
+      "Gathering -2",
+      "Gathering -1",
+      "Gathering +1",
+      "Gathering +2",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-15",
+        "name": "Gathering -2<span class=\"details\"> (59%)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Gathering -1<span class=\"details\"> (72%)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Gathering +1<span class=\"details\"> (91%)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Gathering +2<span class=\"details\"> (97%)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Gluttony",
+    "japanese": "食いしん坊",
+    "desc": "Increase the amount of maximum Stamina gained when eating cooked meat<span class=\"details\"> by 25</span>. Additionally, the Scavenging skill will occasionally increase maximum Stamina when using a recovery item.<span class=\"details\"> Specifically, it provides a 1/3 chance to gain 25 Maximum Stamina when using a recovery item.</span>",
+    "stages": ["", "", "", "Gourmand", "Scavenger", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Gourmand<span class=\"details\"> (+25)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Scavenger<span class=\"details\"> (+25 and 1/3 chance stamina from items)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Guard",
+    "japanese": "ガード性能",
+    "desc": "Reduce, or improve, your shield's effectiveness while blocking.<span class=\"details\"> You'll get knocked back farther, consume more stamina, and take more chip damage with the negative skills, less knockback, stamina, and chip damage from the positive skills. This also affects the blocking animation, based on monster attack and weapon class. Guard +2 will also allow you to block normally unblockable attacks.</span>",
+    "stages": ["", "Guard -2", "Guard -1", "Guard +1", "", "Guard +2", ""],
+    "stagesFormatted": [
+      { "points": "-15", "name": "Guard -2" },
+      { "points": "-10", "name": "Guard -1" },
+      { "points": "+10", "name": "Guard +1" },
+      { "points": "+20", "name": "Guard +2" }
+    ]
+  },
+  {
+    "name": "Handicraft",
+    "japanese": "匠",
+    "desc": "Reduce, or increase, the maximum sharpness of your weapon (normal and increased sharpness are included on the <a href='/mh2/weapons'>Weapons page</a> per weapon.)",
+    "stages": ["", "", "Sharpness -1", "Sharpness +1", "", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Sharpness -1" },
+      { "points": "+10", "name": "Sharpness +1" }
+    ]
+  },
+  {
+    "name": "Health",
+    "japanese": "体力",
+    "desc": "Reduce, or increase, your maximum Hitpoints by the given amount.",
+    "stages": ["-30", "-20", "-10", "10", "20", "30", ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Health - 30" },
+      { "points": "-15", "name": "Health - 20" },
+      { "points": "-10", "name": "Health - 10" },
+      { "points": "+10", "name": "Health + 10" },
+      { "points": "+15", "name": "Health + 20" },
+      { "points": "+20", "name": "Health + 30" }
+    ]
+  },
+  {
+    "name": "Heat Resistance",
+    "japanese": "耐暑",
+    "desc": "Hasten, reduce, or totally negate the Hitpoint-depleting effects of hot zones.",
+    "stages": [
+      "Heat Surge [L]",
+      "",
+      "Heat Surge [S]",
+      "Halve Heat",
+      "Negate Heat [S]",
+      "Negate Heat [L]",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-20",
+        "name": "Heat Surge [L]<span class=\"details\"> (2&times; effect)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Heat Surge [S]<span class=\"details\"> (1.5&times; effect)</span>"
+      },
+      { "points": "+10", "name": "Halve Heat" },
+      {
+        "points": "+15",
+        "name": "Negate Heat [S]<span class=\"details\"> (negate low effect, 1/3&times; high effect)</span>"
+      },
+      {
+        "points": "+20",
+        "name": "Negate Heat [L]<span class=\"details\"> (negate all)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Hunger",
+    "japanese": "はらへり",
+    "desc": "Hasten, reduce, or totally negate the maximum Stamina-reducing effects of hunger.<span class=\"details\"> Stamina normally decreases every six minutes.</span>",
+    "stages": [
+      "",
+      "Hunger Increased [L]",
+      "Hunger Increased [S]",
+      "Hunger Halved",
+      "Negate Hunger",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-15",
+        "name": "Hunger Increased [L]<span class=\"details\"> (2&times;) (3 min)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Hunger Increased [S]<span class=\"details\"> (1.5&times;) (4 min)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Halve Hunger<span class=\"details\"> (12 min)</span>"
+      },
+      { "points": "+15", "name": "Negate Hunger" }
+    ]
+  },
+  {
+    "name": "Ice Resistance",
+    "japanese": "氷耐性",
+    "desc": "Reduce, or increase, your Ice Element Resistance.",
+    "stages": [-10, -5, -3, 3, 5, 10, ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Ice Resistance - 10" },
+      { "points": "-15", "name": "Ice Resistance - 5" },
+      { "points": "-10", "name": "Ice Resistance - 3" },
+      { "points": "+10", "name": "Ice Resistance + 3" },
+      { "points": "+15", "name": "Ice Resistance + 5" },
+      { "points": "+20", "name": "Ice Resistance + 10" }
+    ]
+  },
+  {
+    "name": "Lasting Power",
+    "japanese": "効果持続",
+    "desc": "Reduce or increase the duration of consumables with a time-limited effect.",
+    "stages": ["", "", "Items Down", "Items Up", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "-10",
+        "name": "Items Down<span class=\"details\"> 2/3&times; Duration</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Items Up<span class=\"details\"> 1.5&times; Duration</span>"
+      }
+    ]
+  },
+  {
+    "name": "Load",
+    "japanese": "装填数",
+    "desc": "Maximizes the number of shots that can be loaded into Bowguns, and adds a fourth charge level for Bows.",
+    "stages": ["", "", "", "Load Up", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Load Up" }]
+  },
+  {
+    "name": "Map",
+    "japanese": "地図",
+    "desc": "Hide most of the map even with the Map supply item, or display the full locale map at all times.",
+    "stages": ["", "", "No Map", "Automap", "", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "No Map" },
+      { "points": "+10", "name": "Automap" }
+    ]
+  },
+  {
+    "name": "Monster",
+    "japanese": "モンスター",
+    "desc": "Increase the odds that monsters will be large individuals.",
+    "stages": ["", "", "", "Big Guy!", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Big Guy!" }]
+  },
+  {
+    "name": "Normal S+",
+    "japanese": "通常弾追加",
+    "desc": "Load Normal Shot of increasing levels in bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the <a href=\"/mh2/weapons\">Weapons page</a> for which weapons have what ammo by default.)",
+    "stages": ["", "", "", "Add Normal S Lv1", "Add All Normal S", "", ""],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Add Normal S Lv1" },
+      { "points": "+15", "name": "Add All Normal S" }
+    ]
+  },
+  {
+    "name": "Normal S Up",
+    "japanese": "通常弾強化",
+    "desc": "Deal<span class='vaguery'> increased</span><span class=\"details\"> 1.1&times;</span> damage with Normal Shot.",
+    "stages": ["", "", "", "Normal S Up", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Normal S Up<span class=\"details\"> (1.1&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Paralysis",
+    "japanese": "麻痺",
+    "desc": "Suffer the effects of Paralysis for twice as long, half as long, or not at all.",
+    "stages": [
+      "",
+      "",
+      "Double Paralysis",
+      "Halve Paralysis",
+      "Negate Paralysis",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Double Paralysis" },
+      { "points": "+10", "name": "Halve Paralysis" },
+      { "points": "+15", "name": "Negate Paralysis" }
+    ]
+  },
+  {
+    "name": "Pellet S+",
+    "japanese": "散弾追加",
+    "desc": "Load Pellet Shot of increasing levels in bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the <a href=\"/mh2/weapons\">Weapons page</a> for which weapons have what ammo by default.)",
+    "stages": [
+      "",
+      "",
+      "",
+      "Add Pellet S Lv1",
+      "Add Pellet S Lv1-2",
+      "Add All Pellet S",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Add Pellet S Lv1" },
+      { "points": "+15", "name": "Add Pellet S Lv1-2" },
+      { "points": "+20", "name": "Add All Pellet S" }
+    ]
+  },
+  {
+    "name": "Pellet S Up",
+    "japanese": "散弾強化",
+    "desc": "Deal<span class='vaguery'> increased</span><span class=\"details\"> 1.3&times;</span> damage with Pellet Shot.",
+    "stages": ["", "", "", "Pellet S Up", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Pellet S Up<span class=\"details\"> (1.3&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Pierce S+",
+    "japanese": "貫通弾追加",
+    "desc": "Load Pierce Shot of increasing levels in bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the <a href=\"/mh2/weapons\">Weapons page</a> for which weapons have what ammo by default.)",
+    "stages": [
+      "",
+      "",
+      "",
+      "Add Pierce S Lv1",
+      "Add Pierce S Lv1-2",
+      "Add All Pierce S",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Add Pierce S Lv1" },
+      { "points": "+15", "name": "Add Pierce S Lv1-2" },
+      { "points": "+20", "name": "Add All Pierce S" }
+    ]
+  },
+  {
+    "name": "Pierce S Up",
+    "japanese": "貫通弾強化",
+    "desc": "Deal<span class='vaguery'> increased</span><span class=\"details\"> 1.1&times;</span> damage with Pierce Shot.",
+    "stages": ["", "", "", "Pierce S Up", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Pierce S Up<span class=\"details\"> (1.1&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Poison",
+    "japanese": "毒",
+    "desc": "Suffer Poison for twice as long, half as long, or not at all.",
+    "stages": [
+      "",
+      "",
+      "Double Poison",
+      "Halve Poison",
+      "Negate Poison",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Double Poison" },
+      { "points": "+10", "name": "Halve Poison" },
+      { "points": "+15", "name": "Negate Poison" }
+    ]
+  },
+  {
+    "name": "Potential",
+    "japanese": "底力",
+    "desc": "Affects your Attack and/or Defense when your health drops <span class=\"vaguery\">low enough</span><span class=\"details\">below 40%</span>.",
+    "stages": ["", "Worrywart", "", "Adrenaline +1", "Adrenaline +2", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "-15",
+        "name": "Worrywart<span class=\"details\"> (Attack &times; 0.7 &amp; Defense - 42)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Adrenaline +1<span class=\"details\"> (Defense + 90)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Adrenaline +2<span class=\"details\"> (Attack &times; 1.5 &amp; Defense + 90)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Precision",
+    "japanese": "精密射撃",
+    "desc": "Increase, or reduce, the deviation of Bowgun shots and Bow arrows.",
+    "stages": ["", "", "Deviation Up", "Deviation Down", "", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Deviation Up" },
+      { "points": "+10", "name": "Deviation Down" }
+    ]
+  },
+  {
+    "name": "Protection",
+    "japanese": "加護",
+    "desc": "<span class=\"vaguery\">Sometimes</span><span class=\"details\">25% of the time</span> take<span class=\"vaguery\"> more or less</span><span class=\"details\"> 1.3&times; or 0.7&times;</span> damage.",
+    "stages": ["", "", "Demonic Protection", "Divine Protection", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "-10",
+        "name": "Demonic Protection<span class=\"details\"> (1.3&times;)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Divine Protection<span class=\"details\"> (0.7&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Psychic",
+    "japanese": "千里眼",
+    "desc": "Detect will show a detailed monster icon on the map, as long as the monster is being tracked<span class=\"details\"> (if it is Paintballed or the hunter is using Psychoserum)</span>; Autotracker will additionally show monster icons on the map at all times.",
+    "stages": ["", "", "", "Detect", "Autotracker", "", ""],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Detect" },
+      { "points": "+15", "name": "Autotracker" }
+    ]
+  },
+  {
+    "name": "Rapid-Fire",
+    "japanese": "連射",
+    "desc": "Fire bowgun shots without having to reload, except when changing ammo type. This also increases recoil (see the Recoil section under About Weapons in the <a href=\"/mh2/weapons\">Weapons page</a> for more details.) Fire your Bow much faster.",
+    "stages": ["", "", "", "Rapid-Fire", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Rapid-Fire" }]
+  },
+  {
+    "name": "Recoil",
+    "japanese": "反動",
+    "desc": "Reduce bowgun Recoil<span class=\"details\"> by two, or four, points</span>. (see the Recoil section under About Weapons in the <a href=\"/mh2/weapons\">Weapons page</a> for more details.)",
+    "stages": ["", "", "", "Recoil Down +1", "Recoil Down +2", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Recoil Down +1<span class=\"details\"> (-2)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Recoil Down +2<span class=\"details\"> (-4)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Recover Speed",
+    "japanese": "回復速度",
+    "desc": "Recover temporary damage (red bar) more slowly, or quickly<span class=\"details\">, per the multipliers in parentheses</span>.",
+    "stages": [
+      "Recovery Speed -2",
+      "",
+      "Recovery Speed -1",
+      "Recovery Speed +1",
+      "",
+      "Recovery Speed +2",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-20",
+        "name": "Recovery Speed -2<span class=\"details\"> (4&times; slower)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Recovery Speed -1<span class=\"details\"> (3&times; slower)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Recovery Speed +1<span class=\"details\"> (3&times; faster)</span>"
+      },
+      {
+        "points": "+20",
+        "name": "Recovery Speed +2<span class=\"details\"> (4&times; faster)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Recovery Items",
+    "japanese": "回復",
+    "desc": "Reduce, or increase, the amount of Hitpoints recovered from healing items. (This effect is not applied to other hunters when using Lifepowder or recovery items with the Wide-Range skills.)",
+    "stages": ["", "", "Recovery Items Down", "Recovery Items Up", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "-10",
+        "name": "Recovery Items Down<span class=\"details\"> (0.75&times;)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Recovery Items Up<span class=\"details\"> (1.25&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Reload Speed",
+    "japanese": "装填",
+    "desc": "Increase, or reduce, the time it takes to reload Bowgun shots and apply Bow coatings (see the Reload section under About Weapons in the <a href=\"/mh2/weapons\">Weapons page</a> for more details.)",
+    "stages": [
+      "",
+      "Reload Speed -2",
+      "Reload Speed -1",
+      "Reload Speed +1",
+      "Reload Speed +2",
+      "Reload Speed +3",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-15",
+        "name": "Reload Speed -2<span class=\"details\"> (140% coating time)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Reload Speed -1<span class=\"details\"> (110% coating time)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Reload Speed +1<span class=\"details\"> (85% coating time)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Reload Speed +2<span class=\"details\"> (75% coating time)</span>"
+      },
+      {
+        "points": "+20",
+        "name": "Reload Speed +3<span class=\"details\"> (65% coating time)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Sense",
+    "japanese": "気配",
+    "desc": "Draw the aggression of monsters more, or less, often than other hunters in the zone. This does not impact how a monster first detects you.",
+    "stages": ["", "", "Taunt", "Sneak", "", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Taunt" },
+      { "points": "+10", "name": "Sneak" }
+    ]
+  },
+  {
+    "name": "Sharpness",
+    "japanese": "斬れ味",
+    "desc": "Blunt increases the amount of sharpness lost while attacking and when blocking with the Great Sword. Sharp Sword reduces sharpness loss when bouncing to the normal amount, reduces sharpness loss when blocking with the Great Sword, and reduces sharpness loss for the Gunlance when firing Shells and Wyvernfire.<span class=\"details\"> Normal and Wide shells reduce only one hit of sharpness, Long two hits, Wyvernfire five. (see the Gunlance Shells and Wyvernfire section under <a href=\"/mh2/weapons\">About Weapons</a> in the Weapons page for more details.)</span>",
+    "stages": ["", "", "Blunt Edge", "Razor Sharp", "", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Blunt Edge" },
+      { "points": "+10", "name": "Razor Sharp" }
+    ]
+  },
+  {
+    "name": "Sleep",
+    "japanese": "睡眠",
+    "desc": "Sleep for twice as long, half as long, or not at all when inflicted by Sleep from a monster.",
+    "stages": [
+      "",
+      "",
+      "Sleep Doubled",
+      "Sleep Halved",
+      "Sleep Negated",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Sleep Doubled" },
+      { "points": "+10", "name": "Sleep Halved" },
+      { "points": "+15", "name": "Sleep Negated" }
+    ]
+  },
+  {
+    "name": "Snow Resistance",
+    "japanese": "耐雪",
+    "desc": "Increase the duration, reduce the duration, or totally negate the effects of Snowman status.",
+    "stages": ["", "", "Freeze", "Snow Res +1", "", "Snow Res +2", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Freeze" },
+      { "points": "+10", "name": "Snow Res +1" },
+      { "points": "+20", "name": "Snow Res +2" }
+    ]
+  },
+  {
+    "name": "Speed Gathering",
+    "japanese": "高速収集",
+    "desc": "Gather items in the field and carve monsters <span class=\"details\"> 1.3&times; more </span>quickly.",
+    "stages": ["", "", "", "Speed Gathering", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Speed Gathering<span class=\"details\"> (1.3&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Speed Sharpening",
+    "japanese": "研ぎ師",
+    "desc": "Reduces the amount of sharpness restored when sharpening<span class=\"details\"> by half</span>, or reduce the amount of time it takes to sharpen your weapon<span class=\"details\"> to one quarter the time</span>.",
+    "stages": ["", "", "Sharpening Slowed", "Fast Sharpening", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "-10",
+        "name": "Sharpening Slowed<span class=\"details\"> (0.5&times;)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Fast Sharpening<span class=\"details\"> (0.25&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Stamina",
+    "japanese": "スタミナ",
+    "desc": "Increase or reduce the amount of stamina used while sprinting, charging Hammer attacks, using Dual Swords Demon Mode, and charging Bow shots.<span class\"details\"> The normal amount of stamina consumption for sprinting is 15 units.</span>",
+    "stages": ["", "", "Short Sprinter", "Marathon Runner", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "-10",
+        "name": "Short Sprinter<span class=\"details\">: 18 units (1.2&times;)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Marathon Runner<span class=\"details\">: 8 units (0.54&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Status",
+    "japanese": "特殊攻撃",
+    "desc": "Apply<span class=\"vaguery\"> more</span><span class=\"details\"> 1.125&times;</span> status with every hit. This applies to all Blademaster weapons that have status, Poison S, Stun S, Sleep S, Poison Coating, Para Coating, and Sleep Coating.",
+    "stages": ["", "", "", "Status Attack Up", "", "", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Status Attack Up<span class=\"details\"> (1.125&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Stun",
+    "japanese": "気絶",
+    "desc": "Suffer the effects of being Stunned by a monster for twice as long, half as long, or not at all.",
+    "stages": ["", "", "Stun Doubled", "Stun Halved", "Stun Negated", "", ""],
+    "stagesFormatted": [
+      { "points": "-10", "name": "Stun Doubled" },
+      { "points": "+10", "name": "Stun Halved" },
+      { "points": "+15", "name": "Stun Negated" }
+    ]
+  },
+  {
+    "name": "Terrain",
+    "japanese": "地形",
+    "desc": "Increase or reduce the effects of Terrain damage<span class=\"details\"> by the amount in parentheses. This includes heat damage from lava and the flame aura generated by some elder dragons</span>.",
+    "stages": [
+      "",
+      "Terrain Up Large",
+      "Terrain Up Small",
+      "Terrain Down Small",
+      "Terrain Down Large",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-15",
+        "name": "Terrain Up Large<span class=\"details\"> (2&times;)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Terrain Up Small<span class=\"details\"> (4/3&times;)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Terrain Down Small<span class=\"details\"> (2/3&times;)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Terrain Down Large<span class=\"details\"> (1/3&times;)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Throw",
+    "japanese": "投擲",
+    "desc": "Throw items such as Paintballs and Throwing Knives farther and faster. Also reduces the likelihood a thrown Boomerang will break<span class=\"details\"> to 12.5%</span>.",
+    "stages": ["", "", "", "Throw", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Throw" }]
+  },
+  {
+    "name": "Thunder Resistance",
+    "japanese": "雷耐性",
+    "desc": "Reduce, or increase, your Thunder Element Resistance.",
+    "stages": [-10, -5, -3, 3, 5, 10, ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Thunder Resistance - 10" },
+      { "points": "-15", "name": "Thunder Resistance - 5" },
+      { "points": "-10", "name": "Thunder Resistance - 3" },
+      { "points": "+10", "name": "Thunder Resistance + 3" },
+      { "points": "+15", "name": "Thunder Resistance + 5" },
+      { "points": "+20", "name": "Thunder Resistance + 10" }
+    ]
+  },
+  {
+    "name": "Torso Up",
+    "desc": "Increases all skill points on your torso armor.<span class=\"details\"> Each piece of armor with Torso Up adds all the skill points for the torso armor an additional time, as if that armor had all the same skill points (positive and negative.) E.G. one piece doubles the points, two pieces triple, etc.</span>",
+    "stagesFormatted": [{ "name": "Torso Up" }]
+  },
+  {
+    "name": "Transporter",
+    "japanese": "運搬",
+    "desc": "Move faster while carrying an egg or other delivery item, and drop from a greater height without breaking or dropping it.",
+    "stages": ["", "", "", "Pro Transporter", "", "", ""],
+    "stagesFormatted": [{ "points": "+10", "name": "Pro Transporter" }]
+  },
+  {
+    "name": "Tremor Resistance",
+    "japanese": "耐震",
+    "desc": "Eliminate the effects of monster-induced Tremors.",
+    "stages": ["", "", "", "", "Negate Tremors", "", ""],
+    "stagesFormatted": [{ "points": "+15", "name": "Negate Tremors" }]
+  },
+  {
+    "name": "Vocal Chords",
+    "japanese": "声帯",
+    "desc": "Reduce the duration of, or negate, Silence status.<span class=\"details\"> Also reduce the duration of, or negate, maximum stamina loss from Chameleos's attacks.</span>",
+    "stages": [
+      "",
+      "",
+      "",
+      "Halve Vocal Chord Paralysis",
+      "Negate Vocal Chord Paralysis",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Halve Vocal Chord Paralysis" },
+      { "points": "+15", "name": "Negate Vocal Chord Paralysis" }
+    ]
+  },
+  {
+    "name": "Water Resistance",
+    "japanese": "水耐性",
+    "desc": "Reduce, or increase, your Water Element Resistance.",
+    "stages": [-10, -5, -3, 3, 5, 10, ""],
+    "stagesFormatted": [
+      { "points": "-20", "name": "Water Resistance - 10" },
+      { "points": "-15", "name": "Water Resistance - 5" },
+      { "points": "-10", "name": "Water Resistance - 3" },
+      { "points": "+10", "name": "Water Resistance + 3" },
+      { "points": "+15", "name": "Water Resistance + 5" },
+      { "points": "+20", "name": "Water Resistance + 10" }
+    ]
+  },
+  {
+    "name": "Whim",
+    "japanese": "気まぐれ",
+    "desc": "Increase, or reduce, the chance that a tool will break when used.<span class=\"details\"> The chance the tool will break is in parentheses.</span>",
+    "stages": [
+      "",
+      "Devil's Whim",
+      "Spectre's Whim",
+      "Spirit's Whim",
+      "Divine Whim",
+      "",
+      ""
+    ],
+    "stagesFormatted": [
+      {
+        "points": "-15",
+        "name": "Devil's Whim<span class=\"details\"> (+50%)</span>"
+      },
+      {
+        "points": "-10",
+        "name": "Spectre's Whim<span class=\"details\"> (+25%)</span>"
+      },
+      {
+        "points": "+10",
+        "name": "Spirit's Whim<span class=\"details\"> (-25%)</span>"
+      },
+      {
+        "points": "+15",
+        "name": "Divine Whim<span class=\"details\"> (-50%)</span"
+      }
+    ]
+  },
+  {
+    "name": "Wide-Range",
+    "japanese": "広域",
+    "desc": "Share the effects of<span class=\"vaguery\"> certain consumables</span><span class=\"details\"> Herbs, Potions, Antidotes, Powerseeds, and Armorseeds</span> with all hunters in the zone. The stage determines how much of the effect is applied.",
+    "stages": ["", "", "", "Wide-Range +1", "", "Wide-Range +2", ""],
+    "stagesFormatted": [
+      {
+        "points": "+10",
+        "name": "Wide-Range +1<span class=\"details\"> (0.5&times; effect)</span>"
+      },
+      {
+        "points": "+20",
+        "name": "Wide-Range +2<span class=\"details\"> (1.0&times; effect)</span>"
+      }
+    ]
+  },
+  {
+    "name": "Wind Pressure",
+    "japanese": "風圧",
+    "desc": "Resist the effects of wind created by monsters beating their wings, kicking up dust, etc. Some monsters apply stronger Wind Pressure than others, and can only be resisted by the High Wind Pressure skill.<span class=\"details\"></span>",
+    "stages": [
+      "",
+      "",
+      "",
+      "Windproof [S]",
+      "Windproof [L]",
+      "",
+      "Dragon-Windproof"
+    ],
+    "stagesFormatted": [
+      { "points": "+10", "name": "Windproof [S]" },
+      { "points": "+15", "name": "Windproof [L]" },
+      { "points": "+25", "name": "Dragon-Windproof" }
+    ]
+  }
+]

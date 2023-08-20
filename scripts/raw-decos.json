@@ -1,0 +1,2070 @@
+[
+  {
+    "index": 1,
+    "name": "Attack Jewel 1",
+    "japanese": "腕力珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Attack", "q": "+1" },
+      { "k": "Defense", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Might Seed", "q": 1 },
+      { "m": "Sharp Claw", "q": 1 },
+      { "m": "Wyvern Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 2,
+    "name": "Attack Jewel 2",
+    "japanese": "怪力珠",
+    "color": "red",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Attack", "q": "+3" },
+      { "k": "Defense", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Giant Bone", "q": 1 },
+      { "m": "Blangonga Fang", "q": 2 }
+    ]
+  },
+  {
+    "index": 3,
+    "name": "Attack Jewel 3",
+    "japanese": "剛力珠",
+    "color": "red",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Attack", "q": "+5" },
+      { "k": "Defense", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Rajang Horn", "q": 1 },
+      { "m": "Might Pill", "q": 1 }
+    ]
+  },
+  {
+    "index": 4,
+    "name": "Defense Jewel 1",
+    "japanese": "守護珠",
+    "color": "blue",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Defense", "q": "+1" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Hermitaur Shell", "q": 1 }
+    ]
+  },
+  {
+    "index": 5,
+    "name": "Defense Jewel 2",
+    "japanese": "防御珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [{ "k": "Defense", "q": "+3" }],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Wyvern Skull", "q": 1 }
+    ]
+  },
+  {
+    "index": 6,
+    "name": "Defense Jewel 3",
+    "japanese": "剛体珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [{ "k": "Defense", "q": "+5" }],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Gravios Skull", "q": 2 }
+    ]
+  },
+  {
+    "index": 7,
+    "name": "Steadfast Jewel 1",
+    "japanese": "耐絶珠",
+    "color": "blue",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Stun", "q": "+1" },
+      { "k": "Eating", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Velociprey Fang", "q": 2 }
+    ]
+  },
+  {
+    "index": 8,
+    "name": "Steadfast Jewel 2",
+    "japanese": "抗絶珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Stun", "q": "+2" },
+      { "k": "Eating", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Velocidrome Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 9,
+    "name": "Steadfast Jewel 3",
+    "japanese": "覚醒珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Stun", "q": "+3" },
+      { "k": "Eating", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Elder Dragon Bone", "q": 1 }
+    ]
+  },
+  {
+    "index": 10,
+    "name": "Paralysis Jewel 1",
+    "japanese": "耐麻痺珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Paralysis", "q": "+1" },
+      { "k": "Protection", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Genprey Fang", "q": 1 }
+    ]
+  },
+  {
+    "index": 11,
+    "name": "Paralysis Jewel 2",
+    "japanese": "抗麻痺珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Paralysis", "q": "+3" },
+      { "k": "Protection", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Paralysis Sac", "q": 1 }
+    ]
+  },
+  {
+    "index": 12,
+    "name": "Pep Jewel 1",
+    "japanese": "耐眠珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Sleep", "q": "+1" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Ice Crystal", "q": 1 }
+    ]
+  },
+  {
+    "index": 13,
+    "name": "Pep Jewel 2",
+    "japanese": "絶眠珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Sleep", "q": "+2" }],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Hercudrome", "q": 1 },
+      { "m": "Ice Crystal", "q": 1 }
+    ]
+  },
+  {
+    "index": 14,
+    "name": "Antidote Jewel 1",
+    "japanese": "抗毒珠",
+    "color": "purple",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Poison", "q": "+1" },
+      { "k": "Snow Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Cactus Flower", "q": 2 }
+    ]
+  },
+  {
+    "index": 15,
+    "name": "Antidote Jewel 2",
+    "japanese": "断毒珠",
+    "color": "purple",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Poison", "q": "+3" },
+      { "k": "Snow Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Poison Sac", "q": 2 },
+      { "m": "Herbal Medicine", "q": 1 }
+    ]
+  },
+  {
+    "index": 16,
+    "name": "Antibacterial Jewel 1",
+    "japanese": "抗力珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Antiseptic", "q": "+1" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Earth Crystal", "q": 1 },
+      { "m": "Ice Crystal", "q": 1 }
+    ]
+  },
+  {
+    "index": 17,
+    "name": "Antibacterial Jewel 2",
+    "japanese": "抗菌珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Antiseptic", "q": "+2" }],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Antiseptic Stone", "q": 2 }
+    ]
+  },
+  {
+    "index": 18,
+    "name": "Steady Jewel",
+    "japanese": "強腰珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Tremor Resistance", "q": "+1" },
+      { "k": "Sleep", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Earth Crystal", "q": 2 },
+      { "m": "Blangonga Fang", "q": 1 }
+    ]
+  },
+  {
+    "index": 19,
+    "name": "Minstrel's Jewel",
+    "japanese": "美声珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Vocal Chords", "q": "+1" },
+      { "k": "Antiseptic", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Immunizer", "q": 1 },
+      { "m": "Honey Dragonfly", "q": 1 }
+    ]
+  },
+  {
+    "index": 20,
+    "name": "Snow Resistance Jewel",
+    "japanese": "雪玉珠",
+    "color": "white",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Snow Resistance", "q": "+1" },
+      { "k": "Stun", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Ice Crystal", "q": 2 }
+    ]
+  },
+  {
+    "index": 21,
+    "name": "Ninja Jewel",
+    "japanese": "忍脚珠",
+    "color": "purple",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Sense", "q": "+2" }],
+    "forge": [
+      { "m": "Shiny Beetle", "q": 1 },
+      { "m": "Vespoid Wing", "q": 1 }
+    ]
+  },
+  {
+    "index": 22,
+    "name": "Vitality Jewel 1",
+    "japanese": "元気珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Health", "q": "+1" },
+      { "k": "Eating", "q": "+1" }
+    ],
+    "forge": [
+      { "m": "Sunlight Stone", "q": 1 },
+      { "m": "Cactus Flower", "q": 5 }
+    ]
+  },
+  {
+    "index": 23,
+    "name": "Vitality Jewel 2",
+    "japanese": "体力珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Health", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Exciteshroom", "q": 1 }
+    ]
+  },
+  {
+    "index": 24,
+    "name": "Vitality Jewel 3",
+    "japanese": "覇力珠",
+    "color": "red",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Health", "q": "+3" },
+      { "k": "Defense", "q": "+1" }
+    ],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Pale Extract", "q": 1 },
+      { "m": "Monoblos Heart", "q": 1 }
+    ]
+  },
+  {
+    "index": 25,
+    "name": "Handicraft Jewel",
+    "japanese": "匠珠",
+    "color": "purple",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Handicraft", "q": "+1" },
+      { "k": "Potential", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Monoblos Heart", "q": 1 },
+      { "m": "Meteorite", "q": 10 }
+    ]
+  },
+  {
+    "index": 26,
+    "name": "Handicraft Jewel",
+    "japanese": "匠珠",
+    "color": "purple",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Handicraft", "q": "+1" },
+      { "k": "Potential", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Lao-Shan Carapace", "q": 1 },
+      { "m": "Elder Dragon Blood", "q": 1 }
+    ]
+  },
+  {
+    "index": 27,
+    "name": "Razor Jewel 1",
+    "japanese": "斬鉄珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Sharpness", "q": "+1" },
+      { "k": "Stamina", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Daora Claw", "q": 1 },
+      { "m": "Piscine Fang", "q": 2 }
+    ]
+  },
+  {
+    "index": 28,
+    "name": "Razor Jewel 2",
+    "japanese": "斬空珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Sharpness", "q": "+3" },
+      { "k": "Stamina", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Daora Tail", "q": 1 },
+      { "m": "Blangonga Fang", "q": 2 }
+    ]
+  },
+  {
+    "index": 29,
+    "name": "Expert Jewel 1",
+    "japanese": "達人珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Expert", "q": "+1" },
+      { "k": "Recovery Items", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Ceanataur Claw", "q": 1 },
+      { "m": "Blangonga Fang", "q": 2 }
+    ]
+  },
+  {
+    "index": 30,
+    "name": "Expert Jewel 2",
+    "japanese": "仙人珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Expert", "q": "+3" },
+      { "k": "Recovery Items", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Ceanataur Pincer", "q": 1 },
+      { "m": "Chameleos Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 31,
+    "name": "Grinder Jewel",
+    "japanese": "研磨珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Speed Sharpening", "q": "+2" }],
+    "forge": [
+      { "m": "Earth Crystal", "q": 1 },
+      { "m": "Sharp Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 32,
+    "name": "Ironwall Jewel",
+    "japanese": "鉄壁珠",
+    "color": "gray",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Guard", "q": "+1" },
+      { "k": "Stamina", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Wyvern Skull", "q": 1 },
+      { "m": "Hermitaur Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 33,
+    "name": "Guard Jewel 1",
+    "japanese": "天盾珠",
+    "color": "blue",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Auto-Guard", "q": "+1" },
+      { "k": "Speed Sharpening", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Ceanataur Shell S", "q": 3 },
+      { "m": "Decayed Scale", "q": 1 }
+    ]
+  },
+  {
+    "index": 34,
+    "name": "Guard Jewel 2",
+    "japanese": "天壁珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Auto-Guard", "q": "+3" },
+      { "k": "Speed Sharpening", "q": -2 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Ceanataur Shell", "q": 1 },
+      { "m": "Rusted Daora Shell", "q": 1 }
+    ]
+  },
+  {
+    "index": 35,
+    "name": "Throwing Jewel",
+    "japanese": "力投珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Throw", "q": "+2" }],
+    "forge": [
+      { "m": "Giant Bone", "q": 1 },
+      { "m": "Velocidrome Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 36,
+    "name": "Absorber Jewel 1",
+    "japanese": "抑反珠",
+    "color": "blue",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Recoil", "q": "+1" },
+      { "k": "Hunger", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Ceanataur Claw", "q": 1 },
+      { "m": "Elder Dragon Bone", "q": 1 }
+    ]
+  },
+  {
+    "index": 37,
+    "name": "Absorber Jewel 2",
+    "japanese": "反動珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 750,
+    "gunner": true,
+    "slots": 2,
+    "skills": [
+      { "k": "Recoil", "q": "+2" },
+      { "k": "Hunger", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Gaoren Pincer", "q": 1 },
+      { "m": "Wyvern Gem", "q": 1 }
+    ]
+  },
+  {
+    "index": 38,
+    "name": "Forceshot Jewel",
+    "japanese": "強弾珠",
+    "color": "white",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Normal S Up", "q": "+1" },
+      { "k": "Reload Speed", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Firestone", "q": 1 },
+      { "m": "Gunpowder", "q": 5 }
+    ]
+  },
+  {
+    "index": 39,
+    "name": "Pierce Jewel",
+    "japanese": "貫通珠",
+    "color": "white",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Pierce S Up", "q": "+1" },
+      { "k": "Reload Speed", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Ceanataur Claw", "q": 2 },
+      { "m": "Flame Sac", "q": 3 }
+    ]
+  },
+  {
+    "index": 40,
+    "name": "Pellet Jewel",
+    "japanese": "散弾珠",
+    "color": "white",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Pellet S Up", "q": "+1" },
+      { "k": "Reload Speed", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Blango Pelt", "q": 1 },
+      { "m": "Rath Marrow", "q": 1 }
+    ]
+  },
+  {
+    "index": 41,
+    "name": "Shot Plus Jewel 1",
+    "japanese": "加弾珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Normal S+", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Lunastra Horn", "q": 1 },
+      { "m": "Normal S Lv3", "q": 1 }
+    ]
+  },
+  {
+    "index": 42,
+    "name": "Pierce Plus Jewel 1",
+    "japanese": "加貫珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Pierce S+", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Piscine Fang", "q": 3 },
+      { "m": "Pierce S Lv3", "q": 1 }
+    ]
+  },
+  {
+    "index": 43,
+    "name": "Pellet Plus Jewel 1",
+    "japanese": "加散珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Pellet S+", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Sharp Claw", "q": 5 },
+      { "m": "Pellet S Lv3", "q": 1 }
+    ]
+  },
+  {
+    "index": 44,
+    "name": "Crag Plus Jewel 1",
+    "japanese": "加榴珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Crag S+", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Flame Sac", "q": 1 },
+      { "m": "Crag S Lv3", "q": 1 }
+    ]
+  },
+  {
+    "index": 45,
+    "name": "Cluster Plus Jewel 1",
+    "japanese": "加拡珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Clust S+", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Flame Dragon Scale", "q": 1 },
+      { "m": "Clust S Lv3", "q": 1 }
+    ]
+  },
+  {
+    "index": 46,
+    "name": "Shot Plus Jewel 2",
+    "japanese": "増弾珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "gunner": true,
+    "slots": 2,
+    "skills": [
+      { "k": "Normal S+", "q": "+3" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Teostra Horn", "q": 1 },
+      { "m": "Normal S Lv3", "q": 10 }
+    ]
+  },
+  {
+    "index": 47,
+    "name": "Pierce Plus Jewel 2",
+    "japanese": "増貫珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "gunner": true,
+    "slots": 2,
+    "skills": [
+      { "k": "Pierce S+", "q": "+3" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Blos Fang", "q": 3 },
+      { "m": "Pierce S Lv3", "q": 6 }
+    ]
+  },
+  {
+    "index": 48,
+    "name": "Pellet Plus Jewel 2",
+    "japanese": "増散珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "gunner": true,
+    "slots": 2,
+    "skills": [
+      { "k": "Pellet S+", "q": "+3" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Congalala Claw", "q": 3 },
+      { "m": "Pellet S Lv3", "q": 6 }
+    ]
+  },
+  {
+    "index": 49,
+    "name": "Crag Plus Jewel 2",
+    "japanese": "増榴珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "gunner": true,
+    "slots": 2,
+    "skills": [
+      { "k": "Crag S+", "q": "+3" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Rath Marrow", "q": 1 },
+      { "m": "Crag S Lv3", "q": 5 }
+    ]
+  },
+  {
+    "index": 50,
+    "name": "Cluster Plus Jewel 2",
+    "japanese": "増拡珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "gunner": true,
+    "slots": 2,
+    "skills": [
+      { "k": "Clust S+", "q": "+3" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Flame Dragon Scale", "q": 1 },
+      { "m": "Clust S Lv3", "q": 3 }
+    ]
+  },
+  {
+    "index": 51,
+    "name": "Loading Jewel",
+    "japanese": "弾穴珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [
+      { "k": "Load", "q": "+1" },
+      { "k": "Reload Speed", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Kut-Ku Ear", "q": 1 },
+      { "m": "Piscine Fang", "q": 1 }
+    ]
+  },
+  {
+    "index": 52,
+    "name": "Precision Jewel",
+    "japanese": "針穴珠",
+    "color": "pink",
+    "rarity": 4,
+    "price": 400,
+    "gunner": true,
+    "slots": 1,
+    "skills": [{ "k": "Precision", "q": "+2" }],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Rathian Spike", "q": 1 },
+      { "m": "Elder Dragon Bone", "q": 1 }
+    ]
+  },
+  {
+    "index": 53,
+    "name": "Status Jewel",
+    "japanese": "属攻珠",
+    "color": "pink",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Status", "q": "+1" },
+      { "k": "Recover Speed", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Paralysis Sac", "q": 1 },
+      { "m": "Poison Sac", "q": 1 },
+      { "m": "Electro Sac", "q": 1 }
+    ]
+  },
+  {
+    "index": 54,
+    "name": "Bombardier Jewel",
+    "japanese": "爆師珠",
+    "color": "red",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [{ "k": "Bomb Boost", "q": "+2" }],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Flame Sac", "q": 2 },
+      { "m": "Rath Marrow", "q": 1 }
+    ]
+  },
+  {
+    "index": 55,
+    "name": "Satiation Jewel",
+    "japanese": "満腹珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Hunger", "q": "+1" },
+      { "k": "Heat Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Gourmet Steak", "q": 3 },
+      { "m": "Dash Extract", "q": 1 }
+    ]
+  },
+  {
+    "index": 56,
+    "name": "Metabolic Jewel",
+    "japanese": "食漢珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Gluttony", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Matsutake", "q": 1 },
+      { "m": "Pickled Khezu", "q": 1 }
+    ]
+  },
+  {
+    "index": 57,
+    "name": "Ravenous Jewel",
+    "japanese": "気短珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Eating", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Silver Ricegrass", "q": 1 },
+      { "m": "Sushifish", "q": 1 }
+    ]
+  },
+  {
+    "index": 58,
+    "name": "BBQ Jewel",
+    "japanese": "美食珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Cooking", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Adamant Seed", "q": 1 }
+    ]
+  },
+  {
+    "index": 59,
+    "name": "Stamina Jewel",
+    "japanese": "強精珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Stamina", "q": "+1" },
+      { "k": "Terrain", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Mega Juice", "q": 1 },
+      { "m": "Gourmet Steak", "q": 1 },
+      { "m": "Firestone", "q": 1 }
+    ]
+  },
+  {
+    "index": 60,
+    "name": "Divine Jewel",
+    "japanese": "天力珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Protection", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Black Pearl", "q": 1 }
+    ]
+  },
+  {
+    "index": 61,
+    "name": "Earplug Jewel 1",
+    "japanese": "防音珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Earplugs", "q": "+1" },
+      { "k": "Protection", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Kut-Ku Ear", "q": 1 },
+      { "m": "Rubbery Hide", "q": 1 }
+    ]
+  },
+  {
+    "index": 62,
+    "name": "Earplug Jewel 2",
+    "japanese": "音無珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Earplugs", "q": "+4" },
+      { "k": "Protection", "q": -2 }
+    ],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Kut-Ku Auricle", "q": 1 },
+      { "m": "Rubbery Hide", "q": 1 }
+    ]
+  },
+  {
+    "index": 63,
+    "name": "Heavy Jewel 1",
+    "japanese": "文鎮珠",
+    "color": "white",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Wind Pressure", "q": "+1" },
+      { "k": "Fate", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Black Pearl", "q": 1 },
+      { "m": "Pale Extract", "q": 1 },
+      { "m": "Diablos Shell", "q": 1 }
+    ]
+  },
+  {
+    "index": 64,
+    "name": "Heavy Jewel 2",
+    "japanese": "重塊珠",
+    "color": "white",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Wind Pressure", "q": "+3" },
+      { "k": "Fate", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Lightcrystal", "q": 1 },
+      { "m": "Pale Extract", "q": 1 },
+      { "m": "Diablos Ridge", "q": 1 }
+    ]
+  },
+  {
+    "index": 65,
+    "name": "Traveller's Jewel",
+    "japanese": "旅人珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Terrain", "q": "+1" },
+      { "k": "Stamina", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Flabby Hide", "q": 1 },
+      { "m": "Adamant Pill", "q": 1 }
+    ]
+  },
+  {
+    "index": 66,
+    "name": "Evasion Jewel 1",
+    "japanese": "軽足珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Evasion", "q": "+1" },
+      { "k": "Cold Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Dash Extract", "q": 1 }
+    ]
+  },
+  {
+    "index": 67,
+    "name": "Evasion Jewel 2",
+    "japanese": "神足珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Evasion", "q": "+2" },
+      { "k": "Cold Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Rathian Plate", "q": 1 },
+      { "m": "Dash Extract", "q": 1 }
+    ]
+  },
+  {
+    "index": 68,
+    "name": "Riskbreaker Jewel",
+    "japanese": "危機珠",
+    "color": "gray",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Potential", "q": "+1" }],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Pale Extract", "q": 1 },
+      { "m": "Energy Drink", "q": 2 }
+    ]
+  },
+  {
+    "index": 69,
+    "name": "Anti-Theft Jewel",
+    "japanese": "鍵珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Anti-Theft", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Felvine", "q": 2 },
+      { "m": "Sharp Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 70,
+    "name": "Enduring Jewel 1",
+    "japanese": "持続珠",
+    "color": "blue",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Lasting Power", "q": "+1" },
+      { "k": "Wide-Range", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Immunizer", "q": 1 },
+      { "m": "Kelbi Horn", "q": 3 }
+    ]
+  },
+  {
+    "index": 71,
+    "name": "Enduring Jewel 2",
+    "japanese": "恒久珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Lasting Power", "q": "+2" },
+      { "k": "Wide-Range", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Max Potion", "q": 1 },
+      { "m": "Pale Extract", "q": 2 }
+    ]
+  },
+  {
+    "index": 72,
+    "name": "Friendship Jewel 1",
+    "japanese": "友愛珠",
+    "color": "pink",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Wide-Range", "q": "+1" },
+      { "k": "Stun", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Egg Ticket", "q": 1 },
+      { "m": "Cactus Flower", "q": 2 }
+    ]
+  },
+  {
+    "index": 73,
+    "name": "Friendship Jewel 2",
+    "japanese": "友情珠",
+    "color": "pink",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Wide-Range", "q": "+3" },
+      { "k": "Stun", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Bond Ticket", "q": 1 },
+      { "m": "Dosbiscus", "q": 2 }
+    ]
+  },
+  {
+    "index": 74,
+    "name": "Transport Jewel 1",
+    "japanese": "快足珠",
+    "color": "pink",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Transporter", "q": "+1" },
+      { "k": "Sense", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Dash Extract", "q": 1 }
+    ]
+  },
+  {
+    "index": 75,
+    "name": "Transport Jewel 2",
+    "japanese": "快速珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [{ "k": "Transporter", "q": "+4" }],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Mega Juice", "q": 1 }
+    ]
+  },
+  {
+    "index": 76,
+    "name": "Resistance Jewel 1",
+    "japanese": "耐性珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Element Resistance", "q": "+1" },
+      { "k": "Sleep", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Daora Scale", "q": 1 }
+    ]
+  },
+  {
+    "index": 77,
+    "name": "Resistance Jewel 2",
+    "japanese": "万耐珠",
+    "color": "green",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Element Resistance", "q": "+3" },
+      { "k": "Sleep", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Daora Shell", "q": 1 },
+      { "m": "Teostra Shell", "q": 1 }
+    ]
+  },
+  {
+    "index": 78,
+    "name": "Resistance Jewel 3",
+    "japanese": "天耐珠",
+    "color": "green",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Element Resistance", "q": "+5" },
+      { "k": "Sleep", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Daora Claw", "q": 1 },
+      { "m": "Flame Dragon Claw", "q": 1 },
+      { "m": "Chameleos Claw", "q": 1 }
+    ]
+  },
+  {
+    "index": 79,
+    "name": "Blaze Jewel 1",
+    "japanese": "火炎珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Fire Resistance", "q": "+1" },
+      { "k": "Water Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Black Pearl", "q": 1 },
+      { "m": "Fire Herb", "q": 1 }
+    ]
+  },
+  {
+    "index": 80,
+    "name": "Blaze Jewel 2",
+    "japanese": "紅蓮珠",
+    "color": "red",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Fire Resistance", "q": "+3" },
+      { "k": "Water Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Flame Sac", "q": 1 }
+    ]
+  },
+  {
+    "index": 81,
+    "name": "Blaze Jewel 3",
+    "japanese": "獄炎珠",
+    "color": "red",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Fire Resistance", "q": "+5" },
+      { "k": "Water Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Firestone", "q": 1 },
+      { "m": "Rath Marrow", "q": 1 }
+    ]
+  },
+  {
+    "index": 82,
+    "name": "Stream Jewel 1",
+    "japanese": "流水珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Water Resistance", "q": "+1" },
+      { "k": "Fire Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Ice Crystal", "q": 1 },
+      { "m": "Cephalos Scale", "q": 1 }
+    ]
+  },
+  {
+    "index": 83,
+    "name": "Stream Jewel 2",
+    "japanese": "爆水珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Water Resistance", "q": "+3" },
+      { "k": "Fire Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Plesioth Scale", "q": 1 }
+    ]
+  },
+  {
+    "index": 84,
+    "name": "Stream Jewel 3",
+    "japanese": "水鬼珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Water Resistance", "q": "+5" },
+      { "k": "Fire Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Plesioth Fin", "q": 1 }
+    ]
+  },
+  {
+    "index": 85,
+    "name": "Frost Jewel 1",
+    "japanese": "氷珠",
+    "color": "blue",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Ice Resistance", "q": "+1" },
+      { "k": "Thunder Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Ice Crystal", "q": 1 },
+      { "m": "Anteka Antler", "q": 1 }
+    ]
+  },
+  {
+    "index": 86,
+    "name": "Frost Jewel 2",
+    "japanese": "氷河珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Ice Resistance", "q": "+3" },
+      { "k": "Thunder Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Blango Pelt", "q": 1 }
+    ]
+  },
+  {
+    "index": 87,
+    "name": "Frost Jewel 3",
+    "japanese": "永氷珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Ice Resistance", "q": "+5" },
+      { "k": "Thunder Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Ice Crystal", "q": 1 },
+      { "m": "Blangonga Tail", "q": 1 }
+    ]
+  },
+  {
+    "index": 88,
+    "name": "Bolt Jewel 1",
+    "japanese": "雷光珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Thunder Resistance", "q": "+1" },
+      { "k": "Dragon Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunlight Stone", "q": 1 },
+      { "m": "Kelbi Horn", "q": 2 }
+    ]
+  },
+  {
+    "index": 89,
+    "name": "Bolt Jewel 2",
+    "japanese": "雷鳴珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Thunder Resistance", "q": "+3" },
+      { "k": "Dragon Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Rubbery Hide", "q": 1 }
+    ]
+  },
+  {
+    "index": 90,
+    "name": "Bolt Jewel 3",
+    "japanese": "雷神珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Thunder Resistance", "q": "+5" },
+      { "k": "Dragon Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Rubbery Hide", "q": 1 },
+      { "m": "Striped Skin", "q": 1 }
+    ]
+  },
+  {
+    "index": 91,
+    "name": "Dragon Jewel 1",
+    "japanese": "破龍珠",
+    "color": "purple",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Dragon Resistance", "q": "+1" },
+      { "k": "Ice Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Hornetaur Wing", "q": 1 },
+      { "m": "Monster Fluid", "q": 1 }
+    ]
+  },
+  {
+    "index": 92,
+    "name": "Dragon Jewel 2",
+    "japanese": "滅龍珠",
+    "color": "purple",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Dragon Resistance", "q": "+3" },
+      { "k": "Ice Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Hornetaur Wing", "q": 2 },
+      { "m": "Elder Dragon Blood", "q": 1 }
+    ]
+  },
+  {
+    "index": 93,
+    "name": "Dragon Jewel 3",
+    "japanese": "龍王珠",
+    "color": "purple",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Dragon Resistance", "q": "+5" },
+      { "k": "Ice Resistance", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Hornetaur Head", "q": 2 },
+      { "m": "Elder Dragon Blood", "q": 1 }
+    ]
+  },
+  {
+    "index": 94,
+    "name": "Cold Jewel 1",
+    "japanese": "涼風珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Heat Resistance", "q": "+1" }],
+    "forge": [
+      { "m": "Ice Crystal", "q": 1 },
+      { "m": "Chipped Shell", "q": 2 }
+    ]
+  },
+  {
+    "index": 95,
+    "name": "Cold Jewel 2",
+    "japanese": "冷風珠",
+    "color": "cyan",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [{ "k": "Heat Resistance", "q": "+4" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Ice Crystal", "q": 2 },
+      { "m": "Plesioth Fin", "q": 1 },
+      { "m": "Cephalos Fin", "q": 1 }
+    ]
+  },
+  {
+    "index": 96,
+    "name": "Hot Jewel 1",
+    "japanese": "温風珠",
+    "color": "orange",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Cold Resistance", "q": "+1" }],
+    "forge": [
+      { "m": "Sunlight Stone", "q": 1 },
+      { "m": "Flame Sac", "q": 1 }
+    ]
+  },
+  {
+    "index": 97,
+    "name": "Hot Jewel 2",
+    "japanese": "暖風珠",
+    "color": "orange",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [{ "k": "Cold Resistance", "q": "+4" }],
+    "forge": [
+      { "m": "Firestone", "q": 1 },
+      { "m": "Sunlight Stone", "q": 2 },
+      { "m": "Rath Marrow", "q": 1 }
+    ]
+  },
+  {
+    "index": 98,
+    "name": "Map Jewel",
+    "japanese": "鋭眼珠",
+    "color": "white",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Map", "q": "+2" }],
+    "forge": [
+      { "m": "Piscine Fang", "q": 1 },
+      { "m": "Cactus Flower", "q": 1 }
+    ]
+  },
+  {
+    "index": 99,
+    "name": "Gathering Jewel 1",
+    "japanese": "百手珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Gathering", "q": "+1" }],
+    "forge": [
+      { "m": "Earth Crystal", "q": 1 },
+      { "m": "Flashbug", "q": 1 }
+    ]
+  },
+  {
+    "index": 100,
+    "name": "Gathering Jewel 2",
+    "japanese": "千手珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Gathering", "q": "+2" }],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Shiny Beetle", "q": 1 }
+    ]
+  },
+  {
+    "index": 101,
+    "name": "Gathering Jewel 3",
+    "japanese": "万手珠",
+    "color": "green",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Gathering", "q": "+3" },
+      { "k": "Whim", "q": "+1" }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Hercudrome", "q": 1 }
+    ]
+  },
+  {
+    "index": 102,
+    "name": "Snatcher Jewel 1",
+    "japanese": "早手珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Speed Gathering", "q": "+1" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Dash Extract", "q": 1 },
+      { "m": "Shiny Beetle", "q": 1 }
+    ]
+  },
+  {
+    "index": 103,
+    "name": "Snatcher Jewel 2",
+    "japanese": "速手珠",
+    "color": "green",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [{ "k": "Speed Gathering", "q": "+4" }],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Dash Extract", "q": 1 },
+      { "m": "Hercudrome", "q": 1 }
+    ]
+  },
+  {
+    "index": 104,
+    "name": "Blessing Jewel 1",
+    "japanese": "祝珠",
+    "color": "pink",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Whim", "q": "+1" }],
+    "forge": [
+      { "m": "Black Pearl", "q": 2 },
+      { "m": "Cactus Flower", "q": 2 }
+    ]
+  },
+  {
+    "index": 105,
+    "name": "Blessing Jewel 2",
+    "japanese": "祝福珠",
+    "color": "pink",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Whim", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Rusted Daora Webbing", "q": 1 },
+      { "m": "Anteka Antler", "q": 2 }
+    ]
+  },
+  {
+    "index": 106,
+    "name": "Carver Jewel 1",
+    "japanese": "皮剥珠",
+    "color": "red",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Carving", "q": "+1" },
+      { "k": "Stamina", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Pawprint Stamp", "q": 1 },
+      { "m": "Daora Webbing", "q": 1 }
+    ]
+  },
+  {
+    "index": 107,
+    "name": "Carver Jewel 2",
+    "japanese": "獣剥珠",
+    "color": "orange",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Carving", "q": "+3" },
+      { "k": "Stamina", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Pawprint Ticket", "q": 1 },
+      { "m": "Rusted Daora Webbing", "q": 1 }
+    ]
+  },
+  {
+    "index": 108,
+    "name": "Fate Jewel 1",
+    "japanese": "宝珠",
+    "color": "pink",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Fate", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Silver Egg", "q": 1 }
+    ]
+  },
+  {
+    "index": 109,
+    "name": "Fate Jewel 2",
+    "japanese": "報珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Fate", "q": "+2" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Golden Egg", "q": 1 }
+    ]
+  },
+  {
+    "index": 110,
+    "name": "Fisher's Jewel",
+    "japanese": "釣力珠",
+    "color": "cyan",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Fisher", "q": "+2" }],
+    "forge": [
+      { "m": "Chipped Shell", "q": 2 },
+      { "m": "Cricket", "q": 1 }
+    ]
+  },
+  {
+    "index": 111,
+    "name": "Psychic Jewel 1",
+    "japanese": "透眼珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Psychic", "q": "+1" },
+      { "k": "Sense", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Herbal Medicine", "q": 1 },
+      { "m": "Psychoserum", "q": 1 }
+    ]
+  },
+  {
+    "index": 112,
+    "name": "Psychic Jewel 2",
+    "japanese": "千里珠",
+    "color": "orange",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Psychic", "q": "+3" },
+      { "k": "Sense", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Max Potion", "q": 1 },
+      { "m": "Psychoserum", "q": 2 }
+    ]
+  },
+  {
+    "index": 113,
+    "name": "Psychic Jewel 3",
+    "japanese": "万里珠",
+    "color": "yellow",
+    "rarity": 5,
+    "price": 900,
+    "slots": 3,
+    "skills": [
+      { "k": "Psychic", "q": "+5" },
+      { "k": "Sense", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Lazurite Jewel", "q": 1 },
+      { "m": "Ancient Potion", "q": 1 },
+      { "m": "Psychoserum", "q": 3 }
+    ]
+  },
+  {
+    "index": 114,
+    "name": "Recovery Jewel 1",
+    "japanese": "回復珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Recover Speed", "q": "+1" },
+      { "k": "Poison", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Pale Bone", "q": 1 }
+    ]
+  },
+  {
+    "index": 115,
+    "name": "Recovery Jewel 2",
+    "japanese": "快復珠",
+    "color": "blue",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Recover Speed", "q": "+2" },
+      { "k": "Poison", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Elder Dragon Bone", "q": 1 },
+      { "m": "Lifepowder", "q": 2 }
+    ]
+  },
+  {
+    "index": 116,
+    "name": "Medicine Jewel",
+    "japanese": "治癒珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Recovery Items", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Rathian Spike", "q": 1 },
+      { "m": "Kelbi Horn", "q": 2 }
+    ]
+  },
+  {
+    "index": 117,
+    "name": "Medicine Jewel",
+    "japanese": "治癒珠",
+    "color": "green",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Recovery Items", "q": "+1" },
+      { "k": "Whim", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Sunspire Jewel", "q": 1 },
+      { "m": "Rusted Daora Wing", "q": 1 },
+      { "m": "Max Potion", "q": 1 }
+    ]
+  },
+  {
+    "index": 118,
+    "name": "Professor Jewel",
+    "japanese": "博士珠",
+    "color": "purple",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Combo Rate", "q": "+2" }],
+    "forge": [
+      { "m": "Earth Crystal", "q": 1 },
+      { "m": "Monster Fluid", "q": 1 }
+    ]
+  },
+  {
+    "index": 119,
+    "name": "Combination Jewel",
+    "japanese": "弾製珠",
+    "color": "white",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [
+      { "k": "Ammo Maker", "q": "+1" },
+      { "k": "Protection", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Elder Dragon Bone", "q": 2 },
+      { "m": "Flame Sac", "q": 2 }
+    ]
+  },
+  {
+    "index": 120,
+    "name": "Alchemical Jewel",
+    "japanese": "秘術珠",
+    "color": "purple",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Alchemy", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Monster Fluid", "q": 1 }
+    ]
+  },
+  {
+    "index": 121,
+    "name": "Giant Jewel",
+    "japanese": "巨獣珠",
+    "color": "yellow",
+    "rarity": 4,
+    "price": 400,
+    "slots": 1,
+    "skills": [{ "k": "Monster", "q": "+2" }],
+    "forge": [
+      { "m": "Aquaglow Jewel", "q": 1 },
+      { "m": "Thunderbug", "q": 1 },
+      { "m": "Screamer Sac", "q": 1 }
+    ]
+  },
+  {
+    "index": 122,
+    "name": "Cannoneer's Jewel",
+    "japanese": "大砲珠",
+    "color": "purple",
+    "rarity": 5,
+    "price": 750,
+    "slots": 2,
+    "skills": [
+      { "k": "Artillery", "q": "+2" },
+      { "k": "Stamina", "q": -1 }
+    ],
+    "forge": [
+      { "m": "Bloodrun Jewel", "q": 1 },
+      { "m": "Daora Horn", "q": 1 },
+      { "m": "Might Pill", "q": 2 }
+    ]
+  }
+]
