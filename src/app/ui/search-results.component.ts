@@ -180,11 +180,11 @@ const getSetElement = (set: ArmorSet, skillData: StaticSkillData, searchParams: 
   const tb = htmlToElement('<tbody class="result-set"></tbody>')
   const row1 = htmlToElement(`
     <tr class="result-set-row result-set-row1">
-      <td>${set.head.name}</td>
-      <td>${set.chest.name}</td>
-      <td>${set.arms.name}</td>
-      <td>${set.waist.name}</td>
-      <td>${set.legs.name}</td>
+      <td style="width: 20%">${set.head.name}</td>
+      <td style="width: 20%">${set.chest.name}</td>
+      <td style="width: 20%">${set.arms.name}</td>
+      <td style="width: 20%">${set.waist.name}</td>
+      <td style="width: 20%">${set.legs.name}</td>
     </tr>`)
   const row2 = htmlToElement(`
     <tr class="result-set-row result-set-row2">
