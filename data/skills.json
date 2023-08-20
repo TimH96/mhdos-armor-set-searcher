@@ -1,7 +1,7 @@
 {
     "0": [
         {
-            "category": 0,
+            "category": 4,
             "id": 0,
             "isPositive": true,
             "name": "Alchemy",
@@ -11,7 +11,7 @@
     ],
     "1": [
         {
-            "category": 0,
+            "category": 6,
             "id": 1,
             "isPositive": true,
             "name": "Pro Ammo Combiner",
@@ -21,7 +21,7 @@
     ],
     "2": [
         {
-            "category": 0,
+            "category": 7,
             "id": 2,
             "isPositive": true,
             "name": "Anti-Theft",
@@ -31,7 +31,7 @@
     ],
     "3": [
         {
-            "category": 0,
+            "category": 3,
             "id": 5,
             "isPositive": true,
             "name": "Squeaky Clean +2",
@@ -39,7 +39,7 @@
             "requiredSkill": 3
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 4,
             "isPositive": true,
             "name": "Squeaky Clean +1",
@@ -47,7 +47,7 @@
             "requiredSkill": 3
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 3,
             "isPositive": false,
             "name": "Extra Stinky",
@@ -57,7 +57,7 @@
     ],
     "4": [
         {
-            "category": 0,
+            "category": 4,
             "id": 6,
             "isPositive": true,
             "name": "Artillery",
@@ -93,7 +93,7 @@
     ],
     "6": [
         {
-            "category": 0,
+            "category": 2,
             "id": 10,
             "isPositive": true,
             "name": "Auto-Guard",
@@ -103,7 +103,7 @@
     ],
     "7": [
         {
-            "category": 0,
+            "category": 4,
             "id": 11,
             "isPositive": true,
             "name": "Bombardier",
@@ -113,7 +113,7 @@
     ],
     "8": [
         {
-            "category": 0,
+            "category": 7,
             "id": 12,
             "isPositive": true,
             "name": "Expert Carver",
@@ -123,7 +123,7 @@
     ],
     "9": [
         {
-            "category": 0,
+            "category": 6,
             "id": 15,
             "isPositive": true,
             "name": "Add All Clust S",
@@ -131,7 +131,7 @@
             "requiredSkill": 9
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 14,
             "isPositive": true,
             "name": "Add Clust S Lv1-2",
@@ -139,7 +139,7 @@
             "requiredSkill": 9
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 13,
             "isPositive": true,
             "name": "Add Clust S Lv1",
@@ -149,7 +149,7 @@
     ],
     "10": [
         {
-            "category": 0,
+            "category": 3,
             "id": 20,
             "isPositive": true,
             "name": "Negate Cold [L]",
@@ -157,7 +157,7 @@
             "requiredSkill": 10
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 19,
             "isPositive": true,
             "name": "Negate Cold [S]",
@@ -165,7 +165,7 @@
             "requiredSkill": 10
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 18,
             "isPositive": true,
             "name": "Halve Cold",
@@ -173,7 +173,7 @@
             "requiredSkill": 10
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 17,
             "isPositive": false,
             "name": "Cold Surge [S]",
@@ -181,7 +181,7 @@
             "requiredSkill": 10
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 16,
             "isPositive": false,
             "name": "Cold Surge [L]",
@@ -191,7 +191,7 @@
     ],
     "11": [
         {
-            "category": 0,
+            "category": 4,
             "id": 25,
             "isPositive": true,
             "name": "Combo Rate +20%",
@@ -199,7 +199,7 @@
             "requiredSkill": 11
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 24,
             "isPositive": true,
             "name": "Combo Rate +10%",
@@ -207,7 +207,7 @@
             "requiredSkill": 11
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 23,
             "isPositive": true,
             "name": "Combo Rate +5%",
@@ -215,7 +215,7 @@
             "requiredSkill": 11
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 22,
             "isPositive": false,
             "name": "Combo Rate -5%",
@@ -223,7 +223,7 @@
             "requiredSkill": 11
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 21,
             "isPositive": false,
             "name": "Combo Rate -15%",
@@ -233,7 +233,7 @@
     ],
     "12": [
         {
-            "category": 0,
+            "category": 4,
             "id": 28,
             "isPositive": true,
             "name": "BBQ Master",
@@ -241,7 +241,7 @@
             "requiredSkill": 12
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 27,
             "isPositive": true,
             "name": "BBQ Expert",
@@ -249,7 +249,7 @@
             "requiredSkill": 12
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 26,
             "isPositive": false,
             "name": "Overconfident BBQ'er",
@@ -259,7 +259,7 @@
     ],
     "13": [
         {
-            "category": 0,
+            "category": 6,
             "id": 31,
             "isPositive": true,
             "name": "Add All Crag S",
@@ -267,7 +267,7 @@
             "requiredSkill": 13
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 30,
             "isPositive": true,
             "name": "Add Crag S Lv1-2",
@@ -275,7 +275,7 @@
             "requiredSkill": 13
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 29,
             "isPositive": true,
             "name": "Add Crag S Lv1",
@@ -335,7 +335,7 @@
     ],
     "15": [
         {
-            "category": 0,
+            "category": 3,
             "id": 43,
             "isPositive": true,
             "name": "Dragon Resistance + 10",
@@ -343,7 +343,7 @@
             "requiredSkill": 15
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 42,
             "isPositive": true,
             "name": "Dragon Resistance + 5",
@@ -351,7 +351,7 @@
             "requiredSkill": 15
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 41,
             "isPositive": true,
             "name": "Dragon Resistance + 3",
@@ -359,7 +359,7 @@
             "requiredSkill": 15
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 40,
             "isPositive": false,
             "name": "Dragon Resistance - 3",
@@ -367,7 +367,7 @@
             "requiredSkill": 15
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 39,
             "isPositive": false,
             "name": "Dragon Resistance - 5",
@@ -375,7 +375,7 @@
             "requiredSkill": 15
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 38,
             "isPositive": false,
             "name": "Dragon Resistance - 10",
@@ -385,7 +385,7 @@
     ],
     "16": [
         {
-            "category": 0,
+            "category": 3,
             "id": 45,
             "isPositive": true,
             "name": "High Grade Earplugs",
@@ -393,7 +393,7 @@
             "requiredSkill": 16
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 44,
             "isPositive": true,
             "name": "Earplugs",
@@ -403,7 +403,7 @@
     ],
     "17": [
         {
-            "category": 0,
+            "category": 4,
             "id": 47,
             "isPositive": true,
             "name": "Speed Eater",
@@ -411,7 +411,7 @@
             "requiredSkill": 17
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 46,
             "isPositive": false,
             "name": "Slow Eater",
@@ -421,7 +421,7 @@
     ],
     "18": [
         {
-            "category": 0,
+            "category": 3,
             "id": 53,
             "isPositive": true,
             "name": "All Element Resistance + 10",
@@ -429,7 +429,7 @@
             "requiredSkill": 18
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 52,
             "isPositive": true,
             "name": "All Element Resistance + 5",
@@ -437,7 +437,7 @@
             "requiredSkill": 18
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 51,
             "isPositive": true,
             "name": "All Element Resistance + 3",
@@ -445,7 +445,7 @@
             "requiredSkill": 18
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 50,
             "isPositive": false,
             "name": "All Element Resistance - 3",
@@ -453,7 +453,7 @@
             "requiredSkill": 18
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 49,
             "isPositive": false,
             "name": "All Element Resistance - 5",
@@ -461,7 +461,7 @@
             "requiredSkill": 18
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 48,
             "isPositive": false,
             "name": "All Element Resistance - 10",
@@ -471,7 +471,7 @@
     ],
     "19": [
         {
-            "category": 0,
+            "category": 2,
             "id": 55,
             "isPositive": true,
             "name": "Evasion +2",
@@ -479,7 +479,7 @@
             "requiredSkill": 19
         },
         {
-            "category": 0,
+            "category": 2,
             "id": 54,
             "isPositive": true,
             "name": "Evasion +1",
@@ -515,7 +515,7 @@
     ],
     "21": [
         {
-            "category": 0,
+            "category": 7,
             "id": 62,
             "isPositive": true,
             "name": "Great Luck",
@@ -523,7 +523,7 @@
             "requiredSkill": 21
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 61,
             "isPositive": true,
             "name": "Good Luck",
@@ -531,7 +531,7 @@
             "requiredSkill": 21
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 60,
             "isPositive": false,
             "name": "Bad Luck",
@@ -539,7 +539,7 @@
             "requiredSkill": 21
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 59,
             "isPositive": false,
             "name": "Horrible Luck",
@@ -549,7 +549,7 @@
     ],
     "22": [
         {
-            "category": 0,
+            "category": 3,
             "id": 68,
             "isPositive": true,
             "name": "Fire Resistance + 10",
@@ -557,7 +557,7 @@
             "requiredSkill": 22
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 67,
             "isPositive": true,
             "name": "Fire Resistance + 5",
@@ -565,7 +565,7 @@
             "requiredSkill": 22
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 66,
             "isPositive": true,
             "name": "Fire Resistance + 3",
@@ -573,7 +573,7 @@
             "requiredSkill": 22
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 65,
             "isPositive": false,
             "name": "Fire Resistance - 3",
@@ -581,7 +581,7 @@
             "requiredSkill": 22
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 64,
             "isPositive": false,
             "name": "Fire Resistance - 5",
@@ -589,7 +589,7 @@
             "requiredSkill": 22
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 63,
             "isPositive": false,
             "name": "Fire Resistance - 10",
@@ -599,7 +599,7 @@
     ],
     "23": [
         {
-            "category": 0,
+            "category": 4,
             "id": 69,
             "isPositive": true,
             "name": "Fishing Expert",
@@ -609,7 +609,7 @@
     ],
     "24": [
         {
-            "category": 0,
+            "category": 7,
             "id": 73,
             "isPositive": true,
             "name": "Gathering +2",
@@ -617,7 +617,7 @@
             "requiredSkill": 24
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 72,
             "isPositive": true,
             "name": "Gathering +1",
@@ -625,7 +625,7 @@
             "requiredSkill": 24
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 71,
             "isPositive": false,
             "name": "Gathering -1",
@@ -633,7 +633,7 @@
             "requiredSkill": 24
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 70,
             "isPositive": false,
             "name": "Gathering -2",
@@ -643,7 +643,7 @@
     ],
     "25": [
         {
-            "category": 0,
+            "category": 4,
             "id": 75,
             "isPositive": true,
             "name": "Scavenger",
@@ -651,7 +651,7 @@
             "requiredSkill": 25
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 74,
             "isPositive": true,
             "name": "Gourmand",
@@ -661,7 +661,7 @@
     ],
     "26": [
         {
-            "category": 0,
+            "category": 2,
             "id": 79,
             "isPositive": true,
             "name": "Guard +2",
@@ -669,7 +669,7 @@
             "requiredSkill": 26
         },
         {
-            "category": 0,
+            "category": 2,
             "id": 78,
             "isPositive": true,
             "name": "Guard +1",
@@ -677,7 +677,7 @@
             "requiredSkill": 26
         },
         {
-            "category": 0,
+            "category": 2,
             "id": 77,
             "isPositive": false,
             "name": "Guard -1",
@@ -685,7 +685,7 @@
             "requiredSkill": 26
         },
         {
-            "category": 0,
+            "category": 2,
             "id": 76,
             "isPositive": false,
             "name": "Guard -2",
@@ -695,7 +695,7 @@
     ],
     "27": [
         {
-            "category": 0,
+            "category": 5,
             "id": 81,
             "isPositive": true,
             "name": "Sharpness +1",
@@ -703,7 +703,7 @@
             "requiredSkill": 27
         },
         {
-            "category": 0,
+            "category": 5,
             "id": 80,
             "isPositive": false,
             "name": "Sharpness -1",
@@ -713,7 +713,7 @@
     ],
     "28": [
         {
-            "category": 0,
+            "category": 1,
             "id": 87,
             "isPositive": true,
             "name": "Health + 30",
@@ -721,7 +721,7 @@
             "requiredSkill": 28
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 86,
             "isPositive": true,
             "name": "Health + 20",
@@ -729,7 +729,7 @@
             "requiredSkill": 28
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 85,
             "isPositive": true,
             "name": "Health + 10",
@@ -737,7 +737,7 @@
             "requiredSkill": 28
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 84,
             "isPositive": false,
             "name": "Health - 10",
@@ -745,7 +745,7 @@
             "requiredSkill": 28
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 83,
             "isPositive": false,
             "name": "Health - 20",
@@ -753,7 +753,7 @@
             "requiredSkill": 28
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 82,
             "isPositive": false,
             "name": "Health - 30",
@@ -763,7 +763,7 @@
     ],
     "29": [
         {
-            "category": 0,
+            "category": 3,
             "id": 92,
             "isPositive": true,
             "name": "Negate Heat [L]",
@@ -771,7 +771,7 @@
             "requiredSkill": 29
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 91,
             "isPositive": true,
             "name": "Negate Heat [S]",
@@ -779,7 +779,7 @@
             "requiredSkill": 29
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 90,
             "isPositive": true,
             "name": "Halve Heat",
@@ -787,7 +787,7 @@
             "requiredSkill": 29
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 89,
             "isPositive": false,
             "name": "Heat Surge [S]",
@@ -795,7 +795,7 @@
             "requiredSkill": 29
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 88,
             "isPositive": false,
             "name": "Heat Surge [L]",
@@ -805,7 +805,7 @@
     ],
     "30": [
         {
-            "category": 0,
+            "category": 1,
             "id": 96,
             "isPositive": true,
             "name": "Negate Hunger",
@@ -813,7 +813,7 @@
             "requiredSkill": 30
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 95,
             "isPositive": true,
             "name": "Halve Hunger",
@@ -821,7 +821,7 @@
             "requiredSkill": 30
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 94,
             "isPositive": false,
             "name": "Hunger Increased [S]",
@@ -829,7 +829,7 @@
             "requiredSkill": 30
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 93,
             "isPositive": false,
             "name": "Hunger Increased [L]",
@@ -839,7 +839,7 @@
     ],
     "31": [
         {
-            "category": 0,
+            "category": 3,
             "id": 102,
             "isPositive": true,
             "name": "Ice Resistance + 10",
@@ -847,7 +847,7 @@
             "requiredSkill": 31
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 101,
             "isPositive": true,
             "name": "Ice Resistance + 5",
@@ -855,7 +855,7 @@
             "requiredSkill": 31
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 100,
             "isPositive": true,
             "name": "Ice Resistance + 3",
@@ -863,7 +863,7 @@
             "requiredSkill": 31
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 99,
             "isPositive": false,
             "name": "Ice Resistance - 3",
@@ -871,7 +871,7 @@
             "requiredSkill": 31
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 98,
             "isPositive": false,
             "name": "Ice Resistance - 5",
@@ -879,7 +879,7 @@
             "requiredSkill": 31
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 97,
             "isPositive": false,
             "name": "Ice Resistance - 10",
@@ -889,7 +889,7 @@
     ],
     "32": [
         {
-            "category": 0,
+            "category": 4,
             "id": 104,
             "isPositive": true,
             "name": "Items Up",
@@ -897,7 +897,7 @@
             "requiredSkill": 32
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 103,
             "isPositive": false,
             "name": "Items Down",
@@ -907,7 +907,7 @@
     ],
     "33": [
         {
-            "category": 0,
+            "category": 6,
             "id": 105,
             "isPositive": true,
             "name": "Load Up",
@@ -917,7 +917,7 @@
     ],
     "34": [
         {
-            "category": 0,
+            "category": 7,
             "id": 107,
             "isPositive": true,
             "name": "Automap",
@@ -925,7 +925,7 @@
             "requiredSkill": 34
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 106,
             "isPositive": false,
             "name": "No Map",
@@ -935,7 +935,7 @@
     ],
     "35": [
         {
-            "category": 0,
+            "category": 7,
             "id": 108,
             "isPositive": true,
             "name": "Big Guy!",
@@ -945,7 +945,7 @@
     ],
     "36": [
         {
-            "category": 0,
+            "category": 6,
             "id": 110,
             "isPositive": true,
             "name": "Add All Normal S",
@@ -953,7 +953,7 @@
             "requiredSkill": 36
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 109,
             "isPositive": true,
             "name": "Add Normal S Lv1",
@@ -963,7 +963,7 @@
     ],
     "37": [
         {
-            "category": 0,
+            "category": 6,
             "id": 111,
             "isPositive": true,
             "name": "Normal S Up",
@@ -973,7 +973,7 @@
     ],
     "38": [
         {
-            "category": 0,
+            "category": 3,
             "id": 114,
             "isPositive": true,
             "name": "Negate Paralysis",
@@ -981,7 +981,7 @@
             "requiredSkill": 38
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 113,
             "isPositive": true,
             "name": "Halve Paralysis",
@@ -989,7 +989,7 @@
             "requiredSkill": 38
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 112,
             "isPositive": false,
             "name": "Double Paralysis",
@@ -999,7 +999,7 @@
     ],
     "39": [
         {
-            "category": 0,
+            "category": 6,
             "id": 117,
             "isPositive": true,
             "name": "Add All Pellet S",
@@ -1007,7 +1007,7 @@
             "requiredSkill": 39
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 116,
             "isPositive": true,
             "name": "Add Pellet S Lv1-2",
@@ -1015,7 +1015,7 @@
             "requiredSkill": 39
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 115,
             "isPositive": true,
             "name": "Add Pellet S Lv1",
@@ -1025,7 +1025,7 @@
     ],
     "40": [
         {
-            "category": 0,
+            "category": 6,
             "id": 118,
             "isPositive": true,
             "name": "Pellet S Up",
@@ -1035,7 +1035,7 @@
     ],
     "41": [
         {
-            "category": 0,
+            "category": 6,
             "id": 121,
             "isPositive": true,
             "name": "Add All Pierce S",
@@ -1043,7 +1043,7 @@
             "requiredSkill": 41
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 120,
             "isPositive": true,
             "name": "Add Pierce S Lv1-2",
@@ -1051,7 +1051,7 @@
             "requiredSkill": 41
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 119,
             "isPositive": true,
             "name": "Add Pierce S Lv1",
@@ -1061,7 +1061,7 @@
     ],
     "42": [
         {
-            "category": 0,
+            "category": 6,
             "id": 122,
             "isPositive": true,
             "name": "Pierce S Up",
@@ -1071,7 +1071,7 @@
     ],
     "43": [
         {
-            "category": 0,
+            "category": 3,
             "id": 125,
             "isPositive": true,
             "name": "Negate Poison",
@@ -1079,7 +1079,7 @@
             "requiredSkill": 43
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 124,
             "isPositive": true,
             "name": "Halve Poison",
@@ -1087,7 +1087,7 @@
             "requiredSkill": 43
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 123,
             "isPositive": false,
             "name": "Double Poison",
@@ -1123,7 +1123,7 @@
     ],
     "45": [
         {
-            "category": 0,
+            "category": 6,
             "id": 130,
             "isPositive": true,
             "name": "Deviation Down",
@@ -1131,7 +1131,7 @@
             "requiredSkill": 45
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 129,
             "isPositive": false,
             "name": "Deviation Up",
@@ -1159,7 +1159,7 @@
     ],
     "47": [
         {
-            "category": 0,
+            "category": 7,
             "id": 134,
             "isPositive": true,
             "name": "Autotracker",
@@ -1167,7 +1167,7 @@
             "requiredSkill": 47
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 133,
             "isPositive": true,
             "name": "Detect",
@@ -1177,7 +1177,7 @@
     ],
     "48": [
         {
-            "category": 0,
+            "category": 6,
             "id": 135,
             "isPositive": true,
             "name": "Rapid-Fire",
@@ -1187,7 +1187,7 @@
     ],
     "49": [
         {
-            "category": 0,
+            "category": 6,
             "id": 137,
             "isPositive": true,
             "name": "Recoil Down +2",
@@ -1195,7 +1195,7 @@
             "requiredSkill": 49
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 136,
             "isPositive": true,
             "name": "Recoil Down +1",
@@ -1205,7 +1205,7 @@
     ],
     "50": [
         {
-            "category": 0,
+            "category": 1,
             "id": 141,
             "isPositive": true,
             "name": "Recovery Speed +2",
@@ -1213,7 +1213,7 @@
             "requiredSkill": 50
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 140,
             "isPositive": true,
             "name": "Recovery Speed +1",
@@ -1221,7 +1221,7 @@
             "requiredSkill": 50
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 139,
             "isPositive": false,
             "name": "Recovery Speed -1",
@@ -1229,7 +1229,7 @@
             "requiredSkill": 50
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 138,
             "isPositive": false,
             "name": "Recovery Speed -2",
@@ -1239,7 +1239,7 @@
     ],
     "51": [
         {
-            "category": 0,
+            "category": 4,
             "id": 143,
             "isPositive": true,
             "name": "Recovery Items Up",
@@ -1247,7 +1247,7 @@
             "requiredSkill": 51
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 142,
             "isPositive": false,
             "name": "Recovery Items Down",
@@ -1257,7 +1257,7 @@
     ],
     "52": [
         {
-            "category": 0,
+            "category": 6,
             "id": 148,
             "isPositive": true,
             "name": "Reload Speed +3",
@@ -1265,7 +1265,7 @@
             "requiredSkill": 52
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 147,
             "isPositive": true,
             "name": "Reload Speed +2",
@@ -1273,7 +1273,7 @@
             "requiredSkill": 52
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 146,
             "isPositive": true,
             "name": "Reload Speed +1",
@@ -1281,7 +1281,7 @@
             "requiredSkill": 52
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 145,
             "isPositive": false,
             "name": "Reload Speed -1",
@@ -1289,7 +1289,7 @@
             "requiredSkill": 52
         },
         {
-            "category": 0,
+            "category": 6,
             "id": 144,
             "isPositive": false,
             "name": "Reload Speed -2",
@@ -1299,7 +1299,7 @@
     ],
     "53": [
         {
-            "category": 0,
+            "category": 7,
             "id": 150,
             "isPositive": true,
             "name": "Sneak",
@@ -1307,7 +1307,7 @@
             "requiredSkill": 53
         },
         {
-            "category": 0,
+            "category": 7,
             "id": 149,
             "isPositive": false,
             "name": "Taunt",
@@ -1317,7 +1317,7 @@
     ],
     "54": [
         {
-            "category": 0,
+            "category": 5,
             "id": 152,
             "isPositive": true,
             "name": "Razor Sharp",
@@ -1325,7 +1325,7 @@
             "requiredSkill": 54
         },
         {
-            "category": 0,
+            "category": 5,
             "id": 151,
             "isPositive": false,
             "name": "Blunt Edge",
@@ -1335,7 +1335,7 @@
     ],
     "55": [
         {
-            "category": 0,
+            "category": 3,
             "id": 155,
             "isPositive": true,
             "name": "Sleep Negated",
@@ -1343,7 +1343,7 @@
             "requiredSkill": 55
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 154,
             "isPositive": true,
             "name": "Sleep Halved",
@@ -1351,7 +1351,7 @@
             "requiredSkill": 55
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 153,
             "isPositive": false,
             "name": "Sleep Doubled",
@@ -1361,7 +1361,7 @@
     ],
     "56": [
         {
-            "category": 0,
+            "category": 3,
             "id": 158,
             "isPositive": true,
             "name": "Snow Res +2",
@@ -1369,7 +1369,7 @@
             "requiredSkill": 56
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 157,
             "isPositive": true,
             "name": "Snow Res +1",
@@ -1377,7 +1377,7 @@
             "requiredSkill": 56
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 156,
             "isPositive": false,
             "name": "Freeze",
@@ -1387,7 +1387,7 @@
     ],
     "57": [
         {
-            "category": 0,
+            "category": 7,
             "id": 159,
             "isPositive": true,
             "name": "Speed Gathering",
@@ -1397,7 +1397,7 @@
     ],
     "58": [
         {
-            "category": 0,
+            "category": 5,
             "id": 161,
             "isPositive": true,
             "name": "Fast Sharpening",
@@ -1405,7 +1405,7 @@
             "requiredSkill": 58
         },
         {
-            "category": 0,
+            "category": 5,
             "id": 160,
             "isPositive": false,
             "name": "Sharpening Slowed",
@@ -1415,7 +1415,7 @@
     ],
     "59": [
         {
-            "category": 0,
+            "category": 1,
             "id": 163,
             "isPositive": true,
             "name": "Marathon Runner",
@@ -1423,7 +1423,7 @@
             "requiredSkill": 59
         },
         {
-            "category": 0,
+            "category": 1,
             "id": 162,
             "isPositive": false,
             "name": "Short Sprinter",
@@ -1443,7 +1443,7 @@
     ],
     "61": [
         {
-            "category": 0,
+            "category": 3,
             "id": 167,
             "isPositive": true,
             "name": "Stun Negated",
@@ -1451,7 +1451,7 @@
             "requiredSkill": 61
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 166,
             "isPositive": true,
             "name": "Stun Halved",
@@ -1459,7 +1459,7 @@
             "requiredSkill": 61
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 165,
             "isPositive": false,
             "name": "Stun Doubled",
@@ -1469,7 +1469,7 @@
     ],
     "62": [
         {
-            "category": 0,
+            "category": 3,
             "id": 171,
             "isPositive": true,
             "name": "Terrain Down Large",
@@ -1477,7 +1477,7 @@
             "requiredSkill": 62
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 170,
             "isPositive": true,
             "name": "Terrain Down Small",
@@ -1485,7 +1485,7 @@
             "requiredSkill": 62
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 169,
             "isPositive": false,
             "name": "Terrain Up Small",
@@ -1493,7 +1493,7 @@
             "requiredSkill": 62
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 168,
             "isPositive": false,
             "name": "Terrain Up Large",
@@ -1503,7 +1503,7 @@
     ],
     "63": [
         {
-            "category": 0,
+            "category": 4,
             "id": 172,
             "isPositive": true,
             "name": "Throw",
@@ -1513,7 +1513,7 @@
     ],
     "64": [
         {
-            "category": 0,
+            "category": 3,
             "id": 178,
             "isPositive": true,
             "name": "Thunder Resistance + 10",
@@ -1521,7 +1521,7 @@
             "requiredSkill": 64
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 177,
             "isPositive": true,
             "name": "Thunder Resistance + 5",
@@ -1529,7 +1529,7 @@
             "requiredSkill": 64
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 176,
             "isPositive": true,
             "name": "Thunder Resistance + 3",
@@ -1537,7 +1537,7 @@
             "requiredSkill": 64
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 175,
             "isPositive": false,
             "name": "Thunder Resistance - 3",
@@ -1545,7 +1545,7 @@
             "requiredSkill": 64
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 174,
             "isPositive": false,
             "name": "Thunder Resistance - 5",
@@ -1553,7 +1553,7 @@
             "requiredSkill": 64
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 173,
             "isPositive": false,
             "name": "Thunder Resistance - 10",
@@ -1564,7 +1564,7 @@
     "65": [],
     "66": [
         {
-            "category": 0,
+            "category": 7,
             "id": 179,
             "isPositive": true,
             "name": "Pro Transporter",
@@ -1574,7 +1574,7 @@
     ],
     "67": [
         {
-            "category": 0,
+            "category": 3,
             "id": 180,
             "isPositive": true,
             "name": "Negate Tremors",
@@ -1584,7 +1584,7 @@
     ],
     "68": [
         {
-            "category": 0,
+            "category": 3,
             "id": 182,
             "isPositive": true,
             "name": "Negate Vocal Chord Paralysis",
@@ -1592,7 +1592,7 @@
             "requiredSkill": 68
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 181,
             "isPositive": true,
             "name": "Halve Vocal Chord Paralysis",
@@ -1602,7 +1602,7 @@
     ],
     "69": [
         {
-            "category": 0,
+            "category": 3,
             "id": 188,
             "isPositive": true,
             "name": "Water Resistance + 10",
@@ -1610,7 +1610,7 @@
             "requiredSkill": 69
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 187,
             "isPositive": true,
             "name": "Water Resistance + 5",
@@ -1618,7 +1618,7 @@
             "requiredSkill": 69
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 186,
             "isPositive": true,
             "name": "Water Resistance + 3",
@@ -1626,7 +1626,7 @@
             "requiredSkill": 69
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 185,
             "isPositive": false,
             "name": "Water Resistance - 3",
@@ -1634,7 +1634,7 @@
             "requiredSkill": 69
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 184,
             "isPositive": false,
             "name": "Water Resistance - 5",
@@ -1642,7 +1642,7 @@
             "requiredSkill": 69
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 183,
             "isPositive": false,
             "name": "Water Resistance - 10",
@@ -1652,7 +1652,7 @@
     ],
     "70": [
         {
-            "category": 0,
+            "category": 4,
             "id": 192,
             "isPositive": true,
             "name": "Divine Whim",
@@ -1660,7 +1660,7 @@
             "requiredSkill": 70
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 191,
             "isPositive": true,
             "name": "Spirit's Whim",
@@ -1668,7 +1668,7 @@
             "requiredSkill": 70
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 190,
             "isPositive": false,
             "name": "Spectre's Whim",
@@ -1676,7 +1676,7 @@
             "requiredSkill": 70
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 189,
             "isPositive": false,
             "name": "Devil's Whim",
@@ -1686,7 +1686,7 @@
     ],
     "71": [
         {
-            "category": 0,
+            "category": 4,
             "id": 194,
             "isPositive": true,
             "name": "Wide-Range +2",
@@ -1694,7 +1694,7 @@
             "requiredSkill": 71
         },
         {
-            "category": 0,
+            "category": 4,
             "id": 193,
             "isPositive": true,
             "name": "Wide-Range +1",
@@ -1704,7 +1704,7 @@
     ],
     "72": [
         {
-            "category": 0,
+            "category": 3,
             "id": 197,
             "isPositive": true,
             "name": "Dragon-Windproof",
@@ -1712,7 +1712,7 @@
             "requiredSkill": 72
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 196,
             "isPositive": true,
             "name": "Windproof [L]",
@@ -1720,7 +1720,7 @@
             "requiredSkill": 72
         },
         {
-            "category": 0,
+            "category": 3,
             "id": 195,
             "isPositive": true,
             "name": "Windproof [S]",

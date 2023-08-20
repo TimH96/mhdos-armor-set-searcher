@@ -1,6 +1,84 @@
 import json
 
-CATEGORIES = []
+CATEGORIES = [
+    ["Status", "Expert", "Attack", "Potential", "Defense", "Protection"],
+    ["Health", "Recover Speed", "Stamina", "Hunger"],
+    ["Evasion", "Guard", "Auto-Guard"],
+    [
+        "Heat Resistance",
+        "Cold Resistance",
+        "Stun",
+        "Vocal Chords",
+        "Tremor Resistance",
+        "Terrain",
+        "Snow Resistance",
+        "Earplugs",
+        "Fire Resistance",
+        "Water Resistance",
+        "Ice Resistance",
+        "Thunder Resistance",
+        "Dragon Resistance",
+        "Element Resistance",
+        "Wind Pressure",
+        "Paralysis",
+        "Poison",
+        "Sleep",
+        "Antiseptic",
+    ],
+    [
+        "Alchemy",
+        "Wide-Range",
+        "Combo Rate",
+        "Cooking",
+        "Fishing",
+        "Lasting Power",
+        "Bomb Boost",
+        "Fisher",
+        "Eating",
+        "Whim",
+        "Gluttony",
+        "Throw",
+        "Recovery Items",
+        "Artillery",
+    ],
+    ["Sharpness", "Handicraft", "Speed Sharpening"],
+    [
+        "Normal S Up",
+        "Normal S+",
+        "Pellet S Up",
+        "Pellet S+",
+        "Pierce S Up",
+        "Pierce S+",
+        "Clust S+",
+        "Crag S+",
+        "Precision",
+        "Rapid-Fire",
+        "Recoil",
+        "Reload Speed",
+        "Ammo Maker",
+        "Load",
+    ],
+    [
+        "Sense",
+        "Psychic",
+        "Gathering",
+        "Speed Gathering",
+        "Carving",
+        "Transporter",
+        "Monster",
+        "Map",
+        "Fate",
+        "Anti-Theft",
+    ],
+]
+
+
+def find_category(skill_name: str) -> int:
+    for (i, cat) in enumerate(CATEGORIES):
+        if skill_name in cat:
+            return i
+
+    return 8
 
 
 def clean_name(s: str) -> str:
@@ -23,7 +101,7 @@ if __name__ == "__main__":
     for (id, skill) in enumerate(skills):
         # get attributes
         name = skill["name"]
-        category = 0
+        category = find_category(name)
 
         # init skill map and skill names map
         acts = []
