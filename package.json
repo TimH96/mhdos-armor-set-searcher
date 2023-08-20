@@ -1,0 +1,41 @@
+{
+  "name": "mhdos-armor-set-searcher",
+  "version": "0.0.1",
+  "description": "web-based armor set searcher for Monster Hunter Dos",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimH96/mhdos-armor-set-searcher.git"
+  },
+  "files": [
+    "data/",
+    "src/"
+  ],
+  "scripts": {
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --fix --ext .ts",
+    "start": "parcel serve src/app/pages/index.html",
+    "build": "cross-env NODE_ENV=production parcel build src/app/pages/index.html --public-url .",
+    "deploy": "gh-pages -d dist"
+  },
+  "staticFiles": {
+    "staticPath": "data",
+    "watcherGlob": "**"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "cross-env": "^5.2.0",
+    "eslint": "^8.14.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "gh-pages": "^1.2.0",
+    "parcel-bundler": "^1.9.7",
+    "parcel-plugin-static-files-copy": "^2.6.0",
+    "typescript": "^2.9.2"
+  },
+  "author": "TimH96",
+  "license": "MIT"
+}
