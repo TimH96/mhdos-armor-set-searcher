@@ -5534,26 +5534,5 @@
         },
         "slots": 2,
         "type": 2
-    },
-    {
-        "category": 3,
-        "defense": {
-            "base": 55,
-            "max": 80
-        },
-        "name": "Master Belt",
-        "rarity": 7,
-        "resistance": [
-            0,
-            2,
-            0,
-            2,
-            5
-        ],
-        "skills": {
-            "20": 5
-        },
-        "slots": 3,
-        "type": 0
     }
 ]

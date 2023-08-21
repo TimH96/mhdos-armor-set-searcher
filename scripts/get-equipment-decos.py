@@ -60,26 +60,15 @@ if __name__ == "__main__":
             if name == "None":
                 continue
             defe = piece["defense"]
+            skills = piece.get("skills", [])
 
             # skip if unacquirable
-            try:
-                piece["acquire"]
+            if piece.get("acquire", 0) or piece.get("dev", 0):
                 continue
-            except:
-                pass
 
             # get type
-            try:
-                x = piece["hunterClass"]
-                type = 1 if x == "Blademaster" else 2
-            except:
-                type = 0
-
-            # get skills
-            try:
-                skills = piece["skills"]
-            except:
-                skills = []
+            x = piece.get("hunterClass", "")
+            type = 1 if x == "Blademaster" else 2 if x == "Gunner" else 0
 
             # model and push piece
             modeled_piece = {
