@@ -5568,26 +5568,5 @@
         },
         "slots": 0,
         "type": 0
-    },
-    {
-        "category": 2,
-        "defense": {
-            "base": 55,
-            "max": 80
-        },
-        "name": "Broken Dragon Gauntlets",
-        "rarity": 7,
-        "resistance": [
-            -2,
-            0,
-            0,
-            -2,
-            5
-        ],
-        "skills": {
-            "20": 5
-        },
-        "slots": 3,
-        "type": 0
     }
 ]

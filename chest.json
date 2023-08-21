@@ -5643,27 +5643,5 @@
         },
         "slots": 1,
         "type": 0
-    },
-    {
-        "category": 1,
-        "defense": {
-            "base": 55,
-            "max": 80
-        },
-        "name": "Guild Hero Mail",
-        "rarity": 7,
-        "resistance": [
-            0,
-            2,
-            0,
-            2,
-            -5
-        ],
-        "skills": {
-            "20": 4,
-            "46": 5
-        },
-        "slots": 0,
-        "type": 0
     }
 ]
