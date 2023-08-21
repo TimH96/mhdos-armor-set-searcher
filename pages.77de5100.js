@@ -2039,7 +2039,6 @@ var findSets = function findSets(armorPieces, decorations, charms, constraints, 
   var initialArmorEval = getIntiailArmorEval(constraints.armorType);
   var wantedScore = scorer_module_1.getScoreFromSkillMap(wantedSkills, wantedSkills) - slotScoreMap.get(constraints.weaponSlots);
   var decoMinSlotMap = new DecoMinSlotMap_1.default(decorations, wantedSkills);
-  debugger;
   var skilledEquipment = armorPieces;
   skilledEquipment.push(charms);
   // score equipment
@@ -2837,7 +2836,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55905" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56581" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];
