@@ -55472,7 +55472,7 @@
       {
         "index": 56,
         "name": "Garuga Tasset",
-        "sex": "Blademaster",
+        "hunterClass": "Blademaster",
         "rarity": 5,
         "cost": 6000,
         "defense": [25, 27, 34, 38, 42],
@@ -55536,7 +55536,7 @@
       {
         "index": 57,
         "name": "Garuga Coat",
-        "sex": "Gunner",
+        "hunterClass": "Gunner",
         "rarity": 5,
         "cost": 6000,
         "defense": [12, 15, 20, 23, 25],
@@ -70392,7 +70392,7 @@
       {
         "index": 56,
         "name": "Garuga Greaves",
-        "sex": "Blademaster",
+        "hunterClass": "Blademaster",
         "rarity": 5,
         "cost": 6000,
         "defense": [25, 27, 34, 38, 42],
@@ -70456,7 +70456,7 @@
       {
         "index": 57,
         "name": "Garuga Leggings",
-        "sex": "Gunner",
+        "hunterClass": "Gunner",
         "rarity": 5,
         "cost": 6000,
         "defense": [12, 15, 20, 23, 25],
