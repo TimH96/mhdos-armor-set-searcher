@@ -66,6 +66,10 @@ if __name__ == "__main__":
             if piece.get("acquire", 0) or piece.get("dev", 0):
                 continue
 
+            # skip if only female
+            if piece.get("sex", "") == "Female":
+                continue
+
             # get type
             x = piece.get("hunterClass", "")
             type = 1 if x == "Blademaster" else 2 if x == "Gunner" else 0
